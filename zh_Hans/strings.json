@@ -1,1 +1,23 @@
-{}
+{
+    "LanguageData.APICode": "schinese",
+    "LanguageData.Font": "data/NotoSansCJKsc-Regular.otf",
+    "LanguageData.MainMenu_NewGame": "新开游戏",
+    "LanguageData.MainMenu_LoadGame": "读取存档",
+    "LanguageData.MainMenu_Options": "游戏选项",
+    "LanguageData.MainMenu_Language": "选择语言",
+    "LanguageData.MainMenu_Credits": "制作人员",
+    "LanguageData.MainMenu_Quit": "退出游戏",
+    "LanguageData.Prompt_Cancel": "取消",
+    "LanguageData.PromptQuitToDesktop_Prompt": "退出游戏回到桌面吗？",
+    "LanguageData.PromptQuitToDesktop_Quit": "退回桌面",
+    "LanguageData.PromptIngameQuit_Prompt": "你确定要退出游戏吗？未保存的进度会丢失。",
+    "LanguageData.PromptIngameQuit_Quit": "退出",
+    "LanguageData.NewGame_StandardOptions": "标准选项",
+    "LanguageData.NewGame_SandboxOptions": "沙盒选项",
+    "LanguageData.NewGame_Start": "开始",
+    "LanguageData.NewGame_Standard": "标准",
+    "LanguageData.NewGame_Sandbox": "沙盒",
+    "LanguageData.NewGame_WithTutorial": "关闭教学模式",
+    "LanguageData.NewGame_WithoutTutorial": "启用教学模式",
+    "LanguageData.NewGame_Money50K": "以$50,000起家"
+}
