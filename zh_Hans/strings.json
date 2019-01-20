@@ -19,5 +19,21 @@
     "LanguageData.NewGame_Sandbox": "沙盒",
     "LanguageData.NewGame_WithTutorial": "关闭教学模式",
     "LanguageData.NewGame_WithoutTutorial": "启用教学模式",
-    "LanguageData.NewGame_Money50K": "以$50,000起家"
+    "LanguageData.NewGame_Money50K": "以$50,000起家",
+    "LanguageData.NewGame_Money200K": "以$200,000起家",
+    "LanguageData.NewGame_MoneyUnlimited": "无限资金",
+    "LanguageData.NewGame_NormalResearch": "正常研究",
+    "LanguageData.NewGame_UnlockResearch": "解锁全部研究项目",
+    "LanguageData.NewGame_NormalBuilders": "正常建造",
+    "LanguageData.NewGame_FastBuilders": "快速建造",
+    "LanguageData.NewGame_NoRats": "没有鼠疫问题",
+    "LanguageData.NewGame_MildRats": "一般鼠疫问题",
+    "LanguageData.NewGame_SevereRats": "严重鼠疫问题",
+    "LanguageData.NewGame_NoStaffNeeds": "员工无需求",
+    "LanguageData.NewGame_StaffNeeds": "员工需要进食和如厕",
+    "LanguageData.NewGame_NoShoplifting": "没有盗窃",
+    "LanguageData.NewGame_MildShoplifting": "一般盗窃",
+    "LanguageData.NewGame_SeriousShoplifting": "严重盗窃",
+    "LanguageData.NewGame_MassiveShoplifting": "疯狂盗窃",
+    "LanguageData.NewGame_SimSpeed": "时间比例：1分钟 = %.1f秒"
 }
