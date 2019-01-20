@@ -2,6 +2,7 @@
   "LanguageData": {
     "APICode": "english",
     "Font": "data/NotoSansUI-Bold.ttf",
+    "TranslationCredits": "",
     "MainMenu_NewGame": "NEW GAME",
     "MainMenu_LoadGame": "LOAD GAME",
     "MainMenu_Options": "OPTIONS",
@@ -570,6 +571,7 @@
     "ZoneDescription_BowlingAlley": "An entertainment facility where players practice the ancient sport of ten-pin bowling.",
     "ZoneDescription_Office": "A place where office workers do administrative work, research and marketing.",
     "ZoneDescription_FineDiningRestaurant": "A restaurant where customers order at their table with waiters. High-skill cooks prefered.",
+    "ZoneDescription_Stadium": "",
     "ZoneDescription_Bar": "A business that serves alcoholic beverages, such as beer, liquor and cocktails.",
     "ZoneDescription_SecurityCenter": "An area to hire and manage security guards.",
     "ZoneDescription_CoffeeShop": "A business that serves hot beverages, donuts and pastries.",
@@ -1185,62 +1187,16 @@
     "WorkshopMenu_UpdateScenario": "UPDATE WORSKHOP SCENARIO",
     "ScenarioDemo_Title": "Burger Town",
     "ScenarioDemo_ShortDesc": "Expand the local convenience store and build a fast food restaurant for the hungry locals.",
-    "ScenarioDemo_Intro": "Welcome! &
-
-The mayor of a nearby town has offered us to take ownership of the local convenience store on the condition that we build a fast food restaurant for the ever hungry locals.
-We're only getting deliveries of dry products at the moment, we'll need to build an office and hire some office workers to research the cold chain technology.
-This will allow deliveries of fresh products which are required to run a restaurant.
-It would also be a good idea to expand the parking lot to allow more customers on site.
-While your builders build and your office workers research, add some shelves to the convenience store and sell new products to get our profits rising!
-  ",
-    "ScenarioDemo_Step1": "Nice job! &
-
-Now that we have unlocked the cold chain technology we can sell fresh produce for our customers and, more importantly, start researching restaurants!
-Don't forget to expand the parking lot, build checkout counters and hire cashiers as demand grows and more customers come to your store.
-  ",
-    "ScenarioDemo_Step2": "Great job! &
-
-We're now able to build a fast food restaurant and meet that ever growing demand for greasy high calorie food.
-No need to build too big for now, one cook and a cashier should be sufficient at first.
-Meanwhile, keep expanding the parking lot, build checkout counters and hire cashiers at the general store as more customers come and spend their hard earned money.
-  ",
-    "ScenarioDemo_Step3": "Congratulations! &
-
-Our little shopping area is certainly looking great and making a decent profit, and our fast food restaurant is delivering a steady flow of burgers.
-The mayor is delighted and the locals are well fed!
-
-What will you build next?
-  ",
+    "ScenarioDemo_Intro": "Welcome! &\r\n\r\nThe mayor of a nearby town has offered us to take ownership of the local convenience store on the condition that we build a fast food restaurant for the ever hungry locals.\r\nWe're only getting deliveries of dry products at the moment, we'll need to build an office and hire some office workers to research the cold chain technology.\r\nThis will allow deliveries of fresh products which are required to run a restaurant.\r\nIt would also be a good idea to expand the parking lot to allow more customers on site.\r\nWhile your builders build and your office workers research, add some shelves to the convenience store and sell new products to get our profits rising!\r\n  ",
+    "ScenarioDemo_Step1": "Nice job! &\r\n\r\nNow that we have unlocked the cold chain technology we can sell fresh produce for our customers and, more importantly, start researching restaurants!\r\nDon't forget to expand the parking lot, build checkout counters and hire cashiers as demand grows and more customers come to your store.\r\n  ",
+    "ScenarioDemo_Step2": "Great job! &\r\n\r\nWe're now able to build a fast food restaurant and meet that ever growing demand for greasy high calorie food.\r\nNo need to build too big for now, one cook and a cashier should be sufficient at first.\r\nMeanwhile, keep expanding the parking lot, build checkout counters and hire cashiers at the general store as more customers come and spend their hard earned money.\r\n  ",
+    "ScenarioDemo_Step3": "Congratulations! &\r\n\r\nOur little shopping area is certainly looking great and making a decent profit, and our fast food restaurant is delivering a steady flow of burgers.\r\nThe mayor is delighted and the locals are well fed!\r\n\r\nWhat will you build next?\r\n  ",
     "AbandonedMall_Title": "Abandoned Mall",
     "AbandonedMall_ShortDesc": "Revive an abandoned mall overtaken by rats and vegetation.",
-    "AbandonedMall_Intro": "Grab your hazmat suit! &
-
-You have been tasked with reviving an abandoned mall overtaken by rats and vegetation.
-The only business still open is Lance and Walter's, a Bar whose clientele seem unfazed by the nasty rodents.
-First things first, we need to stop the rat infestation from spreading any further.
-Open at least 4 maintenance centers, preferably close to where the rats are spawning, and hire a small army of builders and janitors.
-Builders will get rid of the rats and janitors will clean the dirt and garbage that caused the infestation in the first place.
-Let's get to work!
-  ",
-    "AbandonedMall_Step1": "Alright! &
-
-Our new workforce should be sufficient to handle our little rodent problem. If you feel it's not going fast enough, consider hiring some more builders.
-Meanwhile, we have to think about making money!
-Start opening shops in areas where the rats seem defeated and equipment and shelves are already there.
-You won't want to build too much until the rats are taken care of.
-  ",
-    "AbandonedMall_Step2": "Well, that's a relief! &
-
-Now that the rats are gone we can start seriously rebuilding.
-Reopen all those businesses and watch the customers flood the mall!
-We might want to fire some of our builders to avoid paying unnecessary wages...
-Time to make some serious profit!
-  ",
-    "AbandonedMall_Step3": "Amazing job! &
-
-The mall is back to life and thriving!
-And yet, surely, there is room for improvement...
-  ",
+    "AbandonedMall_Intro": "Grab your hazmat suit! &\r\n\r\nYou have been tasked with reviving an abandoned mall overtaken by rats and vegetation.\r\nThe only business still open is Lance and Walter's, a Bar whose clientele seem unfazed by the nasty rodents.\r\nFirst things first, we need to stop the rat infestation from spreading any further.\r\nOpen at least 4 maintenance centers, preferably close to where the rats are spawning, and hire a small army of builders and janitors.\r\nBuilders will get rid of the rats and janitors will clean the dirt and garbage that caused the infestation in the first place.\r\nLet's get to work!\r\n  ",
+    "AbandonedMall_Step1": "Alright! &\r\n\r\nOur new workforce should be sufficient to handle our little rodent problem. If you feel it's not going fast enough, consider hiring some more builders.\r\nMeanwhile, we have to think about making money!\r\nStart opening shops in areas where the rats seem defeated and equipment and shelves are already there.\r\nYou won't want to build too much until the rats are taken care of.\r\n  ",
+    "AbandonedMall_Step2": "Well, that's a relief! &\r\n\r\nNow that the rats are gone we can start seriously rebuilding.\r\nReopen all those businesses and watch the customers flood the mall!\r\nWe might want to fire some of our builders to avoid paying unnecessary wages...\r\nTime to make some serious profit!\r\n  ",
+    "AbandonedMall_Step3": "Amazing job! &\r\n\r\nThe mall is back to life and thriving!\r\nAnd yet, surely, there is room for improvement...\r\n  ",
     "DebugMenu_ToggleF1": "PRESS /bF1/t TO TOGGLE THE DEBUG OVERLAY",
     "NewGame_ManageMods": "MANAGE MODS",
     "ManageMods_Workshop": "FIND MODS ON THE WORKSHOP",

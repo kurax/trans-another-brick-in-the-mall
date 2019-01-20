@@ -1,0 +1,12 @@
+{
+  "name": "trans-another-brick-in-the-mall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kurax/trans-another-brick-in-the-mall.git",
+  "author": "Kurax <kurax@vip.qq.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
