@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <APICode>schinese</APICode>
+  <Font>data/NotoSansCJKsc-Regular.otf</Font>
+  <TranslationCredits>汉化：魔都KK</TranslationCredits>
+  <MainMenu_NewGame>新开游戏</MainMenu_NewGame>
+  <MainMenu_LoadGame>读取存档</MainMenu_LoadGame>
+  <MainMenu_Options>游戏选项</MainMenu_Options>
+  <MainMenu_Language>选择语言</MainMenu_Language>
+  <MainMenu_Credits>制作人员</MainMenu_Credits>
+  <MainMenu_Quit>退出游戏</MainMenu_Quit>
+  <Prompt_Cancel>取消</Prompt_Cancel>
+  <PromptQuitToDesktop_Prompt>退出游戏回到桌面吗？</PromptQuitToDesktop_Prompt>
+  <PromptQuitToDesktop_Quit>退回桌面</PromptQuitToDesktop_Quit>
+  <PromptIngameQuit_Prompt>你确定要退出游戏吗？未保存的进度会丢失。</PromptIngameQuit_Prompt>
+  <PromptIngameQuit_Quit>退出</PromptIngameQuit_Quit>
+  <NewGame_StandardOptions>标准选项</NewGame_StandardOptions>
+  <NewGame_SandboxOptions>沙盒选项</NewGame_SandboxOptions>
+  <NewGame_Start>开始</NewGame_Start>
+  <NewGame_Standard>标准</NewGame_Standard>
+  <NewGame_Sandbox>沙盒</NewGame_Sandbox>
+  <NewGame_WithTutorial>关闭教学模式</NewGame_WithTutorial>
+  <NewGame_WithoutTutorial>启用教学模式</NewGame_WithoutTutorial>
+  <NewGame_Money50K>以$50,000起家</NewGame_Money50K>
+  <NewGame_Money200K>以$200,000起家</NewGame_Money200K>
+  <NewGame_MoneyUnlimited>无限资金</NewGame_MoneyUnlimited>
+  <NewGame_NormalResearch>正常研究</NewGame_NormalResearch>
+  <NewGame_UnlockResearch>解锁全部研究项目</NewGame_UnlockResearch>
+  <NewGame_NormalBuilders>正常建造</NewGame_NormalBuilders>
+  <NewGame_FastBuilders>快速建造</NewGame_FastBuilders>
+  <NewGame_NoRats>没有鼠疫问题</NewGame_NoRats>
+  <NewGame_MildRats>一般鼠疫问题</NewGame_MildRats>
+  <NewGame_SevereRats>严重鼠疫问题</NewGame_SevereRats>
+  <NewGame_NoStaffNeeds>员工无需求</NewGame_NoStaffNeeds>
+  <NewGame_StaffNeeds>员工需要进食和如厕</NewGame_StaffNeeds>
+  <NewGame_NoShoplifting>没有盗窃</NewGame_NoShoplifting>
+  <NewGame_MildShoplifting>一般盗窃</NewGame_MildShoplifting>
+  <NewGame_SeriousShoplifting>严重盗窃</NewGame_SeriousShoplifting>
+  <NewGame_MassiveShoplifting>疯狂盗窃</NewGame_MassiveShoplifting>
+  <NewGame_SimSpeed>时间比例：1分钟 = %.1f秒</NewGame_SimSpeed>
+  <NewGame_StandardDemand>Standard demand</NewGame_StandardDemand>
+  <NewGame_RandomDemand>Random demand</NewGame_RandomDemand>
+  <NewGame_StandardPrices>Standard prices</NewGame_StandardPrices>
+  <NewGame_RandomPrices>Random prices</NewGame_RandomPrices>
+  <NewGame_DemandVariation>/bDemand variation (100 days)</NewGame_DemandVariation>
+  <NewGame_DemandAmplitude>Amplitude %.2f</NewGame_DemandAmplitude>
+  <NewGame_DemandFrequency>Frequency %.2f</NewGame_DemandFrequency>
+  <NewGame_FoundationsCost>Foundations cost: $%S</NewGame_FoundationsCost>
+  <NewGame_RoadWorkCosts>Roadwork costs: %d%%</NewGame_RoadWorkCosts>
+  <NewGame_MaintenanceCosts>Maintenance costs: %d%%</NewGame_MaintenanceCosts>
+  <NewGame_BaseSalary>Minimum salary: $%S</NewGame_BaseSalary>
+  <NewGame_BaseInterestRate>Base interest rate: %.1f%%</NewGame_BaseInterestRate>
+  <NewGame_Margins>Margins: %d%%</NewGame_Margins>
+  <NewGame_NoRandomEvents>No random events</NewGame_NoRandomEvents>
+  <NewGame_StandardRandomEvents>Standard random events</NewGame_StandardRandomEvents>
+  <NewGame_FrequentRandomEvents>Frequent random events</NewGame_FrequentRandomEvents>
+  <NewGame_ConstantRandomEvents>Constant random events</NewGame_ConstantRandomEvents>
+  <OptionsSubMenu_Video>VIDEO</OptionsSubMenu_Video>
+  <OptionsSubMenu_Sound>SOUND</OptionsSubMenu_Sound>
+  <OptionsSubMenu_Game>GAME</OptionsSubMenu_Game>
+  <OptionsSubMenu_Timelapse>TIMELAPSE</OptionsSubMenu_Timelapse>
+  <OptionsVideo_ApplyChanges>APPLY CHANGES</OptionsVideo_ApplyChanges>
+  <OptionsVideo_Windowed>Windowed</OptionsVideo_Windowed>
+  <OptionsVideo_Fullscreen>Fullscreen</OptionsVideo_Fullscreen>
+  <OptionsVideo_VSyncOff>VSync Off</OptionsVideo_VSyncOff>
+  <OptionsVideo_VSyncOn>VSync On</OptionsVideo_VSyncOn>
+  <OptionsVideo_MapSamplingVeryLow>Map Sampling: Very Low</OptionsVideo_MapSamplingVeryLow>
+  <OptionsVideo_MapSamplingLow>Map Sampling: Low</OptionsVideo_MapSamplingLow>
+  <OptionsVideo_MapSamplingHigh>Map Sampling: High</OptionsVideo_MapSamplingHigh>
+  <OptionsVideo_MapSamplingUltra>Map Sampling: Ultra</OptionsVideo_MapSamplingUltra>
+  <OptionsVideo_ShadowsOff>Shadows Off</OptionsVideo_ShadowsOff>
+  <OptionsVideo_ShadowsOn>Shadows On</OptionsVideo_ShadowsOn>
+  <OptionsVideo_ShadowsHigh>Shadows High</OptionsVideo_ShadowsHigh>
+  <OptionsSound_SoundVolume>Sound volume: %d%%</OptionsSound_SoundVolume>
+  <OptionsSound_BeepVolume>Checkout beep volume: %d%%</OptionsSound_BeepVolume>
+  <OptionsSound_FlushVolume>Toilet flush volume: %d%%</OptionsSound_FlushVolume>
+  <OptionsSound_CarDoorVolume>Car door volume: %d%%</OptionsSound_CarDoorVolume>
+  <OptionsSound_AlarmVolume>Alarm volume: %d%%</OptionsSound_AlarmVolume>
+  <OptionsSound_BuilderVolume>Builder volume: %d%%</OptionsSound_BuilderVolume>
+  <OptionsGame_TextScale>Text scale: %d%% (experimental, will overlap UI)</OptionsGame_TextScale>
+  <OptionsGame_MaxThreads>Max pathfinding threads: %d</OptionsGame_MaxThreads>
+  <OptionsGame_MaxThreadsTooltip>Try to set this lower if you experience freezes during heavy traffic. </OptionsGame_MaxThreadsTooltip>
+  <OptionsGame_Notifications>/bNotifications</OptionsGame_Notifications>
+  <OptionsGame_Queues>Queues</OptionsGame_Queues>
+  <OptionsGame_Squalor>Squalor</OptionsGame_Squalor>
+  <OptionsGame_Restrooms>Restrooms</OptionsGame_Restrooms>
+  <OptionsGame_Restaurants>Restaurants</OptionsGame_Restaurants>
+  <OptionsGame_Parking>Parking</OptionsGame_Parking>
+  <OptionsGame_Rats>Rats</OptionsGame_Rats>
+  <OptionsGame_Stock>Stock</OptionsGame_Stock>
+  <OptionsGame_Prompts>/bPrompts</OptionsGame_Prompts>
+  <OptionsGame_PromptObjectives>Objectives</OptionsGame_PromptObjectives>
+  <OptionsGame_PromptResearch>Research</OptionsGame_PromptResearch>
+  <OptionsGame_Prompt>Prompt</OptionsGame_Prompt>
+  <OptionsGame_NoPrompt>Do not prompt</OptionsGame_NoPrompt>
+  <OptionsGame_EdgeScrollingOff>Screen Edge Scrolling Off</OptionsGame_EdgeScrollingOff>
+  <OptionsGame_EdgeScrollingOn>Screen Edge Scrolling On</OptionsGame_EdgeScrollingOn>
+  <OptionsGame_NotificationsAlways>Always</OptionsGame_NotificationsAlways>
+  <OptionsGame_NotificationsMoreThan10>More than 10</OptionsGame_NotificationsMoreThan10>
+  <OptionsGame_NotificationsMoreThan100>More than 100</OptionsGame_NotificationsMoreThan100>
+  <OptionsGame_NotificationsMoreThan1000>More than 1000</OptionsGame_NotificationsMoreThan1000>
+  <OptionsGame_NotificationsNever>Never</OptionsGame_NotificationsNever>
+  <OptionsGame_FlushedPathfinding>Flushed pathfinding - Variable framerate</OptionsGame_FlushedPathfinding>
+  <OptionsGame_QueuedPathfinding>Queued pathfinding - Smooth framerate</OptionsGame_QueuedPathfinding>
+  <OptionsTimelapse_Mode>Timelapse mode</OptionsTimelapse_Mode>
+  <OptionsTimelapse_Frame>Capture frame</OptionsTimelapse_Frame>
+  <OptionsTimelapse_Interval>Capture every %d in game minutes</OptionsTimelapse_Interval>
+  <OptionsTimelapse_JpegQuality>Jpeg quality: %d</OptionsTimelapse_JpegQuality>
+  <OptionsTimelapse_ModeOff>Off</OptionsTimelapse_ModeOff>
+  <OptionsTimelapse_ModeJPG>JPG</OptionsTimelapse_ModeJPG>
+  <OptionsTimelapse_ModePNG>PNG</OptionsTimelapse_ModePNG>
+  <OptionsTimelapse_FrameWhole>Whole map</OptionsTimelapse_FrameWhole>
+  <OptionsTimelapse_FrameAdaptative>Adaptative</OptionsTimelapse_FrameAdaptative>
+  <OptionsTimelapse_FrameUser>User screen</OptionsTimelapse_FrameUser>
+  <OptionsTwitch_EnterChannel>/bEnter the Twitch channel name in lowercase</OptionsTwitch_EnterChannel>
+  <OptionsTwitch_UsersInChat>/b%d users found in Twitch chat</OptionsTwitch_UsersInChat>
+  <Options_Back>BACK</Options_Back>
+  <LanguageMenu_SelectLanguage>Select a Language</LanguageMenu_SelectLanguage>
+  <LanguageMenu_LoadLanguage>LOAD LANGUAGE</LanguageMenu_LoadLanguage>
+  <LanguageMenu_Workshop>FIND NEW LANGUAGES ON THE WORKSHOP</LanguageMenu_Workshop>
+  <MenuNavigation_Back>BACK</MenuNavigation_Back>
+  <MenuNavigation_Cancel>CANCEL</MenuNavigation_Cancel>
+  <MenuNavigation_Done>DONE</MenuNavigation_Done>
+  <MenuNavigation_Close>CLOSE</MenuNavigation_Close>
+  <MenuNavigation_OK>OK</MenuNavigation_OK>
+  <InGameMenu_ResumeGame>RESUME GAME</InGameMenu_ResumeGame>
+  <InGameMenu_SaveGame>SAVE GAME</InGameMenu_SaveGame>
+  <InGameMenu_LoadGame>LOAD GAME</InGameMenu_LoadGame>
+  <InGameMenu_UploadToWorkshop>UPLOAD TO STEAM WORKSHOP</InGameMenu_UploadToWorkshop>
+  <InGameMenu_Options>OPTIONS</InGameMenu_Options>
+  <InGameMenu_QuitToMain>QUIT TO MAIN MENU</InGameMenu_QuitToMain>
+  <PromptOverwriteSave_Prompt>The file /b%S /talready exists. Do you want to overwrite it?</PromptOverwriteSave_Prompt>
+  <PromptOverwriteSave_Overwrite>OVERWRITE</PromptOverwriteSave_Overwrite>
+  <PromptDeleteSave_Prompt>Do you want to delete /b%s/t?</PromptDeleteSave_Prompt>
+  <PromptDeleteSave_Delete>DELETE</PromptDeleteSave_Delete>
+  <Game_RenameZone>Rename zone</Game_RenameZone>
+  <LoadGameMenu_SelectFile>Select a save file</LoadGameMenu_SelectFile>
+  <LoadGameMenu_LoadGame>LOAD GAME</LoadGameMenu_LoadGame>
+  <LoadGameMenu_DeleteSave>DELETE SAVE FILE</LoadGameMenu_DeleteSave>
+  <LoadGameMenu_OpenSaveFolder>OPEN SAVE FOLDER IN EXPLORER</LoadGameMenu_OpenSaveFolder>
+  <LoadGameMenu_DeleteUnsubscribe>DELETE AND UNSUBSCRIBE</LoadGameMenu_DeleteUnsubscribe>
+  <SaveGameMenu_EnterSaveName>Enter save file name</SaveGameMenu_EnterSaveName>
+  <SaveGameMenu_SaveGame>SAVE GAME</SaveGameMenu_SaveGame>
+  <WorkshopMenu_EnterName>Enter a new workshop item name</WorkshopMenu_EnterName>
+  <WorkshopMenu_UploadNewMall>UPLOAD NEW MALL TO WORSKHOP</WorkshopMenu_UploadNewMall>
+  <WorkshopMenu_UpdateExistingItem>or update an existing workshop item</WorkshopMenu_UpdateExistingItem>
+  <WorkshopMenu_UpdateMall>UPDATE WORKSHOP MALL</WorkshopMenu_UpdateMall>
+  <GameMenus_Statistics>STATISTICS</GameMenus_Statistics>
+  <GameMenus_Finance>FINANCE</GameMenus_Finance>
+  <GameMenus_Research>RESEARCH</GameMenus_Research>
+  <GameMenus_Needs>DEMAND</GameMenus_Needs>
+  <GameMenus_Marketing>MARKETING</GameMenus_Marketing>
+  <GameMenuStats_Scope>Scope: last %d days</GameMenuStats_Scope>
+  <GameMenuStats_Comparison>Comparison mode</GameMenuStats_Comparison>
+  <GameMenuFinance_DaysAverage>%d days average</GameMenuFinance_DaysAverage>
+  <GameMenuFinance_Yesterday>Yesterday</GameMenuFinance_Yesterday>
+  <GameMenuFinance_Today>Today (ongoing)</GameMenuFinance_Today>
+  <GameMenuFinance_Maintenance>Maintenance</GameMenuFinance_Maintenance>
+  <GameMenuFinance_Salaries>Salaries</GameMenuFinance_Salaries>
+  <GameMenuFinance_Debt>Debt</GameMenuFinance_Debt>
+  <GameMenuFinance_GrossProfit>Gross profit</GameMenuFinance_GrossProfit>
+  <GameMenuFinance_NetProfit>Net profit</GameMenuFinance_NetProfit>
+  <GameMenuFinance_ProfitLast100Days>Profit over the last 100 days</GameMenuFinance_ProfitLast100Days>
+  <GameMenuFinance_LoanRemaining>Remaining duration: %d days</GameMenuFinance_LoanRemaining>
+  <GameMenuFinance_DailyDebt>Daily debt: $%S</GameMenuFinance_DailyDebt>
+  <GameMenuFinance_InterestRate>Interest rate: %.2f%%</GameMenuFinance_InterestRate>
+  <GameMenuFinance_RemainingDebt>Remaining debt: $%S</GameMenuFinance_RemainingDebt>
+  <GameMenuFinance_IncludingInterest>Including interest: $%S</GameMenuFinance_IncludingInterest>
+  <GameMenuFinance_PayOffEarly>PAY OFF EARLY</GameMenuFinance_PayOffEarly>
+  <GameMenuFinance_LoanDuration>Loan duration: %d days</GameMenuFinance_LoanDuration>
+  <GameMenuFinance_AmountLoaned>Amount loaned: $%S</GameMenuFinance_AmountLoaned>
+  <GameMenuFinance_Interest>Interest: $%S</GameMenuFinance_Interest>
+  <GameMenuFinance_TakeOutLoan>TAKE OUT LOAN</GameMenuFinance_TakeOutLoan>
+  <GameMenuFinance_MustHaveAverageProfit>You must have at least $200 average profit over &the last 10 days to take out a loan.</GameMenuFinance_MustHaveAverageProfit>
+  <GameMenuResearch_NotMakingProgress>You are not making any research progress at the moment.</GameMenuResearch_NotMakingProgress>
+  <GameMenuResearch_BuildAnOffice>Build an office and hire office workers to get things rolling.</GameMenuResearch_BuildAnOffice>
+  <GameMenuResearch_NotResearching>You are not researching any project at the moment.</GameMenuResearch_NotResearching>
+  <GameMenuResearch_CurrentlyEmploying>/bYou are currently employing %d office workers,</GameMenuResearch_CurrentlyEmploying>
+  <GameMenuResearch_AverageDailyProgress>/bwith an average daily progress of %.1f man-hours.</GameMenuResearch_AverageDailyProgress>
+  <GameMenuResearch_ProjectType>Project type:</GameMenuResearch_ProjectType>
+  <GameMenuResearch_Prerequisites>Prerequisite(s):</GameMenuResearch_Prerequisites>
+  <GameMenuResearch_None>none</GameMenuResearch_None>
+  <GameMenuResearch_Status>Status:</GameMenuResearch_Status>
+  <GameMenuResearch_ManHours>%d/%d man-hours</GameMenuResearch_ManHours>
+  <GameMenuResearch_Description>Description:</GameMenuResearch_Description>
+  <GameMenuResearch_CompletedProject>/bYou have completed this project</GameMenuResearch_CompletedProject>
+  <GameMenuResearch_NoPrerequisites>/bYou don't have the prerequisite(s) to research this project</GameMenuResearch_NoPrerequisites>
+  <GameMenuResearch_ResearchingProject>/bYou are researching this project (%d man-hours left)</GameMenuResearch_ResearchingProject>
+  <GameMenuResearch_ResearchThisProject>RESEARCH THIS PROJECT</GameMenuResearch_ResearchThisProject>
+  <GameMenuNeeds_UnlockMonitoring>Research the 'Sales Monitoring' project to access &sales and demand data.</GameMenuNeeds_UnlockMonitoring>
+  <GameMenuNeeds_Filter>/bFilter</GameMenuNeeds_Filter>
+  <GameMenuNeeds_OnDisplay>On display: /b%d</GameMenuNeeds_OnDisplay>
+  <GameMenuNeeds_TodaysSales>Today's sales: /b%d</GameMenuNeeds_TodaysSales>
+  <GameMenuNeeds_YesterdaysSales>Yesterday's sales: /b%d</GameMenuNeeds_YesterdaysSales>
+  <GameMenuNeeds_Demand>Demand: /b%d</GameMenuNeeds_Demand>
+  <GameMenuNeeds_DemandAndSales>/bDemand and sales by quality tier</GameMenuNeeds_DemandAndSales>
+  <GameMenuNeeds_Tier1>/bTier 1</GameMenuNeeds_Tier1>
+  <GameMenuNeeds_Tier2>/bTier 2</GameMenuNeeds_Tier2>
+  <GameMenuNeeds_Tier3>/bTier 3</GameMenuNeeds_Tier3>
+  <GameMenuNeeds_Sell>Sell /b%s</GameMenuNeeds_Sell>
+  <GameMenuNeeds_InAStore>in a store with over 50%%</GameMenuNeeds_InAStore>
+  <GameMenuNeeds_OfProduct>of /b%s</GameMenuNeeds_OfProduct>
+  <GameMenuNeeds_ToSatisfyDemand>to satisfy this demand.</GameMenuNeeds_ToSatisfyDemand>
+  <GameMenuNeeds_UnlockMarketing>Research the 'Marketing' projects to run marketing campaings.</GameMenuNeeds_UnlockMarketing>
+  <GameHireMenu_JobInterview>%ls Job Interview</GameHireMenu_JobInterview>
+  <GameHireMenu_UnlockRoad>/bUnlock and buy new road accesses to have&/bmore job applicants to choose from.</GameHireMenu_UnlockRoad>
+  <GameHireMenu_FiredDaysAgo>/bfired %d days ago</GameHireMenu_FiredDaysAgo>
+  <GameHireMenu_Hire>HIRE</GameHireMenu_Hire>
+  <GameHireMenu_AutoClose>Auto close menu (Single hire)</GameHireMenu_AutoClose>
+  <GameHireMenu_MultipleHires>Keep menu open (Multiple hires)</GameHireMenu_MultipleHires>
+  <GameHireMenu_CurrentWorkforce>Current workforce: %d</GameHireMenu_CurrentWorkforce>
+  <GameHireMenu_StartOpening>Default starting hour (opening)</GameHireMenu_StartOpening>
+  <GameHireMenu_StartManual>Set starting hour</GameHireMenu_StartManual>
+  <ActorType_Customer>Customer</ActorType_Customer>
+  <ActorType_Delivery>Delivery</ActorType_Delivery>
+  <ActorType_Cashier>Cashier</ActorType_Cashier>
+  <ActorType_StockClerk>Stock Clerk</ActorType_StockClerk>
+  <ActorType_Janitor>Janitor</ActorType_Janitor>
+  <ActorType_Cook>Cook</ActorType_Cook>
+  <ActorType_Builder>Builder</ActorType_Builder>
+  <ActorType_GarbageCollection>Garbage Collection</ActorType_GarbageCollection>
+  <ActorType_Security>Guard</ActorType_Security>
+  <ActorType_OfficeWorker>Office Worker</ActorType_OfficeWorker>
+  <ActorType_Waiter>Waiter</ActorType_Waiter>
+  <ComboFilter_All>All</ComboFilter_All>
+  <ActorCharac_Speed>Speed</ActorCharac_Speed>
+  <ActorCharac_Patience>Patience</ActorCharac_Patience>
+  <ActorCharac_Sociability>Sociability</ActorCharac_Sociability>
+  <ActorSkill_Cashier>Cashier</ActorSkill_Cashier>
+  <ActorSkill_StockClerk>Stock Clerk</ActorSkill_StockClerk>
+  <ActorSkill_Janitor>Janitor</ActorSkill_Janitor>
+  <ActorSkill_Cook>Cook</ActorSkill_Cook>
+  <ActorSkill_Builder>Builder</ActorSkill_Builder>
+  <ActorSkill_OfficeWork>Office Work</ActorSkill_OfficeWork>
+  <ActorSkill_Security>Security</ActorSkill_Security>
+  <ActorSkill_Waiter>Waitering</ActorSkill_Waiter>
+  <ActorStatus_Satisfaction>Satisfaction</ActorStatus_Satisfaction>
+  <ActorStatus_Hunger>Hunger</ActorStatus_Hunger>
+  <ActorStatus_Bladder>Bladder</ActorStatus_Bladder>
+  <ActorStatus_Nausea>Nausea</ActorStatus_Nausea>
+  <ActorCharacDesc_Speed>/tSpeed determines the walking speed of all characters &It also determines customers' checkout time </ActorCharacDesc_Speed>
+  <ActorCharacDesc_Patience>/tPatience determines at which rate customers' satisfaction decays while queueing </ActorCharacDesc_Patience>
+  <ActorCharacDesc_Sociability>/tSociability determines the ability for cashiers to cheer up customers at checkout, and the customers' response to it (eg: if either's sociability is close to zero, the cheering up will be null) </ActorCharacDesc_Sociability>
+  <ActorSkillDesc_Cashier>/tThe cashier skill determines the speed at which cashiers process checkouts </ActorSkillDesc_Cashier>
+  <ActorSkillDesc_StockClerk>/tThe stock clerk skill determines the speed at which stock clerks deliver stock </ActorSkillDesc_StockClerk>
+  <ActorSkillDesc_Janitor>/tThe janitor skill determines the speed at which janitors clean </ActorSkillDesc_Janitor>
+  <ActorSkillDesc_Cook>/tThe cook skill determines the speed at which cooks cook </ActorSkillDesc_Cook>
+  <ActorSkillDesc_Builder>/tThe builder skill determines the speed at which builders build </ActorSkillDesc_Builder>
+  <ActorSkillDesc_OfficeWork>/tThe office work skill determines the speed at which office workers research </ActorSkillDesc_OfficeWork>
+  <ActorSkillDesc_Security>/tThe security skill determines the speed at which guards chase thieves </ActorSkillDesc_Security>
+  <ActorSkillDesc_Waiter>/tThe waitering skill determines the speed at which waiters serve customers </ActorSkillDesc_Waiter>
+  <ActorStatusDesc_Satisfaction>/tFor customers: &Waiting in queues, products availability and squalor all affect your customers' satisfaction &For staff: &Salary determines staff satisfaction, and in turn satisfaction affects general staff efficiency </ActorStatusDesc_Satisfaction>
+  <ActorStatusDesc_Hunger>/tHungry customers will go home if no restaurants are available at your center </ActorStatusDesc_Hunger>
+  <ActorStatusDesc_Bladder>/tCustomers with a full bladder will go home if no restrooms are available at your center </ActorStatusDesc_Bladder>
+  <ActorStatusDesc_Nausea>/tNauseated customers will leave your center &Additionally, satisfaction cannot be higher than inverse nausea </ActorStatusDesc_Nausea>
+  <ActorPanel_ToggleLog>Toggle log display </ActorPanel_ToggleLog>
+  <ActorPanel_StuckinTraffic>stuck in traffic</ActorPanel_StuckinTraffic>
+  <ActorPanel_AtHome>at home</ActorPanel_AtHome>
+  <ActorPanel_WillComeToWorkInHours>will come to work in %d hours</ActorPanel_WillComeToWorkInHours>
+  <ActorPanel_Fire>FIRE</ActorPanel_Fire>
+  <ActorPanel_Manage>MANAGE</ActorPanel_Manage>
+  <ActorPanel_Follow>FOLLOW</ActorPanel_Follow>
+  <ActorPanel_Following>FOLLOWING</ActorPanel_Following>
+  <ActorPanel_Find>FIND</ActorPanel_Find>
+  <ActorPanel_Characteristics>/bCharacteristics</ActorPanel_Characteristics>
+  <ActorPanel_Status>/bStatus</ActorPanel_Status>
+  <ActorPanel_Skills>/bSkills</ActorPanel_Skills>
+  <ActorPanel_Traits>/bTraits</ActorPanel_Traits>
+  <ActorPanel_Transfer>Transfer staff to another job </ActorPanel_Transfer>
+  <BreakPolicy_BreakPolicy>Break policy</BreakPolicy_BreakPolicy>
+  <BreakPolicy_Default>Default staff break policy</BreakPolicy_Default>
+  <BreakPolicy_AsNeeded>As needed</BreakPolicy_AsNeeded>
+  <BreakPolicy_WhenNotBusy>When not busy</BreakPolicy_WhenNotBusy>
+  <BreakPolicy_Never>Never</BreakPolicy_Never>
+  <BreakPolicy_Set>SET STAFF BREAK POLICIES</BreakPolicy_Set>
+  <BreakPolicy_SetDefault>SET DEFAULT STAFF BREAK POLICIES</BreakPolicy_SetDefault>
+  <BreakPolicy_ApplyToAll>APPLY TO ALL</BreakPolicy_ApplyToAll>
+  <ActorGameStatus_error>error</ActorGameStatus_error>
+  <ActorGameStatus_atwork>at work</ActorGameStatus_atwork>
+  <ActorGameStatus_fillingstorage>filling storage</ActorGameStatus_fillingstorage>
+  <ActorGameStatus_fetchingstock>fetching stock</ActorGameStatus_fetchingstock>
+  <ActorGameStatus_fillingshelves>filling shelves</ActorGameStatus_fillingshelves>
+  <ActorGameStatus_cleaning>cleaning</ActorGameStatus_cleaning>
+  <ActorGameStatus_hangingaround>hanging around</ActorGameStatus_hangingaround>
+  <ActorGameStatus_lookingfor>looking for</ActorGameStatus_lookingfor>
+  <ActorGameStatus_browsing>browsing</ActorGameStatus_browsing>
+  <ActorGameStatus_queueing>queueing</ActorGameStatus_queueing>
+  <ActorGameStatus_spectating>spectating</ActorGameStatus_spectating>
+  <ActorGameStatus_goinghome>going home</ActorGameStatus_goinghome>
+  <ActorGameStatus_cooking>cooking</ActorGameStatus_cooking>
+  <ActorGameStatus_onthewaytowork>on the way to work</ActorGameStatus_onthewaytowork>
+  <ActorGameStatus_eating>eating</ActorGameStatus_eating>
+  <ActorGameStatus_goingforN2>going for N°2</ActorGameStatus_goingforN2>
+  <ActorGameStatus_doingonesduty>doing one's duty</ActorGameStatus_doingonesduty>
+  <ActorGameStatus_washinghands>washing hands</ActorGameStatus_washinghands>
+  <ActorGameStatus_bowling>bowling</ActorGameStatus_bowling>
+  <ActorGameStatus_fetchingmeal>fetching order</ActorGameStatus_fetchingmeal>
+  <ActorGameStatus_bringingmeal>bringing order</ActorGameStatus_bringingmeal>
+  <ActorGameStatus_working>working</ActorGameStatus_working>
+  <ActorGameStatus_collectingtrashandlitter>collecting trash and litter</ActorGameStatus_collectingtrashandlitter>
+  <ActorGameStatus_storingtrash>storing trash</ActorGameStatus_storingtrash>
+  <ActorGameStatus_collectingtrash>collecting trash</ActorGameStatus_collectingtrash>
+  <ActorGameStatus_bringingtrashtotruck>bringing trash to truck</ActorGameStatus_bringingtrashtotruck>
+  <ActorGameStatus_goingtoworkstation>going to work station</ActorGameStatus_goingtoworkstation>
+  <ActorGameStatus_goingto>going to</ActorGameStatus_goingto>
+  <ActorGameStatus_goingtoabusstop>going to a bus stop</ActorGameStatus_goingtoabusstop>
+  <ActorGameStatus_waitingforbus>waiting for bus</ActorGameStatus_waitingforbus>
+  <ActorGameStatus_doingofficework>doing office work</ActorGameStatus_doingofficework>
+  <ActorGameStatus_goingtoplayagame>going to play a game</ActorGameStatus_goingtoplayagame>
+  <ActorGameStatus_playingagame>playing a game</ActorGameStatus_playingagame>
+  <ActorGameStatus_lookingforavendingmachine>looking for a vending machine</ActorGameStatus_lookingforavendingmachine>
+  <ActorGameStatus_buyingasnack>buying a snack</ActorGameStatus_buyingasnack>
+  <ActorGameStatus_lookingforanATM>looking for an ATM</ActorGameStatus_lookingforanATM>
+  <ActorGameStatus_withdrawingmoney>withdrawing money</ActorGameStatus_withdrawingmoney>
+  <ActorGameStatus_waitingtoorder>waiting to order</ActorGameStatus_waitingtoorder>
+  <ActorGameStatus_waitingformeal>waiting for order</ActorGameStatus_waitingformeal>
+  <ActorGameStatus_waitingforbill>waiting for bill</ActorGameStatus_waitingforbill>
+  <ActorGameStatus_gettingorder>getting order</ActorGameStatus_gettingorder>
+  <ActorGameStatus_gointobench>looking for a bench</ActorGameStatus_gointobench>
+  <ActorGameStatus_relaxing>relaxing</ActorGameStatus_relaxing>
+  <ActorGameStatus_drinking>having a drink</ActorGameStatus_drinking>
+  <ActorGameStatus_goingtopatrol>going to patrol</ActorGameStatus_goingtopatrol>
+  <ActorGameStatus_patrolling>patrolling</ActorGameStatus_patrolling>
+  <ActorGameStatus_chasingthief>chasing thief</ActorGameStatus_chasingthief>
+  <ActorGameStatus_recoveringitem>recovering item</ActorGameStatus_recoveringitem>
+  <ActorGameStatus_breakingfight>breaking a fight</ActorGameStatus_breakingfight>
+  <ActorGameStatus_surrendering>surrendering item</ActorGameStatus_surrendering>
+  <ActorGameStatus_recycling>recycling</ActorGameStatus_recycling>
+  <ActorLog_error>error</ActorLog_error>
+  <ActorLog_Foundaparkingspot>Found a parking spot</ActorLog_Foundaparkingspot>
+  <ActorLog_Lookingfor>Looking for %ls &at %ls</ActorLog_Lookingfor>
+  <ActorLog_Browsing>Browsing %ls &at %ls</ActorLog_Browsing>
+  <ActorLog_Queueingfor>Queueing for %ls &at %ls</ActorLog_Queueingfor>
+  <ActorLog_Bought>Bought %ls &at %ls</ActorLog_Bought>
+  <ActorLog_Spectatingamovieat>Spectating a movie at %ls</ActorLog_Spectatingamovieat>
+  <ActorLog_Eatinga>Eating a %ls meal &at %ls</ActorLog_Eatinga>
+  <ActorLog_Couldntfind>Couldn't find %ls &at %ls</ActorLog_Couldntfind>
+  <ActorLog_Queuesfullat>Queues full at %ls, &leaving</ActorLog_Queuesfullat>
+  <ActorLog_Goinghome>Going home</ActorLog_Goinghome>
+  <ActorLog_Goinghomestink>Going home, making a stink</ActorLog_Goinghomestink>
+  <ActorLog_Goinghomefilth>Going home, sickened by the filth</ActorLog_Goinghomefilth>
+  <ActorLog_Urgentlyhungry>Urgently hungry, but restaurants are full</ActorLog_Urgentlyhungry>
+  <ActorLog_Needstogo>Needs to go, but restrooms are full</ActorLog_Needstogo>
+  <ActorLog_Goingtotoilet>Going to toilet &at %ls</ActorLog_Goingtotoilet>
+  <ActorLog_Foundatoilet>Found a toilet &at %ls</ActorLog_Foundatoilet>
+  <ActorLog_Goingtowork>Going to work &at %ls</ActorLog_Goingtowork>
+  <ActorLog_Arrivedatwork>Arrived at work &at %ls</ActorLog_Arrivedatwork>
+  <ActorLog_Couldntresist>Couldn't resist %ls &at %ls</ActorLog_Couldntresist>
+  <ActorLog_Goingtoplayagame>Going to play a game</ActorLog_Goingtoplayagame>
+  <ActorLog_Playingagame>Playing a game</ActorLog_Playingagame>
+  <ActorLog_Lookingforavendingmachine>Looking for a vending machine</ActorLog_Lookingforavendingmachine>
+  <ActorLog_Buyingasnack>Buying a snack</ActorLog_Buyingasnack>
+  <ActorLog_LookingforanATM>Looking for an ATM</ActorLog_LookingforanATM>
+  <ActorLog_Withdrawingmoney>Withdrawing money</ActorLog_Withdrawingmoney>
+  <ActorLog_Goingtobench>Looking for a bench</ActorLog_Goingtobench>
+  <ActorLog_relaxing>Relaxing</ActorLog_relaxing>
+  <ActorLog_drinking>Having a drink &at %ls</ActorLog_drinking>
+  <ActorLog_goingtopatrol>Going to patrol</ActorLog_goingtopatrol>
+  <ActorLog_patrolling>Patrolling</ActorLog_patrolling>
+  <ActorLog_chasingthief>Chasing thief</ActorLog_chasingthief>
+  <ActorLog_recoveringitem>Recovering item from thief</ActorLog_recoveringitem>
+  <ActorLog_breakingfight>Breaking a fight</ActorLog_breakingfight>
+  <ActorLog_surrendering>Surrendering stolen item</ActorLog_surrendering>
+  <ActorLog_stole>Stole %ls &at %ls</ActorLog_stole>
+  <TraitName_Alcoholic>Alcoholic</TraitName_Alcoholic>
+  <TraitDesc_Alcoholic>Can't resist liquor, beer and wine </TraitDesc_Alcoholic>
+  <TraitName_Sweettooth>Sweet tooth</TraitName_Sweettooth>
+  <TraitDesc_Sweettooth>Can't resist soda, candies, cookies and ice cream </TraitDesc_Sweettooth>
+  <TraitName_Gamer>Gamer</TraitName_Gamer>
+  <TraitDesc_Gamer>Can't resist video games and consoles </TraitDesc_Gamer>
+  <TraitName_Techaddict>Tech addict</TraitName_Techaddict>
+  <TraitDesc_Techaddict>Can't resist Laptops, smartphones and tablets </TraitDesc_Techaddict>
+  <TraitName_Cameraenthusiast>Camera enthusiast</TraitName_Cameraenthusiast>
+  <TraitDesc_Cameraenthusiast>Can't resist cameras </TraitDesc_Cameraenthusiast>
+  <TraitName_Brickaddict>Brick addict</TraitName_Brickaddict>
+  <TraitDesc_Brickaddict>Can't resist brick based toys </TraitDesc_Brickaddict>
+  <TraitName_Shoescollector>Shoes collector</TraitName_Shoescollector>
+  <TraitDesc_Shoescollector>Can't resist shoes </TraitDesc_Shoescollector>
+  <TraitName_Fashionvictim>Fashion victim</TraitName_Fashionvictim>
+  <TraitDesc_Fashionvictim>Can't resist dresses, shirts, jackets and coats </TraitDesc_Fashionvictim>
+  <TraitName_Bookworm>Bookworm</TraitName_Bookworm>
+  <TraitDesc_Bookworm>Can't resist books </TraitDesc_Bookworm>
+  <TraitName_Carnivore>Carnivore</TraitName_Carnivore>
+  <TraitDesc_Carnivore>Can't resist fresh meat </TraitDesc_Carnivore>
+  <TraitName_Piscivore>Piscivore</TraitName_Piscivore>
+  <TraitDesc_Piscivore>Can't resist fresh fish </TraitDesc_Piscivore>
+  <TraitName_Neatfreak>Neat freak</TraitName_Neatfreak>
+  <TraitDesc_Neatfreak>Can't resist detergent &Gets nauseous twice as fast &Bonus janitor skill </TraitDesc_Neatfreak>
+  <TraitName_Moviebuff>Movie buff</TraitName_Moviebuff>
+  <TraitDesc_Moviebuff>Chain watches movies at theaters &Can't resist DVDs and Blurays </TraitDesc_Moviebuff>
+  <TraitName_Musiclover>Music lover</TraitName_Musiclover>
+  <TraitDesc_Musiclover>Can't resist MP3 players and Music CDs </TraitDesc_Musiclover>
+  <TraitName_Glutton>Glutton</TraitName_Glutton>
+  <TraitDesc_Glutton>Hunger can't go below 50 and rises twice as fast </TraitDesc_Glutton>
+  <TraitName_Ascetic>Ascetic</TraitName_Ascetic>
+  <TraitDesc_Ascetic>Hunger is capped at 50 </TraitDesc_Ascetic>
+  <TraitName_Incontinent>Incontinent</TraitName_Incontinent>
+  <TraitDesc_Incontinent>Bladder can't go below 50 and rises twice as fast &Can't resist diapers </TraitDesc_Incontinent>
+  <TraitName_Constipated>Constipated</TraitName_Constipated>
+  <TraitDesc_Constipated>Bladder is capped at 50 </TraitDesc_Constipated>
+  <TraitName_Weakstomach>Weak stomach</TraitName_Weakstomach>
+  <TraitDesc_Weakstomach>Nausea can't go below 50 and rises twice as fast </TraitDesc_Weakstomach>
+  <TraitName_Strongstomach>Strong stomach</TraitName_Strongstomach>
+  <TraitDesc_Strongstomach>Nausea is capped at 50 </TraitDesc_Strongstomach>
+  <TraitName_Restless>Restless</TraitName_Restless>
+  <TraitDesc_Restless>Patience has a -50 penalty </TraitDesc_Restless>
+  <TraitName_Laid-back>Laid-back</TraitName_Laid-back>
+  <TraitDesc_Laid-back>Patience has a +50 bonus </TraitDesc_Laid-back>
+  <TraitName_Swift>Swift</TraitName_Swift>
+  <TraitDesc_Swift>Speed has a +50 bonus </TraitDesc_Swift>
+  <TraitName_Sluggish>Sluggish</TraitName_Sluggish>
+  <TraitDesc_Sluggish>Speed has a -50 penalty </TraitDesc_Sluggish>
+  <TraitName_Affable>Affable</TraitName_Affable>
+  <TraitDesc_Affable>Sociability has a +50 bonus </TraitDesc_Affable>
+  <TraitName_Irritable>Irritable</TraitName_Irritable>
+  <TraitDesc_Irritable>Sociability has a -50 penalty </TraitDesc_Irritable>
+  <TraitName_Formercashier>Former cashier</TraitName_Formercashier>
+  <TraitDesc_Formercashier>Bonus cashier experience </TraitDesc_Formercashier>
+  <TraitName_Formerjanitor>Former janitor</TraitName_Formerjanitor>
+  <TraitDesc_Formerjanitor>Bonus janitor experience </TraitDesc_Formerjanitor>
+  <TraitName_Formerstockclerk>Former stock clerk</TraitName_Formerstockclerk>
+  <TraitDesc_Formerstockclerk>Bonus stock clerk experience </TraitDesc_Formerstockclerk>
+  <TraitName_Formerguard>Former guard</TraitName_Formerguard>
+  <TraitDesc_Formerguard>Bonus security experience </TraitDesc_Formerguard>
+  <TraitName_Formercook>Former cook</TraitName_Formercook>
+  <TraitDesc_Formercook>Bonus cook experience </TraitDesc_Formercook>
+  <TraitName_Formerbuilder>Former builder</TraitName_Formerbuilder>
+  <TraitDesc_Formerbuilder>Bonus builder experience </TraitDesc_Formerbuilder>
+  <TraitName_Formerofficeworker>Former office worker</TraitName_Formerofficeworker>
+  <TraitDesc_Formerofficeworker>Bonus office worker experience </TraitDesc_Formerofficeworker>
+  <TraitName_Formerwaiter>Former waiter</TraitName_Formerwaiter>
+  <TraitDesc_Formerwaiter>Bonus waiter experience </TraitDesc_Formerwaiter>
+  <TraitName_Vaper>Vaper</TraitName_Vaper>
+  <TraitDesc_Vaper>Can't resist e-cigarettes </TraitDesc_Vaper>
+  <TraitName_Smoker>Smoker</TraitName_Smoker>
+  <TraitDesc_Smoker>Can't resist cigarettes </TraitDesc_Smoker>
+  <TraitName_Comicgeek>Comic geek</TraitName_Comicgeek>
+  <TraitDesc_Comicgeek>Can't resist comic books </TraitDesc_Comicgeek>
+  <TraitName_Technophobe>Technophobe</TraitName_Technophobe>
+  <TraitDesc_Technophobe>Refuses to use self-checkout </TraitDesc_Technophobe>
+  <TraitName_Litterer>Litterbug</TraitName_Litterer>
+  <TraitDesc_Litterer>Always litters even if trash cans are nearby </TraitDesc_Litterer>
+  <ObjectPanel_YesterdaysProfit>Yesterday's profit: /b$%S</ObjectPanel_YesterdaysProfit>
+  <ObjectPanel_TodaysProfit>Today's profit (ongoing): /b$%S</ObjectPanel_TodaysProfit>
+  <ObjectPanel_Displaying>Displaying: /b%s</ObjectPanel_Displaying>
+  <ObjectPanel_MaxTier>Max product quality: /bTier %d</ObjectPanel_MaxTier>
+  <ObjectPanel_Fullness>Fullness: /b%d%%</ObjectPanel_Fullness>
+  <ObjectPanel_ExpiresIn>Expires in: /b%d hours</ObjectPanel_ExpiresIn>
+  <ObjectPanel_Expired>Expires in: /bexpired</ObjectPanel_Expired>
+  <ObjectPanel_ProfitMargin>/bProfit margin: %d%%</ObjectPanel_ProfitMargin>
+  <ObjectPanel_SetProfitMargin>/bSet profit margin: %d%%</ObjectPanel_SetProfitMargin>
+  <ObjectPanel_CostPrice>Cost price</ObjectPanel_CostPrice>
+  <ObjectPanel_SellingPrice>Selling price</ObjectPanel_SellingPrice>
+  <ObjectPanel_Profit>Profit</ObjectPanel_Profit>
+  <ObjectPanel_DisplayingNoProduct>Displaying: /bNo product selected</ObjectPanel_DisplayingNoProduct>
+  <ObjectPanel_MaxQueueSize>Max queue size: /b%d</ObjectPanel_MaxQueueSize>
+  <ObjectPanel_MaintenanceCost>Maintenance cost /b$%S/day/t</ObjectPanel_MaintenanceCost>
+  <ObjectPanel_Stock>Stock: /b%d/%d (%d%%)</ObjectPanel_Stock>
+  <ObjectPanel_Remove>Order to remove object. Hotkey: /bDEL </ObjectPanel_Remove>
+  <ObjectPanel_Move>Move object. Hotkey: /bM </ObjectPanel_Move>
+  <ObjectPanel_TrashFull>%d%% full</ObjectPanel_TrashFull>
+  <ObjectPanel_YesterdaysUsage>Yesterday's usage: /b%d</ObjectPanel_YesterdaysUsage>
+  <ObjectPanel_TodaysUsage>Today's usage (ongoing): /b%d</ObjectPanel_TodaysUsage>
+  <ResearchType_Administrative>Administrative</ResearchType_Administrative>
+  <ResearchType_Supplier>Wholesale supplier</ResearchType_Supplier>
+  <ResearchType_Technology>Technology</ResearchType_Technology>
+  <ResearchType_Expertise>Expertise</ResearchType_Expertise>
+  <ResearchProject_Researchbasics>Research basics</ResearchProject_Researchbasics>
+  <ResearchProject_Coldchain>Cold chain</ResearchProject_Coldchain>
+  <ResearchProject_Alcohollicense>Alcohol license</ResearchProject_Alcohollicense>
+  <ResearchProject_Nighthours>Night hours</ResearchProject_Nighthours>
+  <ResearchProject_Frozenfoodsupplier>Frozen food supplier</ResearchProject_Frozenfoodsupplier>
+  <ResearchProject_Chemicalsupplier>Chemical supplier</ResearchProject_Chemicalsupplier>
+  <ResearchProject_Clothingsupplier>Clothing supplier</ResearchProject_Clothingsupplier>
+  <ResearchProject_Electronicssupplier>Electronics supplier</ResearchProject_Electronicssupplier>
+  <ResearchProject_Mediasupplier>Media supplier</ResearchProject_Mediasupplier>
+  <ResearchProject_Appliancessupplier>Appliances supplier</ResearchProject_Appliancessupplier>
+  <ResearchProject_Toolssupplier>Tools supplier</ResearchProject_Toolssupplier>
+  <ResearchProject_Luxurysupplier>Luxury supplier</ResearchProject_Luxurysupplier>
+  <ResearchProject_Restrooms>Restrooms</ResearchProject_Restrooms>
+  <ResearchProject_RestaurantsI>Restaurants I</ResearchProject_RestaurantsI>
+  <ResearchProject_Bowling>Bowling</ResearchProject_Bowling>
+  <ResearchProject_Cinema>Cinema</ResearchProject_Cinema>
+  <ResearchProject_RoadnetworkI>Road network I</ResearchProject_RoadnetworkI>
+  <ResearchProject_RoadnetworkII>Road network II</ResearchProject_RoadnetworkII>
+  <ResearchProject_RoadnetworkIII>Road network III</ResearchProject_RoadnetworkIII>
+  <ResearchProject_BustransportI>Bus transport I</ResearchProject_BustransportI>
+  <ResearchProject_BustransportII>Bus transport II</ResearchProject_BustransportII>
+  <ResearchProject_BustransportIII>Bus transport III</ResearchProject_BustransportIII>
+  <ResearchProject_BustransportIV>Bus transport IV</ResearchProject_BustransportIV>
+  <ResearchProject_RestaurantsII>Restaurants II</ResearchProject_RestaurantsII>
+  <ResearchProject_SalesMonitoring>Sales monitoring</ResearchProject_SalesMonitoring>
+  <ResearchProject_MarketingI>Marketing I</ResearchProject_MarketingI>
+  <ResearchProject_MarketingII>Marketing II</ResearchProject_MarketingII>
+  <ResearchProject_BigData>Big data</ResearchProject_BigData>
+  <ResearchProject_Bars>Bars</ResearchProject_Bars>
+  <ResearchProject_SecurityI>Security I</ResearchProject_SecurityI>
+  <ResearchProject_SecurityII>Security II</ResearchProject_SecurityII>
+  <ResearchProject_Tobacco>Tobacco license</ResearchProject_Tobacco>
+  <ResearchProject_Newsagent>Newsagent supplier</ResearchProject_Newsagent>
+  <ResearchProject_Plants>Plants and Gardening supplier</ResearchProject_Plants>
+  <ResearchProject_ECigs>E-Cigarettes supplier</ResearchProject_ECigs>
+  <ResearchProject_SelfCheckout>Self-checkout</ResearchProject_SelfCheckout>
+  <ResearchProject_CoffeShop>Coffee shops</ResearchProject_CoffeShop>
+  <ResearchProject_Logistics>Logistics</ResearchProject_Logistics>
+  <ResearchProject_CleaningTech>Cleaning technology</ResearchProject_CleaningTech>
+  <ResearchProjectDescription_Researchbasics>Unlocks the base research projects</ResearchProjectDescription_Researchbasics>
+  <ResearchProjectDescription_Coldchain>Unlocks the following products: &Fresh fruits &Fresh vegetables &Fresh meat &Fresh fish &Milk &Dairy</ResearchProjectDescription_Coldchain>
+  <ResearchProjectDescription_Alcohollicense>Unlocks the following products: &Beer &Liquor &Wine</ResearchProjectDescription_Alcohollicense>
+  <ResearchProjectDescription_Nighthours>Allows opening businesses between 0:00 and 6:00</ResearchProjectDescription_Nighthours>
+  <ResearchProjectDescription_Frozenfoodsupplier>Unlocks the following products: &Ice cream &Frozen vegetables &Frozen pizzas</ResearchProjectDescription_Frozenfoodsupplier>
+  <ResearchProjectDescription_Chemicalsupplier>Unlocks the following products: &Detergents &Soap and shampoo &Cosmetics &Tooth care &Deodorants &Shaving cream and razors &Drugs &First aid</ResearchProjectDescription_Chemicalsupplier>
+  <ResearchProjectDescription_Clothingsupplier>Unlocks the following products: &T-Shirts &Pants &Dresses &Shirts &Jackets &Coats &Men shoes &Women shoes &Men underwear &Women lingerie</ResearchProjectDescription_Clothingsupplier>
+  <ResearchProjectDescription_Electronicssupplier>Unlocks the following products: &Laptop computers &Game consoles &Smartphones &Tablets &MP3 players &Cameras &TV sets</ResearchProjectDescription_Electronicssupplier>
+  <ResearchProjectDescription_Mediasupplier>Unlocks the following products: &Books &DVDs and Blurays &Music CDs &Video games</ResearchProjectDescription_Mediasupplier>
+  <ResearchProjectDescription_Appliancessupplier>Unlocks the following products: &Washing machine &Dish washer &Drying machine &Fridge</ResearchProjectDescription_Appliancessupplier>
+  <ResearchProjectDescription_Toolssupplier>Unlocks the following products: &Hand Tools &Power tools</ResearchProjectDescription_Toolssupplier>
+  <ResearchProjectDescription_Luxurysupplier>Unlocks the following products: &Jewelry</ResearchProjectDescription_Luxurysupplier>
+  <ResearchProjectDescription_Restrooms>Unlocks Restrooms</ResearchProjectDescription_Restrooms>
+  <ResearchProjectDescription_RestaurantsI>Unlocks Fast food restaurants</ResearchProjectDescription_RestaurantsI>
+  <ResearchProjectDescription_Bowling>Unlocks Bowling alleys</ResearchProjectDescription_Bowling>
+  <ResearchProjectDescription_Cinema>Unlocks Movie theaters</ResearchProjectDescription_Cinema>
+  <ResearchProjectDescription_RoadnetworkI>Allows connection to an additional road entrance</ResearchProjectDescription_RoadnetworkI>
+  <ResearchProjectDescription_RoadnetworkII>Allows connection to an additional road entrance</ResearchProjectDescription_RoadnetworkII>
+  <ResearchProjectDescription_RoadnetworkIII>Allows connection to an additional road entrance</ResearchProjectDescription_RoadnetworkIII>
+  <ResearchProjectDescription_BustransportI>Allows bus transport and the construction of 10 bus stops</ResearchProjectDescription_BustransportI>
+  <ResearchProjectDescription_BustransportII>Allows the construction of 20 total bus stops</ResearchProjectDescription_BustransportII>
+  <ResearchProjectDescription_BustransportIII>Allows the construction of 30 total bus stops</ResearchProjectDescription_BustransportIII>
+  <ResearchProjectDescription_BustransportIV>Allows the construction of 40 total bus stops</ResearchProjectDescription_BustransportIV>
+  <ResearchProjectDescription_RestaurantsII>Unlocks Fine dining restaurants</ResearchProjectDescription_RestaurantsII>
+  <ResearchProjectDescription_SalesMonitoring>Allows the automatic monitoring of sales &which you can review on the Demand menu.</ResearchProjectDescription_SalesMonitoring>
+  <ResearchProjectDescription_MarketingI>Allows marketing campaigns on traditional media</ResearchProjectDescription_MarketingI>
+  <ResearchProjectDescription_MarketingII>Allows online targeted marketing campaigns</ResearchProjectDescription_MarketingII>
+  <ResearchProjectDescription_BigData>Allows uncovering of job applicants' traits via social networks</ResearchProjectDescription_BigData>
+  <ResearchProjectDescription_Bars>Unlocks Bars</ResearchProjectDescription_Bars>
+  <ResearchProjectDescription_SecurityI>Unlocks the anti-theft detection system</ResearchProjectDescription_SecurityI>
+  <ResearchProjectDescription_SecurityII>Unlocks self-balancing scooters for your security guards</ResearchProjectDescription_SecurityII>
+  <ResearchProjectDescription_Tobacco>Unlocks the following products: &Tobacco</ResearchProjectDescription_Tobacco>
+  <ResearchProjectDescription_Newsagent>Unlocks the following products: &Newspapers &Magazines &Comic Books</ResearchProjectDescription_Newsagent>
+  <ResearchProjectDescription_Plants>Unlocks the following products: &Gardening Tools &Soil and Fertilizer &Plants &Flowers</ResearchProjectDescription_Plants>
+  <ResearchProjectDescription_ECigs>Unlocks the following products: &E-Cigarettes and Liquids</ResearchProjectDescription_ECigs>
+  <ResearchProjectDescription_SelfCheckout>Unlocks self-checkout machines</ResearchProjectDescription_SelfCheckout>
+  <ResearchProjectDescription_CoffeShop>Unlocks Coffee shops</ResearchProjectDescription_CoffeShop>
+  <ResearchProjectDescription_Logistics>Allows deliveries of 4 crates at a time instead of 2</ResearchProjectDescription_Logistics>
+  <ResearchProjectDescription_CleaningTech>Unlocks automatic floor scrubbers for your janitors</ResearchProjectDescription_CleaningTech>
+  <ZoneName_Storage>Storage</ZoneName_Storage>
+  <ZoneName_Store>Store</ZoneName_Store>
+  <ZoneName_FastFoodRestaurant>Fast Food Restaurant</ZoneName_FastFoodRestaurant>
+  <ZoneName_TicketLobby>Ticket Lobby</ZoneName_TicketLobby>
+  <ZoneName_MovieTheater>Movie Theater</ZoneName_MovieTheater>
+  <ZoneName_MaintenanceCenter>Maintenance Center</ZoneName_MaintenanceCenter>
+  <ZoneName_Restroom>Restroom</ZoneName_Restroom>
+  <ZoneName_BowlingAlley>Bowling Alley</ZoneName_BowlingAlley>
+  <ZoneName_Office>Office</ZoneName_Office>
+  <ZoneName_FineDiningRestaurant>Fine Dining Restaurant</ZoneName_FineDiningRestaurant>
+  <ZoneName_Stadium>Stadium</ZoneName_Stadium>
+  <ZoneName_Bar>Bar</ZoneName_Bar>
+  <ZoneName_SecurityCenter>Security Center</ZoneName_SecurityCenter>
+  <ZoneName_CoffeeShop>Coffee Shop</ZoneName_CoffeeShop>
+  <ZoneName_FoodCourt>Food Court</ZoneName_FoodCourt>
+  <ObjectFilter_All>All</ObjectFilter_All>
+  <ObjectFilter_Decoration>Decoration</ObjectFilter_Decoration>
+  <ObjectFilter_Machines>Machines</ObjectFilter_Machines>
+  <ZoneDescription_Storage>An area where products are delivered, mandatory for any retail activity.</ZoneDescription_Storage>
+  <ZoneDescription_Store>A retail business where physical items are sold to customers.</ZoneDescription_Store>
+  <ZoneDescription_FastFoodRestaurant>A restaurant where customers order at the counter. No waiters. Low-skill cooks accepted.</ZoneDescription_FastFoodRestaurant>
+  <ZoneDescription_TicketLobby>A lobby where customers buy tickets for events such as movie projections. Mandatory for movie theaters.</ZoneDescription_TicketLobby>
+  <ZoneDescription_MovieTheater>A theater where movies are projected. Requires a ticket lobby to operate.</ZoneDescription_MovieTheater>
+  <ZoneDescription_MaintenanceCenter>An area to hire and manage builders and janitors.</ZoneDescription_MaintenanceCenter>
+  <ZoneDescription_Restroom>A facility where customers can freshen up and empty their bladder.</ZoneDescription_Restroom>
+  <ZoneDescription_BowlingAlley>An entertainment facility where players practice the ancient sport of ten-pin bowling.</ZoneDescription_BowlingAlley>
+  <ZoneDescription_Office>A place where office workers do administrative work, research and marketing.</ZoneDescription_Office>
+  <ZoneDescription_FineDiningRestaurant>A restaurant where customers order at their table with waiters. High-skill cooks prefered.</ZoneDescription_FineDiningRestaurant>
+  <ZoneDescription_Stadium/>
+  <ZoneDescription_Bar>A business that serves alcoholic beverages, such as beer, liquor and cocktails.</ZoneDescription_Bar>
+  <ZoneDescription_SecurityCenter>An area to hire and manage security guards.</ZoneDescription_SecurityCenter>
+  <ZoneDescription_CoffeeShop>A business that serves hot beverages, donuts and pastries.</ZoneDescription_CoffeeShop>
+  <ZoneDescription_FoodCourt>An area that provides seats and tables for patrons of nearby self-serve restaurants.</ZoneDescription_FoodCourt>
+  <ZoneRequires_Access>Requires access</ZoneRequires_Access>
+  <ZoneRequires_CheckoutCounters>Requires checkout counter(s)</ZoneRequires_CheckoutCounters>
+  <ZoneRequires_ProductShelves>Requires product shelve(s)</ZoneRequires_ProductShelves>
+  <ZoneRequires_Cashiers>Requires cashier(s)</ZoneRequires_Cashiers>
+  <ZoneRequires_StockClerks>Requires stock clerk(s)</ZoneRequires_StockClerks>
+  <ZoneRequires_Janitors>Requires janoitor(s)</ZoneRequires_Janitors>
+  <ZoneRequires_FFCookingRange>Requires fast food cooking range(s)</ZoneRequires_FFCookingRange>
+  <ZoneRequires_OrderCounters>Requires order counter(s)</ZoneRequires_OrderCounters>
+  <ZoneRequires_FFSodaDispenser>Requires fast food soda dispenser(s)</ZoneRequires_FFSodaDispenser>
+  <ZoneRequires_FFWarmer>Requires fast food warmer(s)</ZoneRequires_FFWarmer>
+  <ZoneRequires_Cooks>Requires cook(s)</ZoneRequires_Cooks>
+  <ZoneRequires_BowlingLanes>Requires bowling lane(s)</ZoneRequires_BowlingLanes>
+  <ZoneRequires_MovieProjectors>Requires movie projector(s)</ZoneRequires_MovieProjectors>
+  <ZoneRequires_SpectatorSeats>Requires spectator seat(s)</ZoneRequires_SpectatorSeats>
+  <ZoneRequires_ToiletCubicles>Requires toilet cubicle(s)</ZoneRequires_ToiletCubicles>
+  <ZoneRequires_ToiletSinks>Requires toilet sink(s)</ZoneRequires_ToiletSinks>
+  <ZoneRequires_OfficeDesks>Requires office desk(s)</ZoneRequires_OfficeDesks>
+  <ZoneRequires_OfficeWorkers>Requires office worker(s)</ZoneRequires_OfficeWorkers>
+  <ZoneRequires_Storage>Requires storage</ZoneRequires_Storage>
+  <ZoneRequires_TicketLobby>Requires a ticket lobby</ZoneRequires_TicketLobby>
+  <ZoneRequires_LinkedBusiness>Requires a linked business</ZoneRequires_LinkedBusiness>
+  <ZoneRequires_FDCookingRange>Requires fine dining cooking range(s)</ZoneRequires_FDCookingRange>
+  <ZoneRequires_KitchenPass>Requires kitchen pass(es)</ZoneRequires_KitchenPass>
+  <ZoneRequires_Waiters>Requires waiter(s)</ZoneRequires_Waiters>
+  <ZoneRequires_BarCounter>Requires bar counter(s)</ZoneRequires_BarCounter>
+  <ZoneRequires_BarShelf>Requires bar shelve(s)</ZoneRequires_BarShelf>
+  <ZoneRequires_Guards>Requires guard(s)</ZoneRequires_Guards>
+  <ZoneRequires_CoffeeShopCounter>Requires coffee shop counter(s)</ZoneRequires_CoffeeShopCounter>
+  <ObjectName_Door>Door</ObjectName_Door>
+  <ObjectName_DoubleDoor>Double Door</ObjectName_DoubleDoor>
+  <ObjectName_StaffDoor>Staff Door</ObjectName_StaffDoor>
+  <ObjectName_FoodShelf>Food Shelf</ObjectName_FoodShelf>
+  <ObjectName_Fridge>Fridge</ObjectName_Fridge>
+  <ObjectName_Table>Table</ObjectName_Table>
+  <ObjectName_CheckoutCounter>Checkout Counter</ObjectName_CheckoutCounter>
+  <ObjectName_VendingMachine>Vending Machine</ObjectName_VendingMachine>
+  <ObjectName_ArcadeCabinet>Arcade Cabinet</ObjectName_ArcadeCabinet>
+  <ObjectName_ToiletCubicle>Toilet Cubicle</ObjectName_ToiletCubicle>
+  <ObjectName_ToiletSink>Toilet Sink</ObjectName_ToiletSink>
+  <ObjectName_ToiletUrinal>Toilet Urinal</ObjectName_ToiletUrinal>
+  <ObjectName_PaperDispenser>Paper Dispenser</ObjectName_PaperDispenser>
+  <ObjectName_OrderCounter>Order Counter</ObjectName_OrderCounter>
+  <ObjectName_FastFoodSodaDispenser>Fast Food Soda Dispenser</ObjectName_FastFoodSodaDispenser>
+  <ObjectName_FastFoodWarmer>Fast Food Warmer</ObjectName_FastFoodWarmer>
+  <ObjectName_FastFoodCookingRange>Fast Food Cooking Range</ObjectName_FastFoodCookingRange>
+  <ObjectName_MovieProjector>Movie Projector</ObjectName_MovieProjector>
+  <ObjectName_SpectatorSeat>Spectator Seat</ObjectName_SpectatorSeat>
+  <ObjectName_BowlingLane>Bowling Lane</ObjectName_BowlingLane>
+  <ObjectName_DinerTable>Diner Table</ObjectName_DinerTable>
+  <ObjectName_FoodCourtTable>Food Court Table</ObjectName_FoodCourtTable>
+  <ObjectName_RestaurantTable>Restaurant Table</ObjectName_RestaurantTable>
+  <ObjectName_TrashCan>Trash Can</ObjectName_TrashCan>
+  <ObjectName_PlantTypeA>Plant Type A</ObjectName_PlantTypeA>
+  <ObjectName_PlantTypeB>Plant Type B</ObjectName_PlantTypeB>
+  <ObjectName_WaterDispenser>Water Dispenser</ObjectName_WaterDispenser>
+  <ObjectName_PinballMachine>Pinball Machine</ObjectName_PinballMachine>
+  <ObjectName_Fountain>Fountain</ObjectName_Fountain>
+  <ObjectName_ATM>ATM</ObjectName_ATM>
+  <ObjectName_ClothRack>Cloth Rack</ObjectName_ClothRack>
+  <ObjectName_Shelf>Shelf</ObjectName_Shelf>
+  <ObjectName_Pallet>Pallet</ObjectName_Pallet>
+  <ObjectName_OfficeDesk>Office Desk</ObjectName_OfficeDesk>
+  <ObjectName_OakTree>Oak Tree</ObjectName_OakTree>
+  <ObjectName_PineTree>Pine Tree</ObjectName_PineTree>
+  <ObjectName_WildShrubA>Wild Shrub A</ObjectName_WildShrubA>
+  <ObjectName_WildShrubB>Wild Shrub B</ObjectName_WildShrubB>
+  <ObjectName_BallShrub>Ball Shrub</ObjectName_BallShrub>
+  <ObjectName_ConeShrub>Cone Shrub</ObjectName_ConeShrub>
+  <ObjectName_Bench>Bench</ObjectName_Bench>
+  <ObjectName_FDCookingRange>Fine Dining Cooking Range</ObjectName_FDCookingRange>
+  <ObjectName_KitchenPass>Kitchen Pass</ObjectName_KitchenPass>
+  <ObjectName_CafeTable>Cafe Table</ObjectName_CafeTable>
+  <ObjectName_BarCounter>Bar Counter</ObjectName_BarCounter>
+  <ObjectName_BarCounterWithStools>Bar Counter with Stools</ObjectName_BarCounterWithStools>
+  <ObjectName_BarShelf>Bar Shelf</ObjectName_BarShelf>
+  <ObjectName_AntiTheftDetector>Anti-theft Detector</ObjectName_AntiTheftDetector>
+  <ObjectName_SculptureA>Sculpture Type A</ObjectName_SculptureA>
+  <ObjectName_SculptureB>Sculpture Type B</ObjectName_SculptureB>
+  <ObjectName_SculptureC>Sculpture Type C</ObjectName_SculptureC>
+  <ObjectName_Sofa>Lounge Sofa</ObjectName_Sofa>
+  <ObjectName_LoungeTable>Lounge Table</ObjectName_LoungeTable>
+  <ObjectName_PlantsC>Plants Type C</ObjectName_PlantsC>
+  <ObjectName_PlantsD>Plants Type D</ObjectName_PlantsD>
+  <ObjectName_OneWayGate>One-way Swing Gate</ObjectName_OneWayGate>
+  <ObjectName_SelfCheckout>Self-checkout</ObjectName_SelfCheckout>
+  <ObjectName_CoffeeCounter>Coffee Shop Counter</ObjectName_CoffeeCounter>
+  <ObjectName_OutdoorLight>Outdoor Light</ObjectName_OutdoorLight>
+  <TransferMenu_Transfer>TRANSFER</TransferMenu_Transfer>
+  <TransferMenu_CurrentlyEmployedAt>Currently employed at</TransferMenu_CurrentlyEmployedAt>
+  <Placeholder>PLACEHOLDER</Placeholder>
+  <ProductSubType_All>All</ProductSubType_All>
+  <ProductSubType_Restaurants>Restaurants</ProductSubType_Restaurants>
+  <ProductSubType_Entertainment>Entertainment</ProductSubType_Entertainment>
+  <ProductSubType_Food>Food</ProductSubType_Food>
+  <ProductSubType_Beverages>Beverages</ProductSubType_Beverages>
+  <ProductSubType_HouseholdItems>Household Items</ProductSubType_HouseholdItems>
+  <ProductSubType_HealthandBeauty>Health and Beauty</ProductSubType_HealthandBeauty>
+  <ProductSubType_Tools>Tools and Materials</ProductSubType_Tools>
+  <ProductSubType_ElectronicsandAppliances>Electronics and Appliances</ProductSubType_ElectronicsandAppliances>
+  <ProductSubType_Clothing>Clothing</ProductSubType_Clothing>
+  <ProductSubType_MediaandToys>Media</ProductSubType_MediaandToys>
+  <ProductSubType_Misc>Misc</ProductSubType_Misc>
+  <ProductSubType_Press>Press and Print</ProductSubType_Press>
+  <ProductSubType_Gardening>Plants and Gardening</ProductSubType_Gardening>
+  <ProductSubType_SportsAndOutdoors>Sports and Outdoors</ProductSubType_SportsAndOutdoors>
+  <ProductSubType_Toys>Toys and Games</ProductSubType_Toys>
+  <ProductSubType_Services>Services</ProductSubType_Services>
+  <ProductName_FastFood>Fast Food</ProductName_FastFood>
+  <ProductName_CasualDining>Casual Dining</ProductName_CasualDining>
+  <ProductName_FineDining>Fine Dining</ProductName_FineDining>
+  <ProductName_Bowling>Bowling</ProductName_Bowling>
+  <ProductName_Movies>Movies</ProductName_Movies>
+  <ProductName_Sports>Sports</ProductName_Sports>
+  <ProductName_ArcadeGames>Arcade Games</ProductName_ArcadeGames>
+  <ProductName_Liquor>Liquor</ProductName_Liquor>
+  <ProductName_Soda>Soda</ProductName_Soda>
+  <ProductName_Candies>Candies</ProductName_Candies>
+  <ProductName_BottledWater>Bottled Water</ProductName_BottledWater>
+  <ProductName_Beer>Beer</ProductName_Beer>
+  <ProductName_Wine>Wine</ProductName_Wine>
+  <ProductName_CannedFood>Canned Food</ProductName_CannedFood>
+  <ProductName_BreakfastCereal>Breakfast Cereal</ProductName_BreakfastCereal>
+  <ProductName_Snacks>Snacks</ProductName_Snacks>
+  <ProductName_IceCream>Ice Cream</ProductName_IceCream>
+  <ProductName_Milk>Milk</ProductName_Milk>
+  <ProductName_Cookies>Cookies</ProductName_Cookies>
+  <ProductName_Dairy>Dairy</ProductName_Dairy>
+  <ProductName_FreshMeat>Fresh Meat</ProductName_FreshMeat>
+  <ProductName_SlicedBread>Sliced Bread</ProductName_SlicedBread>
+  <ProductName_SaucesandSeasoning>Sauces and Seasoning</ProductName_SaucesandSeasoning>
+  <ProductName_RiceandPasta>Rice and Pasta</ProductName_RiceandPasta>
+  <ProductName_FrozenVegetables>Frozen Vegetables</ProductName_FrozenVegetables>
+  <ProductName_FrozenPizzas>Frozen Pizzas</ProductName_FrozenPizzas>
+  <ProductName_FreshFish>Fresh Fish</ProductName_FreshFish>
+  <ProductName_CoffeeandTea>Coffee and Tea</ProductName_CoffeeandTea>
+  <ProductName_PetFood>Pet Food</ProductName_PetFood>
+  <ProductName_Detergents>Detergents</ProductName_Detergents>
+  <ProductName_SoapandShampoo>Soap and Shampoo</ProductName_SoapandShampoo>
+  <ProductName_Cosmetics>Cosmetics</ProductName_Cosmetics>
+  <ProductName_ToothCare>Tooth Care</ProductName_ToothCare>
+  <ProductName_Deodorants>Deodorants</ProductName_Deodorants>
+  <ProductName_ShavingCreamandRazors>Shaving Cream and Razors</ProductName_ShavingCreamandRazors>
+  <ProductName_Diapers>Diapers</ProductName_Diapers>
+  <ProductName_ToiletPaper>Toilet Paper</ProductName_ToiletPaper>
+  <ProductName_LightBulbsandElectricity>Light Bulbs and Electricity</ProductName_LightBulbsandElectricity>
+  <ProductName_CarTools>Car Tools</ProductName_CarTools>
+  <ProductName_HandTools>Hand Tools</ProductName_HandTools>
+  <ProductName_PowerTools>Power Tools</ProductName_PowerTools>
+  <ProductName_Toys>Construction Toys</ProductName_Toys>
+  <ProductName_Books>Books</ProductName_Books>
+  <ProductName_DVDsandBluRays>DVDs and BluRays</ProductName_DVDsandBluRays>
+  <ProductName_MusicCDs>Music CDs</ProductName_MusicCDs>
+  <ProductName_VideoGames>Video Games</ProductName_VideoGames>
+  <ProductName_BedSheets>Bed Sheets</ProductName_BedSheets>
+  <ProductName_FirstAid>First Aid</ProductName_FirstAid>
+  <ProductName_Drugs>Drugs</ProductName_Drugs>
+  <ProductName_MenShoes>Men Shoes</ProductName_MenShoes>
+  <ProductName_WomenShoes>Women Shoes</ProductName_WomenShoes>
+  <ProductName_FreshFruits>Fresh Fruits</ProductName_FreshFruits>
+  <ProductName_FreshVegetables>Fresh Vegetables</ProductName_FreshVegetables>
+  <ProductName_FreshBread>Fresh Bread</ProductName_FreshBread>
+  <ProductName_Jewelry>Jewelry</ProductName_Jewelry>
+  <ProductName_LaptopComputers>Laptop Computers</ProductName_LaptopComputers>
+  <ProductName_GameConsoles>Game Consoles</ProductName_GameConsoles>
+  <ProductName_Smartphones>Smartphones</ProductName_Smartphones>
+  <ProductName_Tablets>Tablets</ProductName_Tablets>
+  <ProductName_MP3Players>MP3 Players</ProductName_MP3Players>
+  <ProductName_Cameras>Cameras</ProductName_Cameras>
+  <ProductName_TVSets>TV Sets</ProductName_TVSets>
+  <ProductName_T-Shirts>T-Shirts</ProductName_T-Shirts>
+  <ProductName_Pants>Pants</ProductName_Pants>
+  <ProductName_Dresses>Dresses</ProductName_Dresses>
+  <ProductName_Shirts>Shirts</ProductName_Shirts>
+  <ProductName_Jackets>Jackets</ProductName_Jackets>
+  <ProductName_Coats>Coats</ProductName_Coats>
+  <ProductName_Cookware>Cookware</ProductName_Cookware>
+  <ProductName_Dishes>Dishes</ProductName_Dishes>
+  <ProductName_PadsandTampons>Pads and Tampons</ProductName_PadsandTampons>
+  <ProductName_Juices>Juices</ProductName_Juices>
+  <ProductName_MenUnderwear>Men Underwear</ProductName_MenUnderwear>
+  <ProductName_WomenLingerie>Women Lingerie</ProductName_WomenLingerie>
+  <ProductName_WashingMachine>Washing Machine</ProductName_WashingMachine>
+  <ProductName_DishWasher>Dish Washer</ProductName_DishWasher>
+  <ProductName_DryingMachine>Drying Machine</ProductName_DryingMachine>
+  <ProductName_Fridge>Fridge</ProductName_Fridge>
+  <ProductName_Bar>Bar</ProductName_Bar>
+  <ProductName_GreetingCards>Greeting Cards</ProductName_GreetingCards>
+  <ProductName_Newspapers>Newspapers</ProductName_Newspapers>
+  <ProductName_Magazines>Magazines</ProductName_Magazines>
+  <ProductName_ComicBooks>Comic Books</ProductName_ComicBooks>
+  <ProductName_SchoolSupplies>School Supplies</ProductName_SchoolSupplies>
+  <ProductName_Tobacco>Tobacco</ProductName_Tobacco>
+  <ProductName_ECigs>E-Cigarettes and Liquids</ProductName_ECigs>
+  <ProductName_GardeningTools>Gardening Tools</ProductName_GardeningTools>
+  <ProductName_SoilFertilizer>Soil and Fertilizer</ProductName_SoilFertilizer>
+  <ProductName_Plants>Plants</ProductName_Plants>
+  <ProductName_Flowers>Flowers</ProductName_Flowers>
+  <ProductName_CoffeeShop>Coffee Shop</ProductName_CoffeeShop>
+  <ProductName_Backpacks>Backpacks</ProductName_Backpacks>
+  <ProductName_SportsBalls>Sports Balls</ProductName_SportsBalls>
+  <ProductName_BoardGames>Board Games</ProductName_BoardGames>
+  <ProductName_ActionFigures>Action Figures</ProductName_ActionFigures>
+  <ProductName_VanillaReserved>Reserved Vanilla Product</ProductName_VanillaReserved>
+  <Events_NoEvent>/bNo upcoming event</Events_NoEvent>
+  <Events_CurrentEvent>/bCurrent event</Events_CurrentEvent>
+  <Events_UpcomingEvents>/bUpcoming event(s)</Events_UpcomingEvents>
+  <Events_IncreasedDemand>The following have increased demand:</Events_IncreasedDemand>
+  <Events_StartsIn>Starts in /b%d day(s) and %d hour(s)</Events_StartsIn>
+  <Events_EndsIn>Ends in /b%d hour(s)</Events_EndsIn>
+  <EventName_Christmas>/bChristmas Season</EventName_Christmas>
+  <EventDesc_Christmas>Jingle Bells! Santa Claus is hard at work. &It's the biggest spending season of the year!</EventDesc_Christmas>
+  <EventName_Valentine>Valentine's Day</EventName_Valentine>
+  <EventDesc_Valentine>Couples celebrate their love with gifts and a nice dinner. &Meanwhile singles try their luck at the bar.</EventDesc_Valentine>
+  <EventName_Halloween>Halloween</EventName_Halloween>
+  <EventDesc_Halloween>Every kid and dentist's favorite holiday. &Experts say candy sales will break new records.</EventDesc_Halloween>
+  <EventName_BackToSchool>Back to School Season</EventName_BackToSchool>
+  <EventDesc_BackToSchool>As summer vacation ends, families buy new clothes &and equipment in anticipation of the new school year.</EventDesc_BackToSchool>
+  <EventName_StrikeDelivery>Delivery Strike</EventName_StrikeDelivery>
+  <EventDesc_StrikeDelivery>Unions for delivery workers have called for a 24h strike. &Expect little to no service.</EventDesc_StrikeDelivery>
+  <EventName_StrikeGarbage>Garbage Collection Strike</EventName_StrikeGarbage>
+  <EventDesc_StrikeGarbage>Unions for garbage workers have called for a 24h strike. &Expect little to no service.</EventDesc_StrikeGarbage>
+  <EventName_StrikeBus>Bus Driver Strike</EventName_StrikeBus>
+  <EventDesc_StrikeBus>Unions for bus drivers have called for a 24h strike. &Expect little to no service.</EventDesc_StrikeBus>
+  <EventName_Movie>Major Movie Release</EventName_Movie>
+  <EventDesc_Movie>A highly anticipated sequel is finally released. &Movie buffs are expected to flood theaters everywhere.</EventDesc_Movie>
+  <EventName_Game>Major Game Release</EventName_Game>
+  <EventDesc_Game>Some had given up all hope but there it is: the latest &game in a legendary series is finally hitting stores!</EventDesc_Game>
+  <EventName_Book>Major Book Release</EventName_Book>
+  <EventDesc_Book>The latest volume in a best-selling series is finally released. &Fans are expected to rush and buy the book to avoid spoilers.</EventDesc_Book>
+  <EventName_Mobile>Major Smartphone Release</EventName_Mobile>
+  <EventDesc_Mobile>A tech giant's new smartphone is generating unseen &levels of hype. First day sales might break records.</EventDesc_Mobile>
+  <EventName_Music>Major Album Release</EventName_Music>
+  <EventDesc_Music>A Grammy favorite is releasing their latest opus. &Fans will undoubtedly want to get their hands on the CD.</EventDesc_Music>
+  <EventName_MothersDay>Mother's Day</EventName_MothersDay>
+  <EventDesc_MothersDay>This celebration of motherhood has become heavily &commercialized. It would be a shame not to capitalize on it. </EventDesc_MothersDay>
+  <EventName_FathersDay>Father's Day</EventName_FathersDay>
+  <EventDesc_FathersDay>Families celebrate their patriarch by gifting them a nice &bottle and a new driller.</EventDesc_FathersDay>
+  <EventName_Spring>Start of Spring</EventName_Spring>
+  <EventName_Summer>Start of Summer</EventName_Summer>
+  <EventName_Autumn>Start of Autumn</EventName_Autumn>
+  <EventName_Winter>Start of Winter</EventName_Winter>
+  <StatsType_Off>Off</StatsType_Off>
+  <StatsType_Parkingusage>Parking usage</StatsType_Parkingusage>
+  <StatsType_Salesnumber>Sales number</StatsType_Salesnumber>
+  <StatsType_Netprofit>Net profit</StatsType_Netprofit>
+  <StatsType_Funds>Funds</StatsType_Funds>
+  <StatsType_Maintenancecost>Maintenance cost</StatsType_Maintenancecost>
+  <StatsType_Salaries>Salaries</StatsType_Salaries>
+  <StatsType_Dailydebt>Daily debt</StatsType_Dailydebt>
+  <StatsType_Totaldebt>Total debt</StatsType_Totaldebt>
+  <StatsType_Grossprofit>Gross profit</StatsType_Grossprofit>
+  <StatsType_Peakcustomers>Peak customers</StatsType_Peakcustomers>
+  <StatsType_Dailycustomers>Daily customers</StatsType_Dailycustomers>
+  <StatsType_Unsatisfiedcustomers>Unsatisfied customers</StatsType_Unsatisfiedcustomers>
+  <StatsType_Averagesatisfaction>Average satisfaction</StatsType_Averagesatisfaction>
+  <StatsType_Marketingboost>Marketing boost</StatsType_Marketingboost>
+  <StatsType_Theft>Theft</StatsType_Theft>
+  <StatsMode_Absolute>Absolute</StatsMode_Absolute>
+  <StatsMode_Base100>Base 100</StatsMode_Base100>
+  <ContextMenu_ManageZone>Manage %ls</ContextMenu_ManageZone>
+  <ContextMenu_ManageStaff>Manage %s (%s)</ContextMenu_ManageStaff>
+  <ContextMenu_OrderBuilder>Order %s to prioritize this</ContextMenu_OrderBuilder>
+  <ContextMenu_OrderJanitor>Order %s to clean this area</ContextMenu_OrderJanitor>
+  <ContextMenu_FollowPeep>Follow %s (%s)</ContextMenu_FollowPeep>
+  <ContextMenu_SetProduct>Set Product for %s  »</ContextMenu_SetProduct>
+  <GameUITooltip_Statistics>/bStatistics </GameUITooltip_Statistics>
+  <GameUITooltip_Finance>/bFinance </GameUITooltip_Finance>
+  <GameUITooltip_Research>/bResearch </GameUITooltip_Research>
+  <GameUITooltip_Needs>/bDemand </GameUITooltip_Needs>
+  <GameUITooltip_Marketing>/bMarketing </GameUITooltip_Marketing>
+  <GameUITooltip_Menu>/bMenu </GameUITooltip_Menu>
+  <GameUITooltip_Pause>Hotkey: /b1 &Toggle: /bSPACE</GameUITooltip_Pause>
+  <GameUITooltip_Speed1>Hotkey: /b2 </GameUITooltip_Speed1>
+  <GameUITooltip_Speed2>Hotkey: /b3 </GameUITooltip_Speed2>
+  <GameUITooltip_Speed3>Hotkey: /b4 </GameUITooltip_Speed3>
+  <GameUITooltip_Select>Hotkey: /bE </GameUITooltip_Select>
+  <GameUITooltip_Build>Hotkey: /bR </GameUITooltip_Build>
+  <GameUITooltip_Assign>Hotkey: /bF </GameUITooltip_Assign>
+  <GameUITooltip_Manage>Hotkey: /bC </GameUITooltip_Manage>
+  <GameUI_Day>/bDay %d</GameUI_Day>
+  <GameUI_Select>SELECT</GameUI_Select>
+  <GameUI_Build>BUILD</GameUI_Build>
+  <GameUI_Assign>ASSIGN</GameUI_Assign>
+  <GameUI_Manage>MANAGE</GameUI_Manage>
+  <BuildObjects_ManuallySetProducts>Manually set products</BuildObjects_ManuallySetProducts>
+  <BuildObjects_AutoSetProducts>Automatically set products</BuildObjects_AutoSetProducts>
+  <ManageZoneTab_Zone>ZONE</ManageZoneTab_Zone>
+  <ManageZoneTab_Staff>STAFF</ManageZoneTab_Staff>
+  <ManageZoneTab_Products>PRODUCTS</ManageZoneTab_Products>
+  <ManageZone_RenameTooltip>Left-Click to rename </ManageZone_RenameTooltip>
+  <ManageZone_Status>Status: /b%s</ManageZone_Status>
+  <ManageZone_Active>Active</ManageZone_Active>
+  <ManageZone_Incomplete>Incomplete</ManageZone_Incomplete>
+  <ManageZone_MainCategory>Main category: /b%s (%d%%)</ManageZone_MainCategory>
+  <ManageZone_MainProduct>Main product: /b%s (%d%%)</ManageZone_MainProduct>
+  <ManageZone_AssignedStorage>Linked Storage: /b%s</ManageZone_AssignedStorage>
+  <ManageZone_AssignStorage>LINK STORAGE</ManageZone_AssignStorage>
+  <ManageZone_ReAssignStorage>RE-LINK STORAGE</ManageZone_ReAssignStorage>
+  <ManageZone_AssignLobby>LINK LOBBY</ManageZone_AssignLobby>
+  <ManageZone_ReAssignLobby>RE-LINK LOBBY</ManageZone_ReAssignLobby>
+  <ManageZone_StorageCapacity>Storage capacity: %d</ManageZone_StorageCapacity>
+  <ManageZone_CurrentLoad>Current load: %d</ManageZone_CurrentLoad>
+  <ManageZone_SetDesiredLoad>Set desired storage load: %d%%</ManageZone_SetDesiredLoad>
+  <ManageZone_Maintenance>Maintenance</ManageZone_Maintenance>
+  <ManageZone_Salaries>Salaries</ManageZone_Salaries>
+  <ManageZone_GrossProfit>Gross profit</ManageZone_GrossProfit>
+  <ManageZone_NetProfit>Net profit</ManageZone_NetProfit>
+  <ManageZone_ProfitMargin>Profit margin</ManageZone_ProfitMargin>
+  <ManageZone_OpeningHour>Opening Hour: %02d:00</ManageZone_OpeningHour>
+  <ManageZone_HoursTooltip>Research the /bNight Hours /tproject to open between 0:00 and 6:00 </ManageZone_HoursTooltip>
+  <ManageZone_Closed>Set duration: /bCLOSED</ManageZone_Closed>
+  <ManageZone_SetDuration>Set duration: %dH (Closing Hour: %02d:00)</ManageZone_SetDuration>
+  <ManageStaff_HireCashier>HIRE CASHIER</ManageStaff_HireCashier>
+  <ManageStaff_HireCook>HIRE COOK</ManageStaff_HireCook>
+  <ManageStaff_HireStockClerk>HIRE STOCK CLERK</ManageStaff_HireStockClerk>
+  <ManageStaff_HireJanitor>HIRE JANITOR</ManageStaff_HireJanitor>
+  <ManageStaff_HireBuilder>HIRE BUILDER</ManageStaff_HireBuilder>
+  <ManageStaff_HireOfficeWorker>HIRE OFFICE WORKER</ManageStaff_HireOfficeWorker>
+  <ManagaStaff_HireWaiter>HIRE WAITER</ManagaStaff_HireWaiter>
+  <ManageStaff_HireSecurity>HIRE GUARD</ManageStaff_HireSecurity>
+  <ManageStaff_DaysEmployed>days employed: %d </ManageStaff_DaysEmployed>
+  <ManageStaff_HoursWorked>&average hours worked: %d </ManageStaff_HoursWorked>
+  <ManageStaff_SalariesPaid>&average salaries paid: $%d </ManageStaff_SalariesPaid>
+  <ManageStaff_RevenueMade>&average revenue made: $%d </ManageStaff_RevenueMade>
+  <ManageStaff_Profitability>&profitability: %d%% </ManageStaff_Profitability>
+  <ManageStaff_ShelvesRestocked>&average shelves restocked: %d </ManageStaff_ShelvesRestocked>
+  <ManageStaff_RestockCost>&average restock cost: $%.2f </ManageStaff_RestockCost>
+  <ManageStaff_CellsCleaned>&average cells cleaned: %d </ManageStaff_CellsCleaned>
+  <ManageStaff_CleaningCost>&average cell cleaning cost: $%.2f </ManageStaff_CleaningCost>
+  <ManageStaff_MealsCooked>&average meals cooked: %d </ManageStaff_MealsCooked>
+  <ManageStaff_CookingCost>&average meal cooking cost: $%.2f </ManageStaff_CookingCost>
+  <ManageStaff_RecoveredValue>&average recovered value: $%d </ManageStaff_RecoveredValue>
+  <ManageStaff_SetSalary>/bSet salary: $%S</ManageStaff_SetSalary>
+  <ManageStaff_Salary>/bSalary: $%S</ManageStaff_Salary>
+  <ManageStaff_SetStartingHour>/bSet starting hour: %02d:00</ManageStaff_SetStartingHour>
+  <ManageStaff_SetWorkDuration>/bSet work duration: %d hour(s) (ends at: %02d:00)</ManageStaff_SetWorkDuration>
+  <ManageStaff_HourlyWorkforce>/b%ls hourly workforce</ManageStaff_HourlyWorkforce>
+  <ManageStaff_Closed>closed</ManageStaff_Closed>
+  <ManageStaff_Open>open</ManageStaff_Open>
+  <ManageStaff_Sales>sales</ManageStaff_Sales>
+  <ManageStaff_Workforce>workforce</ManageStaff_Workforce>
+  <ManageStaff_ResearchBigData>Research the 'Big data' project to uncover this person's traits </ManageStaff_ResearchBigData>
+  <ManageStaff_AutoSalary>Auto salary</ManageStaff_AutoSalary>
+  <ManageStaff_ManualSalary>Manual salary</ManageStaff_ManualSalary>
+  <ManageStaff_ShiftPlanning>SHIFT PLANNING</ManageStaff_ShiftPlanning>
+  <FireStaff_Prompt>Fire %s (%s)?</FireStaff_Prompt>
+  <FireStaff_Fire>FIRE</FireStaff_Fire>
+  <ManageProducts_NoProductSelected>No product selected</ManageProducts_NoProductSelected>
+  <ManageProducts_ManualMargin>Manual margin</ManageProducts_ManualMargin>
+  <ManageProducts_AutoMargin>Auto margin</ManageProducts_AutoMargin>
+  <AssignZone_LockedRequiresProject> &/c2/bLOCKED - Requires project '</AssignZone_LockedRequiresProject>
+  <AssignMode_Zones>Zones</AssignMode_Zones>
+  <AssignMode_Products>Products</AssignMode_Products>
+  <AssignMode_Patrols>Patrols</AssignMode_Patrols>
+  <AssignMode_AntiTheftTags>Anti-Theft Tags</AssignMode_AntiTheftTags>
+  <DrawMode_Draw>Draw</DrawMode_Draw>
+  <DrawMode_Fill>Fill</DrawMode_Fill>
+  <BuildMenu_Roadwork>Roadwork</BuildMenu_Roadwork>
+  <BuildMenu_RemoveRoadwork>Remove Roadwork</BuildMenu_RemoveRoadwork>
+  <BuildMenu_Foundations>Foundations</BuildMenu_Foundations>
+  <BuildMenu_RemoveFoundations>Remove Foundations/Exterior Tiles</BuildMenu_RemoveFoundations>
+  <BuildMenu_Walls>Walls</BuildMenu_Walls>
+  <BuildMenu_Objects>Objects</BuildMenu_Objects>
+  <BuildMenu_RemoveWallsObjects>Remove Walls/Objects</BuildMenu_RemoveWallsObjects>
+  <BuildMenu_FloorTiles>Floor Tiles</BuildMenu_FloorTiles>
+  <BuildMenu_SpecialBuildings>Special Buildings</BuildMenu_SpecialBuildings>
+  <BuildFloorTiles_Type>/bFloor Tile type %d</BuildFloorTiles_Type>
+  <BuildRoadwork_Road>Road</BuildRoadwork_Road>
+  <BuildRoadwork_CustomerParking>Customer Parking</BuildRoadwork_CustomerParking>
+  <BuildRoadwork_LoadingZone>Loading Zone</BuildRoadwork_LoadingZone>
+  <BuildRoadwork_StaffOnlyParking>Staff-only Parking</BuildRoadwork_StaffOnlyParking>
+  <BuildRoadwork_GarbagePickup>Garbage Pickup</BuildRoadwork_GarbagePickup>
+  <BuildRoadwork_BusStop>Bus Stop</BuildRoadwork_BusStop>
+  <BuildRoadwork_LockedRequiresPorject>/c2/bLOCKED - Requires project '%s' </BuildRoadwork_LockedRequiresPorject>
+  <BuildRoadwork_LockedReachedMax>/c2/bLOCKED - You reached the maximum number of bus stops (%d) </BuildRoadwork_LockedReachedMax>
+  <BuildObjects_DisplayAndSell>&Can be used to display and sell: </BuildObjects_DisplayAndSell>
+  <BuildObjects_Locked> /c2(locked) </BuildObjects_Locked>
+  <BuildObjects_Cost>&Cost /b$%S/t</BuildObjects_Cost>
+  <BuildObjects_MaintenanceCost> - Maintenance cost /b$%S/day/t </BuildObjects_MaintenanceCost>
+  <BuildObjects_LockedRequiresProject> &/c2/bLOCKED - Requires project '</BuildObjects_LockedRequiresProject>
+  <ObjectTooltip_NotAccessible>This object is not accessible by clerks and customers. </ObjectTooltip_NotAccessible>
+  <ObjectTooltip_NotBelongZone>This object does not belong to any active zone. Use the ASSIGN tool to extend an existing store's zone or create a new store. </ObjectTooltip_NotBelongZone>
+  <ObjectTooltip_NoProduct>There is no product assigned for this object. &Right-Click to set a product. </ObjectTooltip_NoProduct>
+  <ObjectTooltip_ProductExpired>The product on display has expired. </ObjectTooltip_ProductExpired>
+  <ObjectTooltip_NotAccessibleCustomers>This object is not accessible by customers. </ObjectTooltip_NotAccessibleCustomers>
+  <ZoneTooltip_Active>/b%s (active)</ZoneTooltip_Active>
+  <ZoneTooltip_Incomplete>/b%s (incomplete)</ZoneTooltip_Incomplete>
+  <Notification_Queues>/bMissed sales opportunities: Queues full (%02d:%02d) &Occurences: %d &/tCustomers are leaving /b%s /twithout buying anything because /bcheckout queues are full/t. &Add checkout counters and hire more cashiers to milk them for all they're worth &Left-Click to focus &Right-Click to dismiss </Notification_Queues>
+  <Notification_Squalor>/bMissed sales opportunities: Squalor (%02d:%02d) &Occurences: %d &/tCustomers are leaving the center because they are disgusted by the /bfilthyness/t. &Build maintenance centers and hire more janitors to keep them buying &Left-Click to focus &Right-Click to dismiss </Notification_Squalor>
+  <Notification_Restrooms>/bMissed sales opportunities: Restrooms (%02d:%02d) &Occurences: %d &/tCustomers are leaving the center because there are no restrooms or restrooms are full. &Build restrooms and add toilet cubicles to keep them on site &Right-Click to dismiss </Notification_Restrooms>
+  <Notification_Restaurants>/bMissed sales opportunities: Restaurants (%02d:%02d) &Occurences: %d &/tCustomers are leaving the center because they are hungry and there are no restaurants or restaurants are full. &Build restaurants to keep them on site &Right-Click to dismiss </Notification_Restaurants>
+  <Notification_Parking>/bMissed sales opportunities: Parking (%02d:%02d) &Occurences: %d &/tCustomers can't access the center because there are no available spots on the parking lot. &Build more parking spots to accomodate more customers &Right-Click to dismiss </Notification_Parking>
+  <Notification_ResearchComplete>/bResearch project complete: %ls &/tLeft-Click to select a new project </Notification_ResearchComplete>
+  <Notification_NewObjective>/bNew objective: %ls &/tReward: $%S &/tLeft-Click to dismiss </Notification_NewObjective>
+  <Notification_Stocks>/bMissed sales opportunities: Out of stock (%02d:%02d) &Occurences: %d &/tCustomers are leaving /b%s /twithout buying anything because some products are out of stock/t. &Hire stock clerks and make sure your storage has enough capacity to prevent this &Left-Click to focus &Right-Click to dismiss </Notification_Stocks>
+  <Notification_Rats>/bInfestation warning: Rats (%02d:%02d) &Occurences: %d &/tRats are spawning at your center due to the squalor and unhandled trash bags/t. &Build maintenance centers and hire builders to get rid of the rats &Also hire janitors to prevent rats from spawning in the first place &Left-Click to focus &Right-Click to dismiss </Notification_Rats>
+  <PromptNotif_Research>/bRESEARCH PROJECT COMPLETE</PromptNotif_Research>
+  <PromptNotif_Objective>/bOBJECTIVE COMPLETE</PromptNotif_Objective>
+  <PromptNotif_ObjectiveMsg>%ls &/tReward: $%S</PromptNotif_ObjectiveMsg>
+  <PromptNotif_ResearchMenu>RESEARCH MENU</PromptNotif_ResearchMenu>
+  <StatsHover_Objectives>/bObjectives</StatsHover_Objectives>
+  <StatsHover_Reward>Reward</StatsHover_Reward>
+  <StatsHover_SatisfactionNA>Real-time customer satisfaction: /bN/A</StatsHover_SatisfactionNA>
+  <StatsHover_Satisfaction>Real-time customer satisfaction: /b%d%%</StatsHover_Satisfaction>
+  <StatsHover_DailyCustomers>/b%d /tdaily customers</StatsHover_DailyCustomers>
+  <StatsHover_Unsatisfied>/b%d (%d%%) /tleft unsatisfied and will not come back tomorrow</StatsHover_Unsatisfied>
+  <StatsHover_Yesterday>Yesterday</StatsHover_Yesterday>
+  <StatsHover_Today>Today</StatsHover_Today>
+  <StatsHover_GrossProfit>Gross profit</StatsHover_GrossProfit>
+  <StatsHover_Maintenance>Maintenance</StatsHover_Maintenance>
+  <StatsHover_Salaries>Salaries</StatsHover_Salaries>
+  <StatsHover_Debt>Debt</StatsHover_Debt>
+  <StatsHover_NetProfit>Net profit</StatsHover_NetProfit>
+  <StatsHover_PeakCustomers>/bPeak customers on site</StatsHover_PeakCustomers>
+  <StatsHover_ParkingUsage>/bParking usage</StatsHover_ParkingUsage>
+  <StatsHover_Sales>/bSales</StatsHover_Sales>
+  <StatsHover_Profit>/bProfit</StatsHover_Profit>
+  <StatsHover_Cash>/bCash</StatsHover_Cash>
+  <StatsHover_DebtBold>/bDebt</StatsHover_DebtBold>
+  <ManageZone_GraphNetProfit>Net profit (last 30 days)</ManageZone_GraphNetProfit>
+  <ManageZone_GraphHourlySales>Hourly sales</ManageZone_GraphHourlySales>
+  <ManageStaff_SortUnsorted>Unsorted</ManageStaff_SortUnsorted>
+  <ManageStaff_SortStartingHour>Starting hour</ManageStaff_SortStartingHour>
+  <ManageStaff_SortSalary>Salary</ManageStaff_SortSalary>
+  <ManageStaff_SortPatrol>Patrol</ManageStaff_SortPatrol>
+  <ManageStaff_EditPatrols>EDIT PATROLS</ManageStaff_EditPatrols>
+  <HintMessage_FollowTutorial>/bPlease follow the tutorial's instructions</HintMessage_FollowTutorial>
+  <HintMessage_PickStorage>/bPick a storage for your business by clicking on its area on the map</HintMessage_PickStorage>
+  <HintMessage_PickTicketLobby>/bPick a ticket lobby for your business by clicking on its area on the map</HintMessage_PickTicketLobby>
+  <HintMessage_PickPatrol>/bPick a patrol for your guard by clicking on it on the map</HintMessage_PickPatrol>
+  <BuildPrompt_UnlockEntrancePrompt>Unlock this road entrance for $%S? </BuildPrompt_UnlockEntrancePrompt>
+  <BuildPrompt_Unlock>UNLOCK</BuildPrompt_Unlock>
+  <BuildPrompt_Cancel>CANCEL</BuildPrompt_Cancel>
+  <BuildPrompt_DeleteZoneWarningPrompt>Warning! This action will delete at least one active zone and fire all staff (if any).</BuildPrompt_DeleteZoneWarningPrompt>
+  <BuildPrompt_DeleteZoneWarningProceed>PROCEED</BuildPrompt_DeleteZoneWarningProceed>
+  <BuildPrompt_DeleteZoneWarningCancel>CANCEL</BuildPrompt_DeleteZoneWarningCancel>
+  <BuildTooltip_ClickToUnlockEntrance>Click to unlock this road entrance. Cost: $%S </BuildTooltip_ClickToUnlockEntrance>
+  <BuildTooltip_DontHaveEnoughFunds>You don't have enough funds to unlock this entrance. Cost: $%S </BuildTooltip_DontHaveEnoughFunds>
+  <BuildTooltip_ResearchToUnlockRoad>Research the /bRoad Network /tprojects to unlock this entrance. </BuildTooltip_ResearchToUnlockRoad>
+  <BuildTooltip_RoadIsInaccessible>This road is inaccessible. Connect it to the main entrance. </BuildTooltip_RoadIsInaccessible>
+  <BuildTooltip_AssignZoneDraw>Left-Click and drag to assign a zone. &If your selection overlaps an existing zone of the same type the zone will be extended. &Right-Click and drag to unassign a zone. </BuildTooltip_AssignZoneDraw>
+  <BuildTooltip_AssignZoneFill>Left-Click to assign a zone to the current selection. &If your selection overlaps an existing zone of the same type the zone will be extended. &Right-Click to unassign a zone. </BuildTooltip_AssignZoneFill>
+  <BuildTooltip_AssignProducts>Left-Click and drag to assign a product to multiple shelves. </BuildTooltip_AssignProducts>
+  <BuildTooltip_AssignPatrols>Left-Click to draw or extend a patrol. &Right-Click to crop or delete a patrol. </BuildTooltip_AssignPatrols>
+  <BuildTooltip_AssignTags>Left-Click and drag to mark products with anti-theft tags. &Right-Click and drag to remove anti-theft tags. </BuildTooltip_AssignTags>
+  <BuildTooltip_CantBuildOutOfMap>You can't build in this area. </BuildTooltip_CantBuildOutOfMap>
+  <BuildTooltip_ObjectCostDontHaveEnoughMoney>Cost: /b$%S/t - You don't have enough money to buy this object. </BuildTooltip_ObjectCostDontHaveEnoughMoney>
+  <BuildTooltip_ObjectCantPlaceHere>You can't place this object here. </BuildTooltip_ObjectCantPlaceHere>
+  <BuildTooltip_ObjectMustPlaceInddors>You must place this object indoors. </BuildTooltip_ObjectMustPlaceInddors>
+  <BuildTooltip_ObjectMustPlaceOnWall>You must place this object on a wall. </BuildTooltip_ObjectMustPlaceOnWall>
+  <BuildTooltip_CounterLowQueue>Cost: /b$%S/t. &/b/c2Max queue size: %d./t &/c0Press /bQ/t or the /bmousewheel button/t to rotate &Right-Click to cancel an order </BuildTooltip_CounterLowQueue>
+  <BuildTooltip_CounterMaxQueue>Cost: /b$%S/t. &Max queue size: %d &Press /bQ/t or the /bmousewheel button/t to rotate &Right-Click to cancel an order </BuildTooltip_CounterMaxQueue>
+  <BuildTooltip_ObjectCostCancel>Cost: /b$%S/t. &Right-Click to cancel an order </BuildTooltip_ObjectCostCancel>
+  <BuildTooltip_ObjectRotate> &Press /bQ/t or the /bmousewheel button/t to rotate </BuildTooltip_ObjectRotate>
+  <BuildTooltip_RoadworkCantOverlapBuildings>Roadwork can't overlap with buildings. If you really need to do roadwork here, delete part of the building first. </BuildTooltip_RoadworkCantOverlapBuildings>
+  <BuildTooltip_RoadworkMustAlongside>This must be built along an existing road. </BuildTooltip_RoadworkMustAlongside>
+  <BuildTooltip_RoadworkCannot2x2>You cannot build 2x2 road blocks. </BuildTooltip_RoadworkCannot2x2>
+  <BuildTooltip_RoadworkCannotCloseBusStops>You cannot build 2 Bus stops next to each other </BuildTooltip_RoadworkCannotCloseBusStops>
+  <BuildTooltip_RoadworkOrderCancel>Left-Click and drag to order building roadwork. &Right-Click and drag to cancel roadwork orders. </BuildTooltip_RoadworkOrderCancel>
+  <BuildTooltip_RoadworkOrderCancelCost>Left-Click to order building roadwork. Cost: $%S &Right-Click and drag to cancel roadwork orders. </BuildTooltip_RoadworkOrderCancelCost>
+  <BuildTooltip_RoadworkNotEnoughMoney>Cost: /b$%S/t - You don't have enough money to build this. </BuildTooltip_RoadworkNotEnoughMoney>
+  <BuildTooltip_RoadworkCost>Cost: /b$%S/t </BuildTooltip_RoadworkCost>
+  <BuildTooltip_FloorTile>Click and drag to select the area where you want the floor tiles changed. &Right-Click and drag to cancel orders. </BuildTooltip_FloorTile>
+  <BuildTooltip_FloorTileCostNotEnoughMoney>Cost: /b$%S/t - You don't have enough money to build this. </BuildTooltip_FloorTileCostNotEnoughMoney>
+  <BuildTooltip_FloorTileCost>Cost: /b$%S/t </BuildTooltip_FloorTileCost>
+  <BuildTooltip_RemoveObjects>Left-Click and drag to order removing walls and objects in the area. &Right-Click and drag to cancel orders. </BuildTooltip_RemoveObjects>
+  <BuildTooltip_RemoveFoundations>Left-Click and drag to order removing foundations, walls and objects in the area. &Right-Click and drag to cancel orders. </BuildTooltip_RemoveFoundations>
+  <BuildTooltip_RemoveRoadwork>Left-Click and drag to order removing roadwork in the area. &Right-Click and drag to cancel roadwork orders. </BuildTooltip_RemoveRoadwork>
+  <BuildTooltip_FoundationsNotOverRoadwork>You cannot build over roadwork. If you really need to build here, delete the roadwork first. </BuildTooltip_FoundationsNotOverRoadwork>
+  <BuildTooltip_Foundations>Left-Click and drag to draw the building's boundaries. &Right-Click and drag to cancel orders. </BuildTooltip_Foundations>
+  <BuildTooltip_Foundations4x4Min>Buildings must be 4x4 at minimum. </BuildTooltip_Foundations4x4Min>
+  <BuildTooltip_FoundationsCostNotEnoughMoney>Cost: /b$%S/t - You don't have enough money to build this. </BuildTooltip_FoundationsCostNotEnoughMoney>
+  <BuildTooltip_FoundationsCost>Cost: /b$%S/t </BuildTooltip_FoundationsCost>
+  <MarketingCampaign_Billboard>Billboard</MarketingCampaign_Billboard>
+  <MarketingCampaign_Newspaper>Local Newspaper Ad</MarketingCampaign_Newspaper>
+  <MarketingCampaign_Radio>Local Radio Ad</MarketingCampaign_Radio>
+  <MarketingCampaign_TV>Local TV Ad</MarketingCampaign_TV>
+  <MarketingCampaign_Banner>Online Banner (targeted)</MarketingCampaign_Banner>
+  <MarketingCampaign_Video>Online Video (targeted)</MarketingCampaign_Video>
+  <MarketingQuality_Minimal>Minimal</MarketingQuality_Minimal>
+  <MarketingQuality_Average>Average</MarketingQuality_Average>
+  <MarketingQuality_High>High</MarketingQuality_High>
+  <MarketingQuality_Premium>Premium</MarketingQuality_Premium>
+  <Marketing_CampaignType>Campaign type</Marketing_CampaignType>
+  <Marketing_DesignQuality>Design quality</Marketing_DesignQuality>
+  <Marketing_CampaignDuration>Campaign duration</Marketing_CampaignDuration>
+  <Marketing_Days>/b%d days</Marketing_Days>
+  <Marketing_DaysLeft>/b%d days - %d day(s) left</Marketing_DaysLeft>
+  <Marketing_DesignPhase>Design phase</Marketing_DesignPhase>
+  <Marketing_ManHours>/b%d man-hours</Marketing_ManHours>
+  <Marketing_DailyMaintenance>Daily maintenance</Marketing_DailyMaintenance>
+  <Marketing_Cost>Cost</Marketing_Cost>
+  <Marketing_ExpectedBoost>Expected sales boost</Marketing_ExpectedBoost>
+  <Marketing_NotEnoughMoney>/c2/bYou don't have enough money for this campaign.</Marketing_NotEnoughMoney>
+  <Marketing_ActiveBoost>/bActive marketing boost: %d%%</Marketing_ActiveBoost>
+  <Marketing_StartCampaign>START CAMPAIGN</Marketing_StartCampaign>
+  <Marketing_CancelCampaign>CANCEL CAMPAIGN</Marketing_CancelCampaign>
+  <Marketing_Oneshot>One shot</Marketing_Oneshot>
+  <Marketing_Autorenew>Auto-renew</Marketing_Autorenew>
+  <Objective_OpenBusiness>Open a business</Objective_OpenBusiness>
+  <Objective_ProductTypes>Sell %d different types of products</Objective_ProductTypes>
+  <Objective_DailyProfit>Turn a daily profit over $%S</Objective_DailyProfit>
+  <Objective_PeakCustomers>Have %d customers on site</Objective_PeakCustomers>
+  <Objective_TotalSales>Make %d total sales</Objective_TotalSales>
+  <Tutorial_Intro1>Hello and welcome. &You have somehow inherited this massive land. &Regional planning however forbids residential or industrial zoning in the area. &Commercial is your only option.</Tutorial_Intro1>
+  <Tutorial_Intro2>Let's have a look around. &Use WASD, or arrow keys to pan the camera. &Alternatively, hold the mousewheel button. &Use the mousewheel to zoom in and out. &You can also use T and G to zoom in and out. </Tutorial_Intro2>
+  <Tutorial_Intro3>This short tutorial will walk you through opening your first business. &Let's get started!</Tutorial_Intro3>
+  <Tutorial_Foundations>We need to build the foundations first. &Go into BUILD mode and select 'Foundations'. &Order your workers to build foundations by click-and-draging over the designated area.</Tutorial_Foundations>
+  <Tutorial_WaitSpeed>Perfect. &Now we need to wait for the foundations to be finished before we can build further. &You can speed up time with the fast forward button.</Tutorial_WaitSpeed>
+  <Tutorial_Doors>We will need doors to access the building. &Go into BUILD mode and select 'Objects'. &Place a Staff Door and a Double Door on the designated spots.</Tutorial_Doors>
+  <Tutorial_Wall>We should separate our future storage and store with a wall. &In BUILD mode, select 'Walls'. &Click and drag to build a wall on the designated spot.</Tutorial_Wall>
+  <Tutorial_StaffDoor>Let's put a staff door on this wall. &In BUILD mode, select 'Objects'. &Place a Staff Door on the designated spot.</Tutorial_StaffDoor>
+  <Tutorial_Storage>Now we will assign a function to the rooms. &Go into ASSIGN mode and select 'Storage' in the list. &Click and drag over the designated area to assign it as storage.</Tutorial_Storage>
+  <Tutorial_Store>Let's do the same but for the store area this time. &In ASSIGN mode, select 'Store' in the list. &Click and drag over the designated area to assign it as store.</Tutorial_Store>
+  <Tutorial_Shelves>A store needs shelves to display products. &Go into BUILD mode and select 'Objects'. &Place Shelves and Food Shelves on the designated spots.</Tutorial_Shelves>
+  <Tutorial_Checkout>Lastly, your store needs checkout counters. &In BUILD mode, select 'Objects'. &Place Checkout Counters on the designated spots.</Tutorial_Checkout>
+  <Tutorial_SetProducts>You will need to set products to sell on your shelves. &Go into SELECT mode and RIGHT-CLICK on your shelves. &Select 'Set Product for Shelf'. &Select a sub-category and then select a product. &Try not to sell the same product twice for now. &Do this for all your shelves.</Tutorial_SetProducts>
+  <Tutorial_LoadingZone>We need to have a Loading Zone for deliveries. &Go into BUILD mode and select 'Roadwork'. &Select 'Loading Zone' in the list. &Build a Loading Zone on the designated spot.</Tutorial_LoadingZone>
+  <Tutorial_AssignStorage>We need to link our storage with our store. &Go into MANAGE mode and select your STORE in the list. &Click on the ZONE tab. &Click on LINK STORAGE and click on your storage area.</Tutorial_AssignStorage>
+  <Tutorial_Hire>Last thing before we can open: &In MANAGE mode, select your store in the list. &Click on the STAFF tab. &Hire a Cashier and a Stock Clerk.</Tutorial_Hire>
+  <Tutorial_TrashCan>Good job! &Your store is now complete and will open at 9:00. &Let's anticipate: customers will litter if we don't have a trash can nearby. &Go into BUILD mode and select 'Objects'. &Place a Trash Can on the designated spot.</Tutorial_TrashCan>
+  <Tutorial_GarbagePickup>We will also need a garbage pickup area to evacuate trash bags. &Go into BUILD mode and select 'Roadwork'. &Select 'Garbage Pickup' in the list. &Build a Garbage Pickup on the designated spot.</Tutorial_GarbagePickup>
+  <Tutorial_Janitor>Lastly, we need to hire a janitor to keep the floors clean and handle the garbage. They won't have much to do at first but they soon will! &In MANAGE mode, select your MAINTENANCE CENTER in the list. &Click on the STAFF tab. &Hire a Janitor.</Tutorial_Janitor>
+  <Tutorial_OfficeFoundations>Good, that's taken care of. &At the moment we can only sell a small selection of products. We need to build an office to research new products, businesses and technologies. &Go into BUILD mode and select 'Foundations'. &Order your workers to build foundations over the designated area.</Tutorial_OfficeFoundations>
+  <Tutorial_OfficeWait>Nice. &Now let's wait for the foundations to be finished before we can build further. &You can speed up time with the fast forward button.</Tutorial_OfficeWait>
+  <Tutorial_OfficeObjects>Our office needs a door and a couple desks. &Go into BUILD mode and select 'Objects'. &Place a Staff Door and Office Desks on the designated spots.</Tutorial_OfficeObjects>
+  <Tutorial_OfficeAssign>Now let's assign the room as an office. &Go into ASSIGN mode and select 'Office' in the list. &Click and drag over the designated area to assign it as office.</Tutorial_OfficeAssign>
+  <Tutorial_OfficeHire>Office workers will work on research projects and marketing campaigns. &In MANAGE mode, select your OFFICE in the list. &Click on the STAFF tab. &Hire 2 Office workers.</Tutorial_OfficeHire>
+  <Tutorial_SendOff1>All things seem to be in order! &Here are some tips for a smooth expansion: &Keep your Builders busy! &Your parking lot will fill up very quickly. &Build more customer parking to accomodate more visitors.</Tutorial_SendOff1>
+  <Tutorial_SendOff2>The default store opening hours are unambitious. &Manage your store to open earlier and close later. &You will also need to hire cashiers to work those hours.</Tutorial_SendOff2>
+  <Tutorial_SendOff3>Offering a greater diversity of products will attract a lot more customers. &Research projects to unlock highly sought products such as fresh food, clothes or alcohol. &Open specialty stores to satisfy demand for rare and expensive products. </Tutorial_SendOff3>
+  <Tutorial_SendOff4>Finally, having non-retail businesses will make your customers stay on site and spend a whole lot more. &Research and build restaurants, bowling alleys and movie theaters to be the number one destination for nearby shoppers.</Tutorial_SendOff4>
+  <Tutorial_SendOff5>Thank you for following this tutorial. &You're on your own now. &Tooltips and notifications are your friends. &Let's fill this wild land with concrete and capitalism.</Tutorial_SendOff5>
+  <TutorialHint_Build>Build</TutorialHint_Build>
+  <TutorialHint_BuildA>Build a</TutorialHint_BuildA>
+  <TutorialHint_Foundations>foundations here</TutorialHint_Foundations>
+  <TutorialHint_StaffDoor>staff door here</TutorialHint_StaffDoor>
+  <TutorialHint_DoubleDoor>double door here</TutorialHint_DoubleDoor>
+  <TutorialHint_Wall>wall here</TutorialHint_Wall>
+  <TutorialHint_AssignZone>Assign this zone</TutorialHint_AssignZone>
+  <TutorialHint_Storage>as Storage</TutorialHint_Storage>
+  <TutorialHint_Store>as Store</TutorialHint_Store>
+  <TutorialHint_Shelf>shelf here</TutorialHint_Shelf>
+  <TutorialHint_FoodShelf>food shelf here</TutorialHint_FoodShelf>
+  <TutorialHint_Checkout>checkout counter here</TutorialHint_Checkout>
+  <TutorialHint_LoadingZone>loading zone here</TutorialHint_LoadingZone>
+  <TutorialHint_TrashCan>trash can here</TutorialHint_TrashCan>
+  <TutorialHint_GarbagePickup>garbage pickup area here</TutorialHint_GarbagePickup>
+  <TutorialHint_OfficeDesk>office desk here</TutorialHint_OfficeDesk>
+  <TutorialHint_Office>as Office</TutorialHint_Office>
+  <Tutorial_Continue>CONTINUE</Tutorial_Continue>
+  <NewGame_Scenario>SCENARIO</NewGame_Scenario>
+  <NewGame_SelectScenario>Select a scenario</NewGame_SelectScenario>
+  <NewGame_PlayScenario>PLAY SCENARIO</NewGame_PlayScenario>
+  <NewGame_FindMoreScenario>FIND MORE SCENARIOS ON THE WORKSHOP</NewGame_FindMoreScenario>
+  <Scenario_EditScenario>EDIT SCENARIO</Scenario_EditScenario>
+  <Scenario_EnterName>Enter a codename for your scenario</Scenario_EnterName>
+  <Scenario_NoTitle>No title</Scenario_NoTitle>
+  <Scenario_Nodescription>No description</Scenario_Nodescription>
+  <Scenario_Setup>SETUP</Scenario_Setup>
+  <Scenario_Sandbox>SANDBOX</Scenario_Sandbox>
+  <Scenario_Research>RESEARCH</Scenario_Research>
+  <Scenario_Demand>DEMAND</Scenario_Demand>
+  <Scenario_Obj1Star>1/3 STARS</Scenario_Obj1Star>
+  <Scenario_Obj2Stars>2/3 STARS</Scenario_Obj2Stars>
+  <Scenario_Obj3Stars>3/3 STARS</Scenario_Obj3Stars>
+  <Scenario_Upload>UPLOAD</Scenario_Upload>
+  <Scenario_SaveRestart>SAVE AND RESTART</Scenario_SaveRestart>
+  <Scenario_ApplyContinue>APPLY AND CONTINUE</Scenario_ApplyContinue>
+  <Scenario_StartingMoney>Start with $%S</Scenario_StartingMoney>
+  <Scenario_Clipboard>Get text from clipboard</Scenario_Clipboard>
+  <Scenario_TitleClipboard>Get Title from clipboard</Scenario_TitleClipboard>
+  <Scenario_ShortDescClipboard>Get Short description from clipboard</Scenario_ShortDescClipboard>
+  <Scenario_PickPNG>Pick Thumbnail (512x512 PNG)</Scenario_PickPNG>
+  <Scenario_PickMap>Pick map file</Scenario_PickMap>
+  <ScenarioResearch_UnlockAll>UNLOCK ALL</ScenarioResearch_UnlockAll>
+  <ScenarioResearch_ClearAll>CLEAR ALL</ScenarioResearch_ClearAll>
+  <ScenarioResearch_Unlock>UNLOCK</ScenarioResearch_Unlock>
+  <ScenarioResearch_Clear>CLEAR</ScenarioResearch_Clear>
+  <ScenarioDemand_SetDefault>SET DEFAULT DEMAND</ScenarioDemand_SetDefault>
+  <ScenarioDemand_Random>SET RANDOM DEMAND</ScenarioDemand_Random>
+  <ScenarioPrices_SetDefault>SET DEFAULT PRICES</ScenarioPrices_SetDefault>
+  <ScenarioPrices_Random>SET RANDOM PRICES</ScenarioPrices_Random>
+  <ScenarioObjectiveMenu_None>None</ScenarioObjectiveMenu_None>
+  <ScenarioObjectiveMenu_Build>Build</ScenarioObjectiveMenu_Build>
+  <ScenarioObjectiveMenu_Hire>Hire</ScenarioObjectiveMenu_Hire>
+  <ScenarioObjectiveMenu_Research>Research</ScenarioObjectiveMenu_Research>
+  <ScenarioObjectiveMenu_Sell>Sell</ScenarioObjectiveMenu_Sell>
+  <ScenarioObjectiveMenu_Funds>Funds</ScenarioObjectiveMenu_Funds>
+  <ScenarioObjectiveMenu_ProductTypes>Sell different products</ScenarioObjectiveMenu_ProductTypes>
+  <ScenarioObjectiveMenu_DailyProfit>Daily profit</ScenarioObjectiveMenu_DailyProfit>
+  <ScenarioObjectiveMenu_PeakCustomers>Peak customers</ScenarioObjectiveMenu_PeakCustomers>
+  <ScenarioObjectiveMenu_Satisfaction>Satisfaction</ScenarioObjectiveMenu_Satisfaction>
+  <ScenarioObjectiveMenu_Roadwork>Build roadwork</ScenarioObjectiveMenu_Roadwork>
+  <ScenarioObjectiveMenu_Rats>No rats</ScenarioObjectiveMenu_Rats>
+  <ScenarioObjectiveDisplay_None>None</ScenarioObjectiveDisplay_None>
+  <ScenarioObjectiveDisplay_Build>Build %dx %s</ScenarioObjectiveDisplay_Build>
+  <ScenarioObjectiveDisplay_Hire>Hire %dx %s</ScenarioObjectiveDisplay_Hire>
+  <ScenarioObjectiveDisplay_Research>Research the %s project</ScenarioObjectiveDisplay_Research>
+  <ScenarioObjectiveDisplay_Sell>Sell %dx %s</ScenarioObjectiveDisplay_Sell>
+  <ScenarioObjectiveDisplay_Funds>Reach $%d in cash</ScenarioObjectiveDisplay_Funds>
+  <ScenarioObjectiveDisplay_ProductTypes>Sell %d different products</ScenarioObjectiveDisplay_ProductTypes>
+  <ScenarioObjectiveDisplay_DailyProfit>Reach a daily profit of $%d</ScenarioObjectiveDisplay_DailyProfit>
+  <ScenarioObjectiveDisplay_PeakCustomers>Have %d customers on site</ScenarioObjectiveDisplay_PeakCustomers>
+  <ScenarioObjectiveDisplay_Satisfaction>Reach %d%% average satisfaction</ScenarioObjectiveDisplay_Satisfaction>
+  <ScenarioObjectiveDisplay_Roadwork>Build %dx %s</ScenarioObjectiveDisplay_Roadwork>
+  <ScenarioObjectiveDisplay_Rats>Exterminate the rats</ScenarioObjectiveDisplay_Rats>
+  <WorkshopMenu_UploadNewScenario>UPLOAD NEW SCENARIO TO WORSKHOP</WorkshopMenu_UploadNewScenario>
+  <WorkshopMenu_UpdateScenario>UPDATE WORSKHOP SCENARIO</WorkshopMenu_UpdateScenario>
+  <ScenarioDemo_Title>Burger Town</ScenarioDemo_Title>
+  <ScenarioDemo_ShortDesc>Expand the local convenience store and build a fast food restaurant for the hungry locals.</ScenarioDemo_ShortDesc>
+  <ScenarioDemo_Intro>Welcome! &
+
+The mayor of a nearby town has offered us to take ownership of the local convenience store on the condition that we build a fast food restaurant for the ever hungry locals.
+We're only getting deliveries of dry products at the moment, we'll need to build an office and hire some office workers to research the cold chain technology.
+This will allow deliveries of fresh products which are required to run a restaurant.
+It would also be a good idea to expand the parking lot to allow more customers on site.
+While your builders build and your office workers research, add some shelves to the convenience store and sell new products to get our profits rising!
+  </ScenarioDemo_Intro>
+  <ScenarioDemo_Step1>Nice job! &
+
+Now that we have unlocked the cold chain technology we can sell fresh produce for our customers and, more importantly, start researching restaurants!
+Don't forget to expand the parking lot, build checkout counters and hire cashiers as demand grows and more customers come to your store.
+  </ScenarioDemo_Step1>
+  <ScenarioDemo_Step2>Great job! &
+
+We're now able to build a fast food restaurant and meet that ever growing demand for greasy high calorie food.
+No need to build too big for now, one cook and a cashier should be sufficient at first.
+Meanwhile, keep expanding the parking lot, build checkout counters and hire cashiers at the general store as more customers come and spend their hard earned money.
+  </ScenarioDemo_Step2>
+  <ScenarioDemo_Step3>Congratulations! &
+
+Our little shopping area is certainly looking great and making a decent profit, and our fast food restaurant is delivering a steady flow of burgers.
+The mayor is delighted and the locals are well fed!
+
+What will you build next?
+  </ScenarioDemo_Step3>
+  <AbandonedMall_Title>Abandoned Mall</AbandonedMall_Title>
+  <AbandonedMall_ShortDesc>Revive an abandoned mall overtaken by rats and vegetation.</AbandonedMall_ShortDesc>
+  <AbandonedMall_Intro>Grab your hazmat suit! &
+
+You have been tasked with reviving an abandoned mall overtaken by rats and vegetation.
+The only business still open is Lance and Walter's, a Bar whose clientele seem unfazed by the nasty rodents.
+First things first, we need to stop the rat infestation from spreading any further.
+Open at least 4 maintenance centers, preferably close to where the rats are spawning, and hire a small army of builders and janitors.
+Builders will get rid of the rats and janitors will clean the dirt and garbage that caused the infestation in the first place.
+Let's get to work!
+  </AbandonedMall_Intro>
+  <AbandonedMall_Step1>Alright! &
+
+Our new workforce should be sufficient to handle our little rodent problem. If you feel it's not going fast enough, consider hiring some more builders.
+Meanwhile, we have to think about making money!
+Start opening shops in areas where the rats seem defeated and equipment and shelves are already there.
+You won't want to build too much until the rats are taken care of.
+  </AbandonedMall_Step1>
+  <AbandonedMall_Step2>Well, that's a relief! &
+
+Now that the rats are gone we can start seriously rebuilding.
+Reopen all those businesses and watch the customers flood the mall!
+We might want to fire some of our builders to avoid paying unnecessary wages...
+Time to make some serious profit!
+  </AbandonedMall_Step2>
+  <AbandonedMall_Step3>Amazing job! &
+
+The mall is back to life and thriving!
+And yet, surely, there is room for improvement...
+  </AbandonedMall_Step3>
+  <DebugMenu_ToggleF1>PRESS /bF1/t TO TOGGLE THE DEBUG OVERLAY</DebugMenu_ToggleF1>
+  <NewGame_ManageMods>MANAGE MODS</NewGame_ManageMods>
+  <ManageMods_Workshop>FIND MODS ON THE WORKSHOP</ManageMods_Workshop>
+  <ManageMods_Author>Author: /b%s</ManageMods_Author>
+  <ManageMods_DeleteUnsubscribe>Delete and unsubscribe </ManageMods_DeleteUnsubscribe>
+  <ManageMods_Enabled>This mod is ENABLED. &Left-click to disable. </ManageMods_Enabled>
+  <ManageMods_Disabled>This mod is DISABLED. &Left-click to enable. </ManageMods_Disabled>
+  <ManageModsInGame_Enabled>This mod is ENABLED. &You cannot disable mods in-game. </ManageModsInGame_Enabled>
+  <ManageModsInGame_Disabled>This mod is DISABLED. &Left-click to enable. &WARNING: you will not be able to disable this mod once enabled! </ManageModsInGame_Disabled>
+  <ManageMods_MoveUp>Move mod up. &Will be loaded earlier. </ManageMods_MoveUp>
+  <ManageMods_MoveDown>Move mod down. &Will be loaded later. </ManageMods_MoveDown>
+  <ManageMods_MissingMods>This file has %d unresolved mod dependencies. Do you want to subscribe to missing mods?</ManageMods_MissingMods>
+  <ManageMods_SubscribeToMods>SUBSCRIBE TO MISSING MODS</ManageMods_SubscribeToMods>
+  <ManageMods_MissingModsSubscribed>%d missing mod(s) were subscribed to. You might need to restart the game for them to load properly.</ManageMods_MissingModsSubscribed>
+  <Workshop_Error>Error</Workshop_Error>
+  <Workshop_ItemUploadMissing>Your mod must exist in both workshop\in\mods\ and workshop\out\mods\ when starting the game in order to upload it to the workshop.</Workshop_ItemUploadMissing>
+  <Workshop_ItemUpload>Uploading item to the workshop. Please wait.</Workshop_ItemUpload>
+  <Workshop_ItemUploaded>Workshop item successfully uploaded. You should now edit the title, description and change note on the Steam Workshop.</Workshop_ItemUploaded>
+  <UploadMods_UploadUpdate>UPLOAD/UPDATE MOD ON THE WORKSHOP</UploadMods_UploadUpdate>
+  <UploadMods_NoMods>There are no mods to upload.</UploadMods_NoMods>
+</LanguageData>
