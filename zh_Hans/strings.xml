@@ -251,9 +251,9 @@
   <ActorSkillDesc_Waiter>/t侍应能力决定了服务员招待顾客的速度 </ActorSkillDesc_Waiter>
   <ActorStatusDesc_Satisfaction>/t对顾客来说： &商品整洁、货源充足都会影响到你的顾客的满意度 &对员工来说： &薪水值影响员工的满意度，从而影响该员工的整体工作效率 </ActorStatusDesc_Satisfaction>
   <ActorStatusDesc_Hunger>/t如果商场里没有餐厅，饥饿的顾客就会回家 </ActorStatusDesc_Hunger>
-  <ActorStatusDesc_Bladder>/t如果商场里没有卫生间，憋不住的顾客就会回家 </ActorStatusDesc_Bladder>
-  <ActorStatusDesc_Nausea>/t恶心不适的顾客会离开商场 &此外，恶心值会降低满意度能达到的上限 </ActorStatusDesc_Nausea>
-  <ActorPanel_ToggleLog>切换日志显示 </ActorPanel_ToggleLog>
+  <ActorStatusDesc_Bladder>/t如果商场里没有卫生间，憋不住的顾客就会回家</ActorStatusDesc_Bladder>
+  <ActorStatusDesc_Nausea>/t恶心不适的顾客会离开商场 &此外，恶心值会降低满意度能达到的上限</ActorStatusDesc_Nausea>
+  <ActorPanel_ToggleLog>切换日志显示</ActorPanel_ToggleLog>
   <ActorPanel_StuckinTraffic>堵在路上</ActorPanel_StuckinTraffic>
   <ActorPanel_AtHome>在家</ActorPanel_AtHome>
   <ActorPanel_WillComeToWorkInHours>会在%d小时后来上班</ActorPanel_WillComeToWorkInHours>
@@ -266,7 +266,7 @@
   <ActorPanel_Status>/b角色状态</ActorPanel_Status>
   <ActorPanel_Skills>/b技术能力</ActorPanel_Skills>
   <ActorPanel_Traits>/b个性特点</ActorPanel_Traits>
-  <ActorPanel_Transfer>将员工指派到其它岗位 </ActorPanel_Transfer>
+  <ActorPanel_Transfer>将员工指派到其它岗位</ActorPanel_Transfer>
   <BreakPolicy_BreakPolicy>休假策略</BreakPolicy_BreakPolicy>
   <BreakPolicy_Default>默认员工休假策略</BreakPolicy_Default>
   <BreakPolicy_AsNeeded>随需随休</BreakPolicy_AsNeeded>
@@ -363,83 +363,83 @@
   <ActorLog_surrendering>正在交还被盗物品</ActorLog_surrendering>
   <ActorLog_stole>偷取了%ls &位于%ls</ActorLog_stole>
   <TraitName_Alcoholic>酒鬼</TraitName_Alcoholic>
-  <TraitDesc_Alcoholic>对各种酒类没有抵抗力 </TraitDesc_Alcoholic>
+  <TraitDesc_Alcoholic>对各种酒类没有抵抗力</TraitDesc_Alcoholic>
   <TraitName_Sweettooth>甜品控</TraitName_Sweettooth>
-  <TraitDesc_Sweettooth>对可乐、糖果、饼干以及冰淇淋没有抵抗力 </TraitDesc_Sweettooth>
+  <TraitDesc_Sweettooth>对可乐、糖果、饼干以及冰淇淋没有抵抗力</TraitDesc_Sweettooth>
   <TraitName_Gamer>玩家</TraitName_Gamer>
-  <TraitDesc_Gamer>对游戏主机和游戏没有抵抗力 </TraitDesc_Gamer>
+  <TraitDesc_Gamer>对游戏主机和游戏没有抵抗力</TraitDesc_Gamer>
   <TraitName_Techaddict>技术宅</TraitName_Techaddict>
-  <TraitDesc_Techaddict>对电脑、手机和平板没有抵抗力 </TraitDesc_Techaddict>
+  <TraitDesc_Techaddict>对电脑、手机和平板没有抵抗力</TraitDesc_Techaddict>
   <TraitName_Cameraenthusiast>摄影控</TraitName_Cameraenthusiast>
-  <TraitDesc_Cameraenthusiast>对照相机没有抵抗力 </TraitDesc_Cameraenthusiast>
+  <TraitDesc_Cameraenthusiast>对照相机没有抵抗力</TraitDesc_Cameraenthusiast>
   <TraitName_Brickaddict>积木控</TraitName_Brickaddict>
-  <TraitDesc_Brickaddict>对搭建式积木玩具没有抵抗力 </TraitDesc_Brickaddict>
+  <TraitDesc_Brickaddict>对搭建式积木玩具没有抵抗力</TraitDesc_Brickaddict>
   <TraitName_Shoescollector>鞋子收集者</TraitName_Shoescollector>
-  <TraitDesc_Shoescollector>对鞋子没有抵抗力 </TraitDesc_Shoescollector>
+  <TraitDesc_Shoescollector>对鞋子没有抵抗力</TraitDesc_Shoescollector>
   <TraitName_Fashionvictim>时尚受害者</TraitName_Fashionvictim>
-  <TraitDesc_Fashionvictim>对连衣裙、衬衫、夹克和外套没有抵抗力 </TraitDesc_Fashionvictim>
+  <TraitDesc_Fashionvictim>对连衣裙、衬衫、夹克和外套没有抵抗力</TraitDesc_Fashionvictim>
   <TraitName_Bookworm>书呆子</TraitName_Bookworm>
-  <TraitDesc_Bookworm>对书籍没有抵抗力 </TraitDesc_Bookworm>
+  <TraitDesc_Bookworm>对书籍没有抵抗力</TraitDesc_Bookworm>
   <TraitName_Carnivore>肉食控</TraitName_Carnivore>
-  <TraitDesc_Carnivore>对鲜肉没有抵抗力 </TraitDesc_Carnivore>
+  <TraitDesc_Carnivore>对鲜肉没有抵抗力</TraitDesc_Carnivore>
   <TraitName_Piscivore>海鲜控</TraitName_Piscivore>
-  <TraitDesc_Piscivore>对鲜鱼没有抵抗力 </TraitDesc_Piscivore>
+  <TraitDesc_Piscivore>对鲜鱼没有抵抗力</TraitDesc_Piscivore>
   <TraitName_Neatfreak>洁癖</TraitName_Neatfreak>
-  <TraitDesc_Neatfreak>对清洁剂没有抵抗力 &双倍的恶心值增长速度 &保洁能力有加成 </TraitDesc_Neatfreak>
+  <TraitDesc_Neatfreak>对清洁剂没有抵抗力 &双倍的恶心值增长速度 &保洁能力有加成</TraitDesc_Neatfreak>
   <TraitName_Moviebuff>电影爱好者</TraitName_Moviebuff>
-  <TraitDesc_Moviebuff>会连续在影院看电影 &对DVD和蓝光碟没有抵抗力 </TraitDesc_Moviebuff>
+  <TraitDesc_Moviebuff>会连续在影院看电影 &对DVD和蓝光碟没有抵抗力</TraitDesc_Moviebuff>
   <TraitName_Musiclover>音乐爱好者</TraitName_Musiclover>
-  <TraitDesc_Musiclover>对MP3播放器和音乐CD没有抵抗力 </TraitDesc_Musiclover>
+  <TraitDesc_Musiclover>对MP3播放器和音乐CD没有抵抗力</TraitDesc_Musiclover>
   <TraitName_Glutton>暴食者</TraitName_Glutton>
-  <TraitDesc_Glutton>饿意值不可低于50且以双倍速度增长 </TraitDesc_Glutton>
+  <TraitDesc_Glutton>饿意值不可低于50且以双倍速度增长</TraitDesc_Glutton>
   <TraitName_Ascetic>苦行僧</TraitName_Ascetic>
-  <TraitDesc_Ascetic>饿意值最高只能到达50 </TraitDesc_Ascetic>
+  <TraitDesc_Ascetic>饿意值最高只能到达50</TraitDesc_Ascetic>
   <TraitName_Incontinent>憋不住尿</TraitName_Incontinent>
-  <TraitDesc_Incontinent>尿意值不可低于50且以双倍速度增长 &对纸尿裤没有抵抗力 </TraitDesc_Incontinent>
+  <TraitDesc_Incontinent>尿意值不可低于50且以双倍速度增长 &对纸尿裤没有抵抗力</TraitDesc_Incontinent>
   <TraitName_Constipated>便便干燥</TraitName_Constipated>
-  <TraitDesc_Constipated>尿意值最高只能到达50 </TraitDesc_Constipated>
+  <TraitDesc_Constipated>尿意值最高只能到达50</TraitDesc_Constipated>
   <TraitName_Weakstomach>抵抗力弱</TraitName_Weakstomach>
-  <TraitDesc_Weakstomach>恶心值不可低于50且以双倍速度增长 </TraitDesc_Weakstomach>
+  <TraitDesc_Weakstomach>恶心值不可低于50且以双倍速度增长</TraitDesc_Weakstomach>
   <TraitName_Strongstomach>抵抗力强</TraitName_Strongstomach>
-  <TraitDesc_Strongstomach>恶心值最高只能到达50 </TraitDesc_Strongstomach>
+  <TraitDesc_Strongstomach>恶心值最高只能到达50</TraitDesc_Strongstomach>
   <TraitName_Restless>烦躁不安</TraitName_Restless>
-  <TraitDesc_Restless>耐心值有-50的负面加成 </TraitDesc_Restless>
+  <TraitDesc_Restless>耐心值有-50的负面加成</TraitDesc_Restless>
   <TraitName_Laid-back>悠闲自得</TraitName_Laid-back>
-  <TraitDesc_Laid-back>耐心值有+50的正面加成 </TraitDesc_Laid-back>
+  <TraitDesc_Laid-back>耐心值有+50的正面加成</TraitDesc_Laid-back>
   <TraitName_Swift>健步如飞</TraitName_Swift>
-  <TraitDesc_Swift>速度值有+50的正面加成 </TraitDesc_Swift>
+  <TraitDesc_Swift>速度值有+50的正面加成</TraitDesc_Swift>
   <TraitName_Sluggish>步履蹒跚</TraitName_Sluggish>
-  <TraitDesc_Sluggish>速度值有-50的负面加成 </TraitDesc_Sluggish>
+  <TraitDesc_Sluggish>速度值有-50的负面加成</TraitDesc_Sluggish>
   <TraitName_Affable>和蔼可亲</TraitName_Affable>
-  <TraitDesc_Affable>社交力有+50的正面加成 </TraitDesc_Affable>
+  <TraitDesc_Affable>社交力有+50的正面加成</TraitDesc_Affable>
   <TraitName_Irritable>脾气暴躁</TraitName_Irritable>
-  <TraitDesc_Irritable>社交力有-50的负面加成 </TraitDesc_Irritable>
+  <TraitDesc_Irritable>社交力有-50的负面加成</TraitDesc_Irritable>
   <TraitName_Formercashier>做过收银员</TraitName_Formercashier>
-  <TraitDesc_Formercashier>收银能力有加成 </TraitDesc_Formercashier>
+  <TraitDesc_Formercashier>收银能力有加成</TraitDesc_Formercashier>
   <TraitName_Formerjanitor>做过保洁员</TraitName_Formerjanitor>
-  <TraitDesc_Formerjanitor>保洁能力有加成 </TraitDesc_Formerjanitor>
+  <TraitDesc_Formerjanitor>保洁能力有加成</TraitDesc_Formerjanitor>
   <TraitName_Formerstockclerk>做过库管员</TraitName_Formerstockclerk>
-  <TraitDesc_Formerstockclerk>库管能力有加成 </TraitDesc_Formerstockclerk>
+  <TraitDesc_Formerstockclerk>库管能力有加成</TraitDesc_Formerstockclerk>
   <TraitName_Formerguard>做过保安</TraitName_Formerguard>
-  <TraitDesc_Formerguard>安保能力有加成 </TraitDesc_Formerguard>
+  <TraitDesc_Formerguard>安保能力有加成</TraitDesc_Formerguard>
   <TraitName_Formercook>做过厨师</TraitName_Formercook>
-  <TraitDesc_Formercook>厨艺能力有加成 </TraitDesc_Formercook>
+  <TraitDesc_Formercook>厨艺能力有加成</TraitDesc_Formercook>
   <TraitName_Formerbuilder>做过建筑师</TraitName_Formerbuilder>
-  <TraitDesc_Formerbuilder>建造能力有加成 </TraitDesc_Formerbuilder>
+  <TraitDesc_Formerbuilder>建造能力有加成</TraitDesc_Formerbuilder>
   <TraitName_Formerofficeworker>做过办公室职员</TraitName_Formerofficeworker>
-  <TraitDesc_Formerofficeworker>办公能力有加成 </TraitDesc_Formerofficeworker>
+  <TraitDesc_Formerofficeworker>办公能力有加成</TraitDesc_Formerofficeworker>
   <TraitName_Formerwaiter>做过服务员</TraitName_Formerwaiter>
-  <TraitDesc_Formerwaiter>侍应能力有加成 </TraitDesc_Formerwaiter>
+  <TraitDesc_Formerwaiter>侍应能力有加成</TraitDesc_Formerwaiter>
   <TraitName_Vaper>电子烟鬼</TraitName_Vaper>
-  <TraitDesc_Vaper>对电子烟没有抵抗力 </TraitDesc_Vaper>
+  <TraitDesc_Vaper>对电子烟没有抵抗力</TraitDesc_Vaper>
   <TraitName_Smoker>烟鬼</TraitName_Smoker>
-  <TraitDesc_Smoker>对香烟没有抵抗力 </TraitDesc_Smoker>
+  <TraitDesc_Smoker>对香烟没有抵抗力</TraitDesc_Smoker>
   <TraitName_Comicgeek>漫画宅</TraitName_Comicgeek>
-  <TraitDesc_Comicgeek>对漫画书没有抵抗力 </TraitDesc_Comicgeek>
+  <TraitDesc_Comicgeek>对漫画书没有抵抗力</TraitDesc_Comicgeek>
   <TraitName_Technophobe>科技恐惧</TraitName_Technophobe>
-  <TraitDesc_Technophobe>拒绝使用自助结账机 </TraitDesc_Technophobe>
+  <TraitDesc_Technophobe>拒绝使用自助结账机</TraitDesc_Technophobe>
   <TraitName_Litterer>垃圾人</TraitName_Litterer>
-  <TraitDesc_Litterer>就算附近有垃圾桶也要随地丢垃圾 </TraitDesc_Litterer>
+  <TraitDesc_Litterer>就算附近有垃圾桶也要随地丢垃圾</TraitDesc_Litterer>
   <ObjectPanel_YesterdaysProfit>昨日利润：/b$%S</ObjectPanel_YesterdaysProfit>
   <ObjectPanel_TodaysProfit>今日利润（进行中）：/b$%S</ObjectPanel_TodaysProfit>
   <ObjectPanel_Displaying>货架商品：/b%s</ObjectPanel_Displaying>
@@ -456,8 +456,8 @@
   <ObjectPanel_MaxQueueSize>最大队列长度：/b%d</ObjectPanel_MaxQueueSize>
   <ObjectPanel_MaintenanceCost>维护成本 /b$%S/天/t</ObjectPanel_MaintenanceCost>
   <ObjectPanel_Stock>库存：/b%d/%d (%d%%)</ObjectPanel_Stock>
-  <ObjectPanel_Remove>下令移除物品。热键：/bDEL </ObjectPanel_Remove>
-  <ObjectPanel_Move>移动物品。热键：/bM </ObjectPanel_Move>
+  <ObjectPanel_Remove>下令移除物品。热键：/bDEL</ObjectPanel_Remove>
+  <ObjectPanel_Move>移动物品。热键：/bM</ObjectPanel_Move>
   <ObjectPanel_TrashFull>已装满%d%%</ObjectPanel_TrashFull>
   <ObjectPanel_YesterdaysUsage>昨日使用次数：/b%d</ObjectPanel_YesterdaysUsage>
   <ObjectPanel_TodaysUsage>今日使用次数（进行中）：/b%d</ObjectPanel_TodaysUsage>
@@ -810,7 +810,7 @@
   <EventName_Music>大牌专辑上市</EventName_Music>
   <EventDesc_Music>某格莱美获奖乐队刚刚发行了他们最新的作品。 &毫无疑问会引发粉丝们的CD抢购风潮。</EventDesc_Music>
   <EventName_MothersDay>母亲节</EventName_MothersDay>
-  <EventDesc_MothersDay>到处都在宣传世上只有妈妈好！不趁机赚上一笔就太可惜了。 </EventDesc_MothersDay>
+  <EventDesc_MothersDay>到处都在宣传世上只有妈妈好！不趁机赚上一笔就太可惜了。</EventDesc_MothersDay>
   <EventName_FathersDay>父亲节</EventName_FathersDay>
   <EventDesc_FathersDay>爸爸您辛苦了！给他们送上一瓶好酒，再带个开瓶器。</EventDesc_FathersDay>
   <EventName_Spring>春季来临</EventName_Spring>
@@ -841,20 +841,20 @@
   <ContextMenu_OrderJanitor>命令%s来清理这片区域</ContextMenu_OrderJanitor>
   <ContextMenu_FollowPeep>跟随%s（%s）</ContextMenu_FollowPeep>
   <ContextMenu_SetProduct>为%s设置商品  »</ContextMenu_SetProduct>
-  <GameUITooltip_Statistics>/b图表 </GameUITooltip_Statistics>
-  <GameUITooltip_Finance>/b财务 </GameUITooltip_Finance>
-  <GameUITooltip_Research>/b研究 </GameUITooltip_Research>
-  <GameUITooltip_Needs>/b需求 </GameUITooltip_Needs>
-  <GameUITooltip_Marketing>/b市场 </GameUITooltip_Marketing>
-  <GameUITooltip_Menu>/b菜单 </GameUITooltip_Menu>
+  <GameUITooltip_Statistics>/b图表</GameUITooltip_Statistics>
+  <GameUITooltip_Finance>/b财务</GameUITooltip_Finance>
+  <GameUITooltip_Research>/b研究</GameUITooltip_Research>
+  <GameUITooltip_Needs>/b需求</GameUITooltip_Needs>
+  <GameUITooltip_Marketing>/b市场</GameUITooltip_Marketing>
+  <GameUITooltip_Menu>/b菜单</GameUITooltip_Menu>
   <GameUITooltip_Pause>热键：/b1 &切换：/b空格</GameUITooltip_Pause>
-  <GameUITooltip_Speed1>热键：/b2 </GameUITooltip_Speed1>
-  <GameUITooltip_Speed2>热键：/b3 </GameUITooltip_Speed2>
-  <GameUITooltip_Speed3>热键：/b4 </GameUITooltip_Speed3>
-  <GameUITooltip_Select>热键：/bE </GameUITooltip_Select>
-  <GameUITooltip_Build>热键：/bR </GameUITooltip_Build>
-  <GameUITooltip_Assign>热键：/bF </GameUITooltip_Assign>
-  <GameUITooltip_Manage>热键：/bC </GameUITooltip_Manage>
+  <GameUITooltip_Speed1>热键：/b2</GameUITooltip_Speed1>
+  <GameUITooltip_Speed2>热键：/b3</GameUITooltip_Speed2>
+  <GameUITooltip_Speed3>热键：/b4</GameUITooltip_Speed3>
+  <GameUITooltip_Select>热键：/bE</GameUITooltip_Select>
+  <GameUITooltip_Build>热键：/bR</GameUITooltip_Build>
+  <GameUITooltip_Assign>热键：/bF</GameUITooltip_Assign>
+  <GameUITooltip_Manage>热键：/bC</GameUITooltip_Manage>
   <GameUI_Day>/b第%d天</GameUI_Day>
   <GameUI_Select>选择</GameUI_Select>
   <GameUI_Build>建造</GameUI_Build>
@@ -865,7 +865,7 @@
   <ManageZoneTab_Zone>区域</ManageZoneTab_Zone>
   <ManageZoneTab_Staff>员工</ManageZoneTab_Staff>
   <ManageZoneTab_Products>商品</ManageZoneTab_Products>
-  <ManageZone_RenameTooltip>左键点击重命名 </ManageZone_RenameTooltip>
+  <ManageZone_RenameTooltip>左键点击重命名</ManageZone_RenameTooltip>
   <ManageZone_Status>状态：/b%s</ManageZone_Status>
   <ManageZone_Active>有效</ManageZone_Active>
   <ManageZone_Incomplete>未完成</ManageZone_Incomplete>
@@ -885,7 +885,7 @@
   <ManageZone_NetProfit>净利润</ManageZone_NetProfit>
   <ManageZone_ProfitMargin>利润率</ManageZone_ProfitMargin>
   <ManageZone_OpeningHour>营业时间：%02d:00</ManageZone_OpeningHour>
-  <ManageZone_HoursTooltip>研究“/b夜班/t”项目后可以在0:00与6:00之间营业 </ManageZone_HoursTooltip>
+  <ManageZone_HoursTooltip>研究“/b夜班/t”项目后可以在0:00与6:00之间营业</ManageZone_HoursTooltip>
   <ManageZone_Closed>设置时长：/b已打烊</ManageZone_Closed>
   <ManageZone_SetDuration>设置时长：%d小时（下班时间：%02d:00）</ManageZone_SetDuration>
   <ManageStaff_HireCashier>雇佣收银员</ManageStaff_HireCashier>
@@ -896,18 +896,18 @@
   <ManageStaff_HireOfficeWorker>雇用办公室职员</ManageStaff_HireOfficeWorker>
   <ManagaStaff_HireWaiter>雇佣服务员</ManagaStaff_HireWaiter>
   <ManageStaff_HireSecurity>雇佣保安</ManageStaff_HireSecurity>
-  <ManageStaff_DaysEmployed>已受雇天数：%d </ManageStaff_DaysEmployed>
-  <ManageStaff_HoursWorked>&平均工时：%d </ManageStaff_HoursWorked>
-  <ManageStaff_SalariesPaid>&平均薪资：$%d </ManageStaff_SalariesPaid>
-  <ManageStaff_RevenueMade>&平均营收：$%d </ManageStaff_RevenueMade>
-  <ManageStaff_Profitability>&利润比：%d%% </ManageStaff_Profitability>
-  <ManageStaff_ShelvesRestocked>&平均补货货架数：%d </ManageStaff_ShelvesRestocked>
-  <ManageStaff_RestockCost>&平均补货成本：$%.2f </ManageStaff_RestockCost>
-  <ManageStaff_CellsCleaned>&平均打扫的格数：%d </ManageStaff_CellsCleaned>
-  <ManageStaff_CleaningCost>&平均打扫成本：$%.2f </ManageStaff_CleaningCost>
-  <ManageStaff_MealsCooked>&平均烹饪餐食数：%d </ManageStaff_MealsCooked>
-  <ManageStaff_CookingCost>&平均烹饪成本：$%.2f </ManageStaff_CookingCost>
-  <ManageStaff_RecoveredValue>&平均收回的价值：$%d </ManageStaff_RecoveredValue>
+  <ManageStaff_DaysEmployed>已受雇天数：%d</ManageStaff_DaysEmployed>
+  <ManageStaff_HoursWorked>&平均工时：%d</ManageStaff_HoursWorked>
+  <ManageStaff_SalariesPaid>&平均薪资：$%d</ManageStaff_SalariesPaid>
+  <ManageStaff_RevenueMade>&平均营收：$%d</ManageStaff_RevenueMade>
+  <ManageStaff_Profitability>&利润比：%d%%</ManageStaff_Profitability>
+  <ManageStaff_ShelvesRestocked>&平均补货货架数：%d</ManageStaff_ShelvesRestocked>
+  <ManageStaff_RestockCost>&平均补货成本：$%.2f</ManageStaff_RestockCost>
+  <ManageStaff_CellsCleaned>&平均打扫的格数：%d</ManageStaff_CellsCleaned>
+  <ManageStaff_CleaningCost>&平均打扫成本：$%.2f</ManageStaff_CleaningCost>
+  <ManageStaff_MealsCooked>&平均烹饪餐食数：%d</ManageStaff_MealsCooked>
+  <ManageStaff_CookingCost>&平均烹饪成本：$%.2f</ManageStaff_CookingCost>
+  <ManageStaff_RecoveredValue>&平均收回的价值：$%d</ManageStaff_RecoveredValue>
   <ManageStaff_SetSalary>/b设定薪资：$%S</ManageStaff_SetSalary>
   <ManageStaff_Salary>/b薪资：$%S</ManageStaff_Salary>
   <ManageStaff_SetStartingHour>/b设定上班时间：%02d:00</ManageStaff_SetStartingHour>
@@ -917,7 +917,7 @@
   <ManageStaff_Open>营业中</ManageStaff_Open>
   <ManageStaff_Sales>销量</ManageStaff_Sales>
   <ManageStaff_Workforce>人力</ManageStaff_Workforce>
-  <ManageStaff_ResearchBigData>研究“大数据”项目以揭露该名人员的个性特点 </ManageStaff_ResearchBigData>
+  <ManageStaff_ResearchBigData>研究“大数据”项目以揭露该名人员的个性特点</ManageStaff_ResearchBigData>
   <ManageStaff_AutoSalary>自动调薪</ManageStaff_AutoSalary>
   <ManageStaff_ManualSalary>手动调薪</ManageStaff_ManualSalary>
   <ManageStaff_ShiftPlanning>排班规划</ManageStaff_ShiftPlanning>
@@ -926,7 +926,7 @@
   <ManageProducts_NoProductSelected>尚未选定商品</ManageProducts_NoProductSelected>
   <ManageProducts_ManualMargin>手动设置利润</ManageProducts_ManualMargin>
   <ManageProducts_AutoMargin>自动设置利润</ManageProducts_AutoMargin>
-  <AssignZone_LockedRequiresProject> &/c2/b已锁定 - 需要研究项目“</AssignZone_LockedRequiresProject>
+  <AssignZone_LockedRequiresProject>&/c2/b已锁定 - 需要研究项目“</AssignZone_LockedRequiresProject>
   <AssignMode_Zones>区域</AssignMode_Zones>
   <AssignMode_Products>商品</AssignMode_Products>
   <AssignMode_Patrols>巡逻</AssignMode_Patrols>
@@ -949,29 +949,29 @@
   <BuildRoadwork_StaffOnlyParking>员工停车场</BuildRoadwork_StaffOnlyParking>
   <BuildRoadwork_GarbagePickup>垃圾装载区</BuildRoadwork_GarbagePickup>
   <BuildRoadwork_BusStop>公交车站</BuildRoadwork_BusStop>
-  <BuildRoadwork_LockedRequiresPorject>/c2/b已锁定 - 需要研究项目“%s” </BuildRoadwork_LockedRequiresPorject>
-  <BuildRoadwork_LockedReachedMax>/c2/b已锁定 - 你已达到最大允许建造的公交车站数量（%d） </BuildRoadwork_LockedReachedMax>
-  <BuildObjects_DisplayAndSell>&可用于展示和出售： </BuildObjects_DisplayAndSell>
-  <BuildObjects_Locked> /c2（已锁定） </BuildObjects_Locked>
+  <BuildRoadwork_LockedRequiresPorject>/c2/b已锁定 - 需要研究项目“%s”</BuildRoadwork_LockedRequiresPorject>
+  <BuildRoadwork_LockedReachedMax>/c2/b已锁定 - 你已达到最大允许建造的公交车站数量（%d）</BuildRoadwork_LockedReachedMax>
+  <BuildObjects_DisplayAndSell>&可用于展示和出售：</BuildObjects_DisplayAndSell>
+  <BuildObjects_Locked>/c2（已锁定）</BuildObjects_Locked>
   <BuildObjects_Cost>&成本/b$%S/t</BuildObjects_Cost>
-  <BuildObjects_MaintenanceCost> - 维护成本/b$%S/天/t </BuildObjects_MaintenanceCost>
-  <BuildObjects_LockedRequiresProject> &/c2/b已锁定 - 需要研究项目“</BuildObjects_LockedRequiresProject>
-  <ObjectTooltip_NotAccessible>该物件无法被雇员和顾客接触到。 </ObjectTooltip_NotAccessible>
-  <ObjectTooltip_NotBelongZone>该物件不属于任何有效区域。请使用“指派”工具扩张一个 &现存的商店或者创建一个新的商店。 </ObjectTooltip_NotBelongZone>
-  <ObjectTooltip_NoProduct>该物件没有指定一个商品。 &右键点击设置一个商品。 </ObjectTooltip_NoProduct>
-  <ObjectTooltip_ProductExpired>架上的商品已经过期了。 </ObjectTooltip_ProductExpired>
-  <ObjectTooltip_NotAccessibleCustomers>顾客无法接触到该物品。 </ObjectTooltip_NotAccessibleCustomers>
+  <BuildObjects_MaintenanceCost>- 维护成本/b$%S/天/t</BuildObjects_MaintenanceCost>
+  <BuildObjects_LockedRequiresProject>&/c2/b已锁定 - 需要研究项目“</BuildObjects_LockedRequiresProject>
+  <ObjectTooltip_NotAccessible>该物件无法被雇员和顾客接触到。</ObjectTooltip_NotAccessible>
+  <ObjectTooltip_NotBelongZone>该物件不属于任何有效区域。请使用“指派”工具扩张一个 &现存的商店或者创建一个新的商店。</ObjectTooltip_NotBelongZone>
+  <ObjectTooltip_NoProduct>该物件没有指定一个商品。 &右键点击设置一个商品。</ObjectTooltip_NoProduct>
+  <ObjectTooltip_ProductExpired>货架上的商品过期了。</ObjectTooltip_ProductExpired>
+  <ObjectTooltip_NotAccessibleCustomers>顾客无法接触到该物品。</ObjectTooltip_NotAccessibleCustomers>
   <ZoneTooltip_Active>/b%s（有效）</ZoneTooltip_Active>
   <ZoneTooltip_Incomplete>/b%s（未完成）</ZoneTooltip_Incomplete>
-  <Notification_Queues>/b错失销售机会：队伍已满（%02d:%02d） &出现次数：%d &/t顾客未购买任何东西就离开了/b%s/t， 因为/b结账队伍已满/t &增加更多的结账柜台并雇佣更多的收银员， &以榨取他们的全部价值。 &左键点击前往事件地点 &右键点击删除消息 </Notification_Queues>
-  <Notification_Squalor>/b错失销售机会：脏乱差（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为被/b脏污/t恶心到了。 &建造维护中心并雇佣更多的保洁员以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息 </Notification_Squalor>
-  <Notification_Restrooms>/b错失销售机会：缺少卫生间（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为找不到卫生间或者卫生间已满 &建造卫生间并增加隔间以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息 </Notification_Restrooms>
-  <Notification_Restaurants>/b错失销售机会：餐厅不足（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为他们很饿但是没有餐厅或者餐厅已满 &建造更多的餐厅以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息 </Notification_Restaurants>
-  <Notification_Parking>/b错失销售机会：车位不足（%02d:%02d） &出现次数：%d &/t顾客无法前来购物，因为停车场车位不足 &扩建更多的停车场以容纳更多的顾客 &左键点击前往事件地点 &右键点击删除消息 </Notification_Parking>
-  <Notification_ResearchComplete>/b研究项目已完成：%ls &/t左键点击以选择一个新项目 </Notification_ResearchComplete>
-  <Notification_NewObjective>/b新任务目标：%ls &/t任务奖励：$%S &/t左键点击删除消息 </Notification_NewObjective>
-  <Notification_Stocks>/b错失销售机会：库存不足（%02d:%02d） &出现次数：%d &/t顾客未购买任何东西就离开了/b%s/t， 因为东西卖完了 &雇佣更多的库管员并保证库存充足以避免这种情况发生 &左键点击前往事件地点 &右键点击删除消息 </Notification_Stocks>
-  <Notification_Rats>/b瘟疫警报：老鼠（%02d:%02d） &出现次数：%d &/t由于地面脏乱外加垃圾无人处理，鼠害正在商场中滋生 &建造维护中心并雇佣建筑师前来灭鼠 &同时也要雇佣保洁员来确保老鼠不会出现 &左键点击前往事件地点 &右键点击删除消息 </Notification_Rats>
+  <Notification_Queues>/b错失销售机会：队伍已满（%02d:%02d） &出现次数：%d &/t顾客未购买任何东西就离开了/b%s/t， 因为/b结账队伍已满/t &增加更多的结账柜台并雇佣更多的收银员， &以榨取他们的全部价值。 &左键点击前往事件地点 &右键点击删除消息</Notification_Queues>
+  <Notification_Squalor>/b错失销售机会：脏乱差（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为被/b脏污/t恶心到了。 &建造维护中心并雇佣更多的保洁员以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息</Notification_Squalor>
+  <Notification_Restrooms>/b错失销售机会：缺少卫生间（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为找不到卫生间或者卫生间已满 &建造卫生间并增加隔间以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息</Notification_Restrooms>
+  <Notification_Restaurants>/b错失销售机会：餐厅不足（%02d:%02d） &出现次数：%d &/t顾客正在离开，因为他们很饿但是没有餐厅或者餐厅已满 &建造更多的餐厅以防止顾客离开 &左键点击前往事件地点 &右键点击删除消息</Notification_Restaurants>
+  <Notification_Parking>/b错失销售机会：车位不足（%02d:%02d） &出现次数：%d &/t顾客无法前来购物，因为停车场车位不足 &扩建更多的停车场以容纳更多的顾客 &左键点击前往事件地点 &右键点击删除消息</Notification_Parking>
+  <Notification_ResearchComplete>/b研究项目已完成：%ls &/t左键点击以选择一个新项目</Notification_ResearchComplete>
+  <Notification_NewObjective>/b新任务目标：%ls &/t任务奖励：$%S &/t左键点击删除消息</Notification_NewObjective>
+  <Notification_Stocks>/b错失销售机会：库存不足（%02d:%02d） &出现次数：%d &/t顾客未购买任何东西就离开了/b%s/t， 因为东西卖完了 &雇佣更多的库管员并保证库存充足以避免这种情况发生 &左键点击前往事件地点 &右键点击删除消息</Notification_Stocks>
+  <Notification_Rats>/b瘟疫警报：老鼠（%02d:%02d） &出现次数：%d &/t由于地面脏乱外加垃圾无人处理，鼠害正在商场中滋生 &建造维护中心并雇佣建筑师前来灭鼠 &同时也要雇佣保洁员来确保老鼠不会出现 &左键点击前往事件地点 &右键点击删除消息</Notification_Rats>
   <PromptNotif_Research>/b研究项目已完成</PromptNotif_Research>
   <PromptNotif_Objective>/b任务目标已完成</PromptNotif_Objective>
   <PromptNotif_ObjectiveMsg>%ls &/t任务奖励：$%S</PromptNotif_ObjectiveMsg>
@@ -1006,49 +1006,49 @@
   <HintMessage_PickStorage>/b通过在地图上点选仓库区域可将其与该设施关联</HintMessage_PickStorage>
   <HintMessage_PickTicketLobby>/b通过在地图上点选售票处可将其与该设施关联</HintMessage_PickTicketLobby>
   <HintMessage_PickPatrol>/b通过在地图上点选巡逻点可将其指派给该保安</HintMessage_PickPatrol>
-  <BuildPrompt_UnlockEntrancePrompt>花费$%S解锁这段道路入口吗？ </BuildPrompt_UnlockEntrancePrompt>
+  <BuildPrompt_UnlockEntrancePrompt>花费$%S解锁这段道路入口吗？</BuildPrompt_UnlockEntrancePrompt>
   <BuildPrompt_Unlock>解锁</BuildPrompt_Unlock>
   <BuildPrompt_Cancel>取消</BuildPrompt_Cancel>
   <BuildPrompt_DeleteZoneWarningPrompt>警告！该操作会删除至少一个有效区域并且开除其中全部员工（如果有的话）。</BuildPrompt_DeleteZoneWarningPrompt>
   <BuildPrompt_DeleteZoneWarningProceed>继续</BuildPrompt_DeleteZoneWarningProceed>
   <BuildPrompt_DeleteZoneWarningCancel>取消</BuildPrompt_DeleteZoneWarningCancel>
-  <BuildTooltip_ClickToUnlockEntrance>点击解锁这段道路入口。花费：$%S </BuildTooltip_ClickToUnlockEntrance>
-  <BuildTooltip_DontHaveEnoughFunds>你的资金不足以解锁这段路口。花费：$%S </BuildTooltip_DontHaveEnoughFunds>
-  <BuildTooltip_ResearchToUnlockRoad>研究“道路网络”项目以解锁这个入口。 </BuildTooltip_ResearchToUnlockRoad>
-  <BuildTooltip_RoadIsInaccessible>这条路无法抵达，需将其与主入口相连。 </BuildTooltip_RoadIsInaccessible>
-  <BuildTooltip_AssignZoneDraw>左键点击并拖拽以指派一个区域。 &如果你划定的区域与现有区域重叠，且其类型相同， 则会扩张该区域。 &右键点击并拖拽会取消指派区域。 </BuildTooltip_AssignZoneDraw>
-  <BuildTooltip_AssignZoneFill>左键点击以指派一个区域至当前选择。 &如果你划定的区域与现有区域重叠，且其类型相同， 则会扩张该区域。 &右键点击并拖拽会取消指派区域。 </BuildTooltip_AssignZoneFill>
-  <BuildTooltip_AssignProducts>左键点击并拖拽可将商品上架至多个货架。 </BuildTooltip_AssignProducts>
-  <BuildTooltip_AssignPatrols>左键点击以绘制或扩张巡逻点。 &右键点击可删除一个巡逻点。 </BuildTooltip_AssignPatrols>
-  <BuildTooltip_AssignTags>左键点击并拖拽可以将商品挂上防盗标签。 &右键点击并拖拽可以移除防盗标签。 </BuildTooltip_AssignTags>
-  <BuildTooltip_CantBuildOutOfMap>你不可在该区域内建造。 </BuildTooltip_CantBuildOutOfMap>
-  <BuildTooltip_ObjectCostDontHaveEnoughMoney>花费：/b$%S/t - 你的资金不足以建造该物体。 </BuildTooltip_ObjectCostDontHaveEnoughMoney>
-  <BuildTooltip_ObjectCantPlaceHere>你不可将该物体放置在此。 </BuildTooltip_ObjectCantPlaceHere>
-  <BuildTooltip_ObjectMustPlaceInddors>你只能将该物体放置在室内。 </BuildTooltip_ObjectMustPlaceInddors>
-  <BuildTooltip_ObjectMustPlaceOnWall>你只能将该物体挂在墙上。 </BuildTooltip_ObjectMustPlaceOnWall>
-  <BuildTooltip_CounterLowQueue>花费：/b$%S/t。 &/b/c2最大队伍长度：%d。/t &/c0按/bQ/t键或者使用/b鼠标中键/t旋转 &右键点击可取消命令 </BuildTooltip_CounterLowQueue>
-  <BuildTooltip_CounterMaxQueue>花费：/b$%S/t。 &最大队伍长度：%d。 &按/bQ/t键或者使用/b鼠标中键/t旋转 &右键点击可取消命令 </BuildTooltip_CounterMaxQueue>
-  <BuildTooltip_ObjectCostCancel>花费：/b$%S/t。 &右键点击可取消命令 </BuildTooltip_ObjectCostCancel>
-  <BuildTooltip_ObjectRotate> &按/bQ/t键或者使用/b鼠标中键/t旋转 </BuildTooltip_ObjectRotate>
-  <BuildTooltip_RoadworkCantOverlapBuildings>道路不能与建筑物重叠。如果你真的要在这里修路， 请先拆除部分建筑。 </BuildTooltip_RoadworkCantOverlapBuildings>
-  <BuildTooltip_RoadworkMustAlongside>只能沿着现有道路建造。 </BuildTooltip_RoadworkMustAlongside>
-  <BuildTooltip_RoadworkCannot2x2>你不可建造2x2大小的道路。 </BuildTooltip_RoadworkCannot2x2>
-  <BuildTooltip_RoadworkCannotCloseBusStops>你不可在相邻位置建造两个公交车站 </BuildTooltip_RoadworkCannotCloseBusStops>
-  <BuildTooltip_RoadworkOrderCancel>左键点击并拖拽以下令建造道路。 &右键点击并拖拽以取消道路建造命令。 </BuildTooltip_RoadworkOrderCancel>
-  <BuildTooltip_RoadworkOrderCancelCost>左键点击以下令建造道路。花费：$%S &右键点击并拖拽以取消道路建造命令。 </BuildTooltip_RoadworkOrderCancelCost>
-  <BuildTooltip_RoadworkNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。 </BuildTooltip_RoadworkNotEnoughMoney>
-  <BuildTooltip_RoadworkCost>花费：/b$%S/t </BuildTooltip_RoadworkCost>
-  <BuildTooltip_FloorTile>点击并拖拽以选定你要替换地板格的区域。 &右键点击并拖拽可取消命令。 </BuildTooltip_FloorTile>
-  <BuildTooltip_FloorTileCostNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。 </BuildTooltip_FloorTileCostNotEnoughMoney>
-  <BuildTooltip_FloorTileCost>花费：/b$%S/t </BuildTooltip_FloorTileCost>
-  <BuildTooltip_RemoveObjects>左键点击并拖拽以下令移除该区域的墙壁和物件。 &右键点击并拖拽以取消命令。 </BuildTooltip_RemoveObjects>
-  <BuildTooltip_RemoveFoundations>左键点击并拖拽以移除区域内的基建、墙面以及物件。 &右键点击并拖拽以取消命令。 </BuildTooltip_RemoveFoundations>
-  <BuildTooltip_RemoveRoadwork>左键点击并拖拽以下令移除区域内的道路。 &右键点击并拖拽以取消道路命令。 </BuildTooltip_RemoveRoadwork>
-  <BuildTooltip_FoundationsNotOverRoadwork>你不可在道路上建造。如果你真的需要建造，请先拆除道路。 </BuildTooltip_FoundationsNotOverRoadwork>
-  <BuildTooltip_Foundations>左键点击并拖拽以绘制建筑的边界。 &右键点击并拖拽以取消命令。 </BuildTooltip_Foundations>
-  <BuildTooltip_Foundations4x4Min>建筑至少需要4x4格大小。 </BuildTooltip_Foundations4x4Min>
-  <BuildTooltip_FoundationsCostNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。 </BuildTooltip_FoundationsCostNotEnoughMoney>
-  <BuildTooltip_FoundationsCost>花费：/b$%S/t </BuildTooltip_FoundationsCost>
+  <BuildTooltip_ClickToUnlockEntrance>点击解锁这段道路入口。花费：$%S</BuildTooltip_ClickToUnlockEntrance>
+  <BuildTooltip_DontHaveEnoughFunds>你的资金不足以解锁这段路口。花费：$%S</BuildTooltip_DontHaveEnoughFunds>
+  <BuildTooltip_ResearchToUnlockRoad>研究“道路网络”项目以解锁这个入口。</BuildTooltip_ResearchToUnlockRoad>
+  <BuildTooltip_RoadIsInaccessible>这条路无法抵达，需将其与主入口相连。</BuildTooltip_RoadIsInaccessible>
+  <BuildTooltip_AssignZoneDraw>左键点击并拖拽以指派一个区域。 &如果你划定的区域与现有区域重叠，且其类型相同， 则会扩张该区域。 &右键点击并拖拽会取消指派区域。</BuildTooltip_AssignZoneDraw>
+  <BuildTooltip_AssignZoneFill>左键点击以指派一个区域至当前选择。 &如果你划定的区域与现有区域重叠，且其类型相同， 则会扩张该区域。 &右键点击并拖拽会取消指派区域。</BuildTooltip_AssignZoneFill>
+  <BuildTooltip_AssignProducts>左键点击并拖拽可将商品上架至多个货架。</BuildTooltip_AssignProducts>
+  <BuildTooltip_AssignPatrols>左键点击以绘制或扩张巡逻点。 &右键点击可删除一个巡逻点。</BuildTooltip_AssignPatrols>
+  <BuildTooltip_AssignTags>左键点击并拖拽可以将商品挂上防盗标签。 &右键点击并拖拽可以移除防盗标签。</BuildTooltip_AssignTags>
+  <BuildTooltip_CantBuildOutOfMap>你不可在该区域内建造。</BuildTooltip_CantBuildOutOfMap>
+  <BuildTooltip_ObjectCostDontHaveEnoughMoney>花费：/b$%S/t - 你的资金不足以建造该物体。</BuildTooltip_ObjectCostDontHaveEnoughMoney>
+  <BuildTooltip_ObjectCantPlaceHere>你不可将该物体放置在此。</BuildTooltip_ObjectCantPlaceHere>
+  <BuildTooltip_ObjectMustPlaceInddors>你只能将该物体放置在室内。</BuildTooltip_ObjectMustPlaceInddors>
+  <BuildTooltip_ObjectMustPlaceOnWall>你只能将该物体挂在墙上。</BuildTooltip_ObjectMustPlaceOnWall>
+  <BuildTooltip_CounterLowQueue>花费：/b$%S/t。 &/b/c2最大队伍长度：%d。/t &/c0按/bQ/t键或者使用/b鼠标中键/t旋转 &右键点击可取消命令</BuildTooltip_CounterLowQueue>
+  <BuildTooltip_CounterMaxQueue>花费：/b$%S/t。 &最大队伍长度：%d。 &按/bQ/t键或者使用/b鼠标中键/t旋转 &右键点击可取消命令</BuildTooltip_CounterMaxQueue>
+  <BuildTooltip_ObjectCostCancel>花费：/b$%S/t。 &右键点击可取消命令</BuildTooltip_ObjectCostCancel>
+  <BuildTooltip_ObjectRotate>&按/bQ/t键或者使用/b鼠标中键/t旋转</BuildTooltip_ObjectRotate>
+  <BuildTooltip_RoadworkCantOverlapBuildings>道路不能与建筑物重叠。如果你真的要在这里修路， 请先拆除部分建筑。</BuildTooltip_RoadworkCantOverlapBuildings>
+  <BuildTooltip_RoadworkMustAlongside>只能沿着现有道路建造。</BuildTooltip_RoadworkMustAlongside>
+  <BuildTooltip_RoadworkCannot2x2>你不可建造2x2大小的道路。</BuildTooltip_RoadworkCannot2x2>
+  <BuildTooltip_RoadworkCannotCloseBusStops>你不可在相邻位置建造两个公交车站</BuildTooltip_RoadworkCannotCloseBusStops>
+  <BuildTooltip_RoadworkOrderCancel>左键点击并拖拽以下令建造道路。 &右键点击并拖拽以取消道路建造命令。</BuildTooltip_RoadworkOrderCancel>
+  <BuildTooltip_RoadworkOrderCancelCost>左键点击以下令建造道路。花费：$%S &右键点击并拖拽以取消道路建造命令。</BuildTooltip_RoadworkOrderCancelCost>
+  <BuildTooltip_RoadworkNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。</BuildTooltip_RoadworkNotEnoughMoney>
+  <BuildTooltip_RoadworkCost>花费：/b$%S/t</BuildTooltip_RoadworkCost>
+  <BuildTooltip_FloorTile>点击并拖拽以选定你要替换地板格的区域。 &右键点击并拖拽可取消命令。</BuildTooltip_FloorTile>
+  <BuildTooltip_FloorTileCostNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。</BuildTooltip_FloorTileCostNotEnoughMoney>
+  <BuildTooltip_FloorTileCost>花费：/b$%S/t</BuildTooltip_FloorTileCost>
+  <BuildTooltip_RemoveObjects>左键点击并拖拽以下令移除该区域的墙壁和物件。 &右键点击并拖拽以取消命令。</BuildTooltip_RemoveObjects>
+  <BuildTooltip_RemoveFoundations>左键点击并拖拽以移除区域内的基建、墙面以及物件。 &右键点击并拖拽以取消命令。</BuildTooltip_RemoveFoundations>
+  <BuildTooltip_RemoveRoadwork>左键点击并拖拽以下令移除区域内的道路。 &右键点击并拖拽以取消道路命令。</BuildTooltip_RemoveRoadwork>
+  <BuildTooltip_FoundationsNotOverRoadwork>你不可在道路上建造。如果你真的需要建造，请先拆除道路。</BuildTooltip_FoundationsNotOverRoadwork>
+  <BuildTooltip_Foundations>左键点击并拖拽以绘制建筑的边界。 &右键点击并拖拽以取消命令。</BuildTooltip_Foundations>
+  <BuildTooltip_Foundations4x4Min>建筑至少需要4x4格大小。</BuildTooltip_Foundations4x4Min>
+  <BuildTooltip_FoundationsCostNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。</BuildTooltip_FoundationsCostNotEnoughMoney>
+  <BuildTooltip_FoundationsCost>花费：/b$%S/t</BuildTooltip_FoundationsCost>
   <MarketingCampaign_Billboard>广告牌</MarketingCampaign_Billboard>
   <MarketingCampaign_Newspaper>本地报纸广告</MarketingCampaign_Newspaper>
   <MarketingCampaign_Radio>本地电台广告</MarketingCampaign_Radio>
@@ -1081,7 +1081,7 @@
   <Objective_PeakCustomers>商场内顾客人数达到%d人</Objective_PeakCustomers>
   <Objective_TotalSales>销售总量达到%d</Objective_TotalSales>
   <Tutorial_Intro1>你好，欢迎。 &你莫名地继承了这块面积巨大的土地。 &然而城市区域规划不允许在此建造住宅或工业区。 &发展商业区是你的唯一选择。</Tutorial_Intro1>
-  <Tutorial_Intro2>我们来看一下。 &使用WASD键或者箭头键来移动镜头。 &除此之外还可以按住鼠标中键移动。 &使用鼠标滚轮可以放大缩小画面。 &这也可以通过T键和G键完成。 </Tutorial_Intro2>
+  <Tutorial_Intro2>我们来看一下。 &使用WASD键或者箭头键来移动镜头。 &除此之外还可以按住鼠标中键移动。 &使用鼠标滚轮可以放大缩小画面。 &这也可以通过T键和G键完成。</Tutorial_Intro2>
   <Tutorial_Intro3>这个简短的教程会指引你开一家商店。 &那么我们开始吧！</Tutorial_Intro3>
   <Tutorial_Foundations>我们首先需要建造基建。 &在“建造”模式下选择“基建”。 &在指定的区域点击并拖拽，给你的工人下达建造命令。</Tutorial_Foundations>
   <Tutorial_WaitSpeed>很好。 &在继续之前我们需要等待基建的完成。 &你可以使用快进按钮加速游戏时间。</Tutorial_WaitSpeed>
@@ -1106,8 +1106,8 @@
   <Tutorial_OfficeHire>办公室职员会进行研究以及市场活动的工作。 &在“管理”模式下，于列表中选定你的办公室。 &点击“员工”标签页。 &雇佣两名办公室职员。</Tutorial_OfficeHire>
   <Tutorial_SendOff1>看起来像那么回事儿了！ &若想顺利扩张，这里有些提议： &不要让你的建筑师闲着！ &你的停车场很快就会满掉。 &建造更多的顾客停车场以接纳更多的客人。</Tutorial_SendOff1>
   <Tutorial_SendOff2>默认的商店营业时间可能过于保守。 &你可以让上班时间更早些或者下班时间再晚些。 &记得要雇几名在这期间上班的收银员。</Tutorial_SendOff2>
-  <Tutorial_SendOff3>提供多种多样的商品会吸引大量顾客。 &进行研究以解锁更受欢迎的产品，如新鲜食品，服装和酒。 &设立专门的商店以满足对稀有和名贵商品的需求。 </Tutorial_SendOff3>
-  <Tutorial_SendOff4>最后，设立非零售型店铺可以让你的顾客在这里待得更久。 &研究并建造餐厅、保龄球馆以及电影院，并成为最受欢迎的商圈。</Tutorial_SendOff4>
+  <Tutorial_SendOff3>提供多种多样的商品会吸引大量顾客。 &进行研究以解锁更受欢迎的产品，如新鲜食品，服装和酒。 &设立专门的商店以满足对稀有和名贵商品的需求。</Tutorial_SendOff3>
+  <Tutorial_SendOff4>最后，设立非零售型店铺可以让你的顾客在这里待得更久。 &研究并建造餐厅、保龄球馆以及电影院，并成为最受欢迎的 &商圈。</Tutorial_SendOff4>
   <Tutorial_SendOff5>感谢你进行完这个教程。 &现在你要靠自己了。 &提示和通知信息都是你的好朋友。 &让我们用钢筋水泥和资本主义填满这块土地吧。</Tutorial_SendOff5>
   <TutorialHint_Build>建造</TutorialHint_Build>
   <TutorialHint_BuildA>在这里建造</TutorialHint_BuildA>
@@ -1172,16 +1172,16 @@
   <ScenarioObjectiveMenu_Roadwork>建造道路</ScenarioObjectiveMenu_Roadwork>
   <ScenarioObjectiveMenu_Rats>没有老鼠</ScenarioObjectiveMenu_Rats>
   <ScenarioObjectiveDisplay_None>无</ScenarioObjectiveDisplay_None>
-  <ScenarioObjectiveDisplay_Build>建造%dx个%s</ScenarioObjectiveDisplay_Build>
-  <ScenarioObjectiveDisplay_Hire>雇佣%dx名%s</ScenarioObjectiveDisplay_Hire>
+  <ScenarioObjectiveDisplay_Build>建造%d个%s</ScenarioObjectiveDisplay_Build>
+  <ScenarioObjectiveDisplay_Hire>雇佣%d名%s</ScenarioObjectiveDisplay_Hire>
   <ScenarioObjectiveDisplay_Research>研究“%s”项目</ScenarioObjectiveDisplay_Research>
-  <ScenarioObjectiveDisplay_Sell>卖出%dx个%s</ScenarioObjectiveDisplay_Sell>
+  <ScenarioObjectiveDisplay_Sell>卖出%d个%s</ScenarioObjectiveDisplay_Sell>
   <ScenarioObjectiveDisplay_Funds>现金达到$%d</ScenarioObjectiveDisplay_Funds>
   <ScenarioObjectiveDisplay_ProductTypes>卖出%d种不同的商品</ScenarioObjectiveDisplay_ProductTypes>
   <ScenarioObjectiveDisplay_DailyProfit>每日利润达到了$%d</ScenarioObjectiveDisplay_DailyProfit>
   <ScenarioObjectiveDisplay_PeakCustomers>商场内共有%d名顾客</ScenarioObjectiveDisplay_PeakCustomers>
   <ScenarioObjectiveDisplay_Satisfaction>平均满意度达到%d%%</ScenarioObjectiveDisplay_Satisfaction>
-  <ScenarioObjectiveDisplay_Roadwork>建造%dx个%s</ScenarioObjectiveDisplay_Roadwork>
+  <ScenarioObjectiveDisplay_Roadwork>建造%d个%s</ScenarioObjectiveDisplay_Roadwork>
   <ScenarioObjectiveDisplay_Rats>消灭老鼠</ScenarioObjectiveDisplay_Rats>
   <WorkshopMenu_UploadNewScenario>将新剧本上传至创意工坊</WorkshopMenu_UploadNewScenario>
   <WorkshopMenu_UpdateScenario>更新创意工坊的剧本</WorkshopMenu_UpdateScenario>
