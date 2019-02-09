@@ -600,6 +600,8 @@
   <ResearchProject_Logistics>Logistics</ResearchProject_Logistics>
   <ResearchProject_CleaningTech>Cleaning technology</ResearchProject_CleaningTech>
 
+  <ResearchProject_UndergroundParking>Underground parking</ResearchProject_UndergroundParking>
+  
   <ResearchProjectDescription_Researchbasics>Unlocks the base research projects</ResearchProjectDescription_Researchbasics>
   <ResearchProjectDescription_Coldchain>Unlocks the following products: &Fresh fruits &Fresh vegetables &Fresh meat &Fresh fish &Milk &Dairy</ResearchProjectDescription_Coldchain>
   <ResearchProjectDescription_Alcohollicense>Unlocks the following products: &Beer &Liquor &Wine</ResearchProjectDescription_Alcohollicense>
@@ -644,6 +646,8 @@
   <ResearchProjectDescription_Logistics>Allows deliveries of 4 crates at a time instead of 2</ResearchProjectDescription_Logistics>
   <ResearchProjectDescription_CleaningTech>Unlocks automatic floor scrubbers for your janitors</ResearchProjectDescription_CleaningTech>
 
+  <ResearchProjectDescription_UndergroundParking>Allows the construction of underground parkings</ResearchProjectDescription_UndergroundParking>
+    
   <ZoneName_Storage>Storage</ZoneName_Storage>
   <ZoneName_Store>Store</ZoneName_Store>
   <ZoneName_FastFoodRestaurant>Fast Food Restaurant</ZoneName_FastFoodRestaurant>
@@ -1117,6 +1121,7 @@
   <BuildRoadwork_StaffOnlyParking>Staff-only Parking</BuildRoadwork_StaffOnlyParking>
   <BuildRoadwork_GarbagePickup>Garbage Pickup</BuildRoadwork_GarbagePickup>
   <BuildRoadwork_BusStop>Bus Stop</BuildRoadwork_BusStop>
+  <BuildRoadwork_UndergroundParking>Underground Parking</BuildRoadwork_UndergroundParking>
 
   <BuildRoadwork_LockedRequiresPorject>/c2/bLOCKED - Requires project '%s' </BuildRoadwork_LockedRequiresPorject>
   <BuildRoadwork_LockedReachedMax>/c2/bLOCKED - You reached the maximum number of bus stops (%d) </BuildRoadwork_LockedReachedMax>
@@ -1146,6 +1151,8 @@
 
   <Notification_Stocks>/bMissed sales opportunities: Out of stock (%02d:%02d) &Occurences: %d &/tCustomers are leaving /b%s /twithout buying anything because some products are out of stock/t. &Hire stock clerks and make sure your storage has enough capacity to prevent this &Left-Click to focus &Right-Click to dismiss </Notification_Stocks>
   <Notification_Rats>/bInfestation warning: Rats (%02d:%02d) &Occurences: %d &/tRats are spawning at your center due to the squalor and unhandled trash bags/t. &Build maintenance centers and hire builders to get rid of the rats &Also hire janitors to prevent rats from spawning in the first place &Left-Click to focus &Right-Click to dismiss </Notification_Rats>
+
+  <Notification_UParkingComplete>/bUnderground parking construction complete &/tLeft-Click to focus &Right-Click to dismiss </Notification_UParkingComplete>
 
   <PromptNotif_Research>/bRESEARCH PROJECT COMPLETE</PromptNotif_Research>
   <PromptNotif_Objective>/bOBJECTIVE COMPLETE</PromptNotif_Objective>
@@ -1232,6 +1239,7 @@
   <BuildTooltip_RoadworkOrderCancelCost>Left-Click to order building roadwork. Cost: $%S &Right-Click and drag to cancel roadwork orders. </BuildTooltip_RoadworkOrderCancelCost>
   <BuildTooltip_RoadworkNotEnoughMoney>Cost: /b$%S/t - You don't have enough money to build this. </BuildTooltip_RoadworkNotEnoughMoney>
   <BuildTooltip_RoadworkCost>Cost: /b$%S/t </BuildTooltip_RoadworkCost>
+  <BuildTooltip_RoadworkUnderground>You cannot build an underground parking here. </BuildTooltip_RoadworkUnderground>
 
   <BuildTooltip_FloorTile>Click and drag to select the area where you want the floor tiles changed. &Right-Click and drag to cancel orders. </BuildTooltip_FloorTile>
   <BuildTooltip_FloorTileCostNotEnoughMoney>Cost: /b$%S/t - You don't have enough money to build this. </BuildTooltip_FloorTileCostNotEnoughMoney>
