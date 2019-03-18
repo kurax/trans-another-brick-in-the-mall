@@ -183,10 +183,11 @@
   <GameMenuResearch_Status>状态：</GameMenuResearch_Status>
   <GameMenuResearch_ManHours>%d/%d 工时</GameMenuResearch_ManHours>
   <GameMenuResearch_Description>说明：</GameMenuResearch_Description>
-  <GameMenuResearch_CompletedProject>/b该项目已完成研究</GameMenuResearch_CompletedProject>
-  <GameMenuResearch_NoPrerequisites>/b你尚未满足研究该项目所需的前置条件</GameMenuResearch_NoPrerequisites>
-  <GameMenuResearch_ResearchingProject>/b你正在研究该项目（还剩余%d个工时）</GameMenuResearch_ResearchingProject>
+  <GameMenuResearch_CompletedProject>该项目已完成研究</GameMenuResearch_CompletedProject>
+  <GameMenuResearch_NoPrerequisites>你尚未满足研究该项目所需的前置条件</GameMenuResearch_NoPrerequisites>
+  <GameMenuResearch_ResearchingProject>你正在研究该项目（还剩余%d个工时）</GameMenuResearch_ResearchingProject>
   <GameMenuResearch_ResearchThisProject>研究该项目</GameMenuResearch_ResearchThisProject>
+  <GameMenuResearch_ClickToResearch>左键点击开始研究 </GameMenuResearch_ClickToResearch>
   <GameMenuNeeds_UnlockMonitoring>研究“销售监控”项目以查看销售与需求数据。</GameMenuNeeds_UnlockMonitoring>
   <GameMenuNeeds_Filter>/b分类</GameMenuNeeds_Filter>
   <GameMenuNeeds_OnDisplay>上架：/b%d</GameMenuNeeds_OnDisplay>
@@ -544,7 +545,7 @@
   <ResearchProjectDescription_CoffeShop>解锁咖啡厅</ResearchProjectDescription_CoffeShop>
   <ResearchProjectDescription_Logistics>允许单次运输量从2提升到4</ResearchProjectDescription_Logistics>
   <ResearchProjectDescription_CleaningTech>为保洁员解锁自动拖地机</ResearchProjectDescription_CleaningTech>
-  <ResearchProjectDescription_UndergroundParking>Allows the construction of underground parkings</ResearchProjectDescription_UndergroundParking>
+  <ResearchProjectDescription_UndergroundParking>允许建造地下停车场</ResearchProjectDescription_UndergroundParking>
   <ZoneName_Storage>仓库</ZoneName_Storage>
   <ZoneName_Store>商店</ZoneName_Store>
   <ZoneName_FastFoodRestaurant>快餐餐厅</ZoneName_FastFoodRestaurant>
@@ -673,8 +674,8 @@
   <ProductSubType_Entertainment>娱乐</ProductSubType_Entertainment>
   <ProductSubType_Food>食品</ProductSubType_Food>
   <ProductSubType_Beverages>饮料</ProductSubType_Beverages>
-  <ProductSubType_HouseholdItems>居家物品</ProductSubType_HouseholdItems>
-  <ProductSubType_HealthandBeauty>保健与美妆</ProductSubType_HealthandBeauty>
+  <ProductSubType_HouseholdItems>家居用品</ProductSubType_HouseholdItems>
+  <ProductSubType_HealthandBeauty>药妆</ProductSubType_HealthandBeauty>
   <ProductSubType_Tools>工具与材料</ProductSubType_Tools>
   <ProductSubType_ElectronicsandAppliances>电子产品与电器</ProductSubType_ElectronicsandAppliances>
   <ProductSubType_Clothing>服装</ProductSubType_Clothing>
@@ -685,6 +686,17 @@
   <ProductSubType_SportsAndOutdoors>运动与户外</ProductSubType_SportsAndOutdoors>
   <ProductSubType_Toys>玩具与游戏</ProductSubType_Toys>
   <ProductSubType_Services>服务</ProductSubType_Services>
+  <CategoryStore_Food>杂货店</CategoryStore_Food>
+  <CategoryStore_HouseholdItems>家居用品店</CategoryStore_HouseholdItems>
+  <CategoryStore_HealthandBeauty>药妆店</CategoryStore_HealthandBeauty>
+  <CategoryStore_Tools>工具商店</CategoryStore_Tools>
+  <CategoryStore_ElectronicsandAppliances>电子产品商店</CategoryStore_ElectronicsandAppliances>
+  <CategoryStore_Clothing>服装店</CategoryStore_Clothing>
+  <CategoryStore_Media>音像店</CategoryStore_Media>
+  <CategoryStore_Press>书报亭</CategoryStore_Press>
+  <CategoryStore_Gardening>园艺工具商店</CategoryStore_Gardening>
+  <CategoryStore_SportsAndOutdoors>运动商品店</CategoryStore_SportsAndOutdoors>
+  <CategoryStore_Toys>玩具店</CategoryStore_Toys>
   <ProductName_FastFood>快餐</ProductName_FastFood>
   <ProductName_CasualDining>简餐</ProductName_CasualDining>
   <ProductName_FineDining>高档正餐</ProductName_FineDining>
@@ -781,6 +793,23 @@
   <ProductName_BoardGames>桌游</ProductName_BoardGames>
   <ProductName_ActionFigures>可动手办</ProductName_ActionFigures>
   <ProductName_VanillaReserved>预留的未修改商品</ProductName_VanillaReserved>
+  <Specialty_Liquor>酒类商店</Specialty_Liquor>
+  <Specialty_Meat>肉食店</Specialty_Meat>
+  <Specialty_Fish>海鲜店</Specialty_Fish>
+  <Specialty_Cosmetics>美妆店</Specialty_Cosmetics>
+  <Specialty_Books>书店</Specialty_Books>
+  <Specialty_VideoGames>游戏店</Specialty_VideoGames>
+  <Specialty_Drugs>药店</Specialty_Drugs>
+  <Specialty_WomenShoes>女鞋店</Specialty_WomenShoes>
+  <Specialty_Bread>面包店</Specialty_Bread>
+  <Specialty_Jewelry>珠宝店</Specialty_Jewelry>
+  <Specialty_Phones>电话商店</Specialty_Phones>
+  <Specialty_Cameras>摄影器材商店</Specialty_Cameras>
+  <Specialty_Lingerie>内衣商店</Specialty_Lingerie>
+  <Specialty_ComicBooks>漫画书店</Specialty_ComicBooks>
+  <Specialty_Tobacco>烟草店</Specialty_Tobacco>
+  <Specialty_ECigs>电子烟商店</Specialty_ECigs>
+  <Specialty_Flowers>花店</Specialty_Flowers>
   <Events_NoEvent>/b近期没有事件</Events_NoEvent>
   <Events_CurrentEvent>/b当前事件</Events_CurrentEvent>
   <Events_UpcomingEvents>/b即将到来的事件</Events_UpcomingEvents>
@@ -951,7 +980,7 @@
   <BuildRoadwork_StaffOnlyParking>员工停车场</BuildRoadwork_StaffOnlyParking>
   <BuildRoadwork_GarbagePickup>垃圾装载区</BuildRoadwork_GarbagePickup>
   <BuildRoadwork_BusStop>公交车站</BuildRoadwork_BusStop>
-  <BuildRoadwork_UndergroundParking>Underground Parking</BuildRoadwork_UndergroundParking>
+  <BuildRoadwork_UndergroundParking>地下停车库</BuildRoadwork_UndergroundParking>
   <BuildRoadwork_LockedRequiresPorject>/c2/b已锁定 - 需要研究项目“%s”</BuildRoadwork_LockedRequiresPorject>
   <BuildRoadwork_LockedReachedMax>/c2/b已锁定 - 你已达到最大允许建造的公交车站数量（%d）</BuildRoadwork_LockedReachedMax>
   <BuildObjects_DisplayAndSell>&可用于展示和出售：</BuildObjects_DisplayAndSell>
@@ -975,7 +1004,14 @@
   <Notification_NewObjective>/b新任务目标：%ls &/t任务奖励：$%S &/t左键点击删除消息</Notification_NewObjective>
   <Notification_Stocks>/b错失销售机会：库存不足（%02d:%02d） &出现次数：%d &/t顾客未购买任何东西就离开了/b%s/t， 因为东西卖完了 &雇佣更多的库管员并保证库存充足以避免这种情况发生 &左键点击前往事件地点 &右键点击删除消息</Notification_Stocks>
   <Notification_Rats>/b瘟疫警报：老鼠（%02d:%02d） &出现次数：%d &/t由于地面脏乱外加垃圾无人处理，鼠害正在商场中滋生 &建造维护中心并雇佣建筑师前来灭鼠 &同时也要雇佣保洁员来确保老鼠不会出现 &左键点击前往事件地点 &右键点击删除消息</Notification_Rats>
-  <Notification_UParkingComplete>/bUnderground parking construction complete &/tLeft-Click to focus &Right-Click to dismiss </Notification_UParkingComplete>
+  <Notification_UParkingComplete>/b地下停车库建造完成 &/t左键点击前往事件地点 &右键点击删除消息</Notification_UParkingComplete>
+  <Notification_WordOfMouth1>/b坊间传言（第%d天） &人们最想要的新商品：</Notification_WordOfMouth1>
+  <Notification_WordOfMouth2> &研究“销售监控”可查看商品需求的详细分析 </Notification_WordOfMouth2>
+  <Notification_WordOfMouth3> &右键点击删除消息 </Notification_WordOfMouth3>
+  <Notification_Instructions> &开一间销售%s超过50%%的店以创建%s </Notification_Instructions>
+  <Notification_Category> &商店分类： </Notification_Category>
+  <Notification_Specialty> &特殊商店： </Notification_Specialty>
+  <Notification_NonRetail> &非零售店： </Notification_NonRetail>
   <PromptNotif_Research>/b研究项目已完成</PromptNotif_Research>
   <PromptNotif_Objective>/b任务目标已完成</PromptNotif_Objective>
   <PromptNotif_ObjectiveMsg>%ls &/t任务奖励：$%S</PromptNotif_ObjectiveMsg>
@@ -1042,7 +1078,7 @@
   <BuildTooltip_RoadworkOrderCancelCost>左键点击以下令建造道路。花费：$%S &右键点击并拖拽以取消道路建造命令。</BuildTooltip_RoadworkOrderCancelCost>
   <BuildTooltip_RoadworkNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。</BuildTooltip_RoadworkNotEnoughMoney>
   <BuildTooltip_RoadworkCost>花费：/b$%S/t</BuildTooltip_RoadworkCost>
-  <BuildTooltip_RoadworkUnderground>You cannot build an underground parking here. </BuildTooltip_RoadworkUnderground>
+  <BuildTooltip_RoadworkUnderground>你不可在这里建造地下停车库。 </BuildTooltip_RoadworkUnderground>
   <BuildTooltip_FloorTile>点击并拖拽以选定你要替换地板格的区域。 &右键点击并拖拽可取消命令。</BuildTooltip_FloorTile>
   <BuildTooltip_FloorTileCostNotEnoughMoney>花费：/b$%S/t - 你没有足够的资金进行建造。</BuildTooltip_FloorTileCostNotEnoughMoney>
   <BuildTooltip_FloorTileCost>花费：/b$%S/t</BuildTooltip_FloorTileCost>
@@ -1268,4 +1304,12 @@
   <Workshop_ItemUploaded>创意工坊物品已成功上传。 你现在可以在工坊页面进行标题、 说明等内容的修改。</Workshop_ItemUploaded>
   <UploadMods_UploadUpdate>上传/更新创意工坊的MOD</UploadMods_UploadUpdate>
   <UploadMods_NoMods>没有可以上传的MOD。</UploadMods_NoMods>
+  <SpecialtyTooltip_NoStore>开一间%s以满足该产品的3级需求 </SpecialtyTooltip_NoStore>
+  <SpecialtyTooltip_Exists>你有一间%s </SpecialtyTooltip_Exists>
+  <SpecialtyTooltip_Instructions>开一间销售%s超过50%%的店以创建%s </SpecialtyTooltip_Instructions>
+  <ObjectTooltip_QueueObstructed>该设施的排队区域被挡住了，顾客无法使用。 </ObjectTooltip_QueueObstructed>
+  <ZoneTooltip_NoCapacity>存储区域太小了，存储空间不足。 &最小的空间要求是3x3的面积。 </ZoneTooltip_NoCapacity>
+  <Tooltip_ParkingUnderConstruction>地下车库正在建造中，将在%d小时后完成 </Tooltip_ParkingUnderConstruction>
+  <AchievementName_MakeASale>谢谢，欢迎再次光临！</AchievementName_MakeASale>
+  <AchievementDesc_MakeASale>卖出了第一笔货物</AchievementDesc_MakeASale>
 </LanguageData>

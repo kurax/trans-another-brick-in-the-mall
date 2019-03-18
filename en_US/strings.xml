@@ -239,10 +239,12 @@
   <GameMenuResearch_Status>Status:</GameMenuResearch_Status>
   <GameMenuResearch_ManHours>%d/%d man-hours</GameMenuResearch_ManHours>
   <GameMenuResearch_Description>Description:</GameMenuResearch_Description>
-  <GameMenuResearch_CompletedProject>/bYou have completed this project</GameMenuResearch_CompletedProject>
-  <GameMenuResearch_NoPrerequisites>/bYou don't have the prerequisite(s) to research this project</GameMenuResearch_NoPrerequisites>
-  <GameMenuResearch_ResearchingProject>/bYou are researching this project (%d man-hours left)</GameMenuResearch_ResearchingProject>
+  <GameMenuResearch_CompletedProject>You have completed this project</GameMenuResearch_CompletedProject>
+  <GameMenuResearch_NoPrerequisites>You don't have the prerequisite(s) to research this project</GameMenuResearch_NoPrerequisites>
+  <GameMenuResearch_ResearchingProject>You are researching this project (%d man-hours left)</GameMenuResearch_ResearchingProject>
   <GameMenuResearch_ResearchThisProject>RESEARCH THIS PROJECT</GameMenuResearch_ResearchThisProject>
+
+  <GameMenuResearch_ClickToResearch>Left-Click to research </GameMenuResearch_ClickToResearch>
 
   <GameMenuNeeds_UnlockMonitoring>Research the 'Sales Monitoring' project to access &sales and demand data.</GameMenuNeeds_UnlockMonitoring>
   
@@ -796,7 +798,7 @@
   <ProductSubType_Entertainment>Entertainment</ProductSubType_Entertainment>
   <ProductSubType_Food>Food</ProductSubType_Food>
   <ProductSubType_Beverages>Beverages</ProductSubType_Beverages>
-  <ProductSubType_HouseholdItems>Household Items</ProductSubType_HouseholdItems>
+  <ProductSubType_HouseholdItems>Household Goods</ProductSubType_HouseholdItems>
   <ProductSubType_HealthandBeauty>Health and Beauty</ProductSubType_HealthandBeauty>
   <ProductSubType_Tools>Tools and Materials</ProductSubType_Tools>
   <ProductSubType_ElectronicsandAppliances>Electronics and Appliances</ProductSubType_ElectronicsandAppliances>
@@ -811,6 +813,21 @@
   <ProductSubType_Toys>Toys and Games</ProductSubType_Toys>
   <ProductSubType_Services>Services</ProductSubType_Services>
 
+
+  <CategoryStore_Food>Grocery Store</CategoryStore_Food>
+  <CategoryStore_HouseholdItems>Household Goods Store</CategoryStore_HouseholdItems>
+  <CategoryStore_HealthandBeauty>Health and Beauty Store</CategoryStore_HealthandBeauty>
+  <CategoryStore_Tools>Hardware Store</CategoryStore_Tools>
+  <CategoryStore_ElectronicsandAppliances>Electronics and Appliances Store</CategoryStore_ElectronicsandAppliances>
+  <CategoryStore_Clothing>Clothes Store</CategoryStore_Clothing>
+  <CategoryStore_Media>Media Store</CategoryStore_Media>
+
+  <CategoryStore_Press>Newsagent</CategoryStore_Press>
+  <CategoryStore_Gardening>Gardening Store</CategoryStore_Gardening>
+
+  <CategoryStore_SportsAndOutdoors>Sporting Goods Store</CategoryStore_SportsAndOutdoors>
+  <CategoryStore_Toys>Toy Store</CategoryStore_Toys>
+  
 
   <ProductName_FastFood>Fast Food</ProductName_FastFood>
   <ProductName_CasualDining>Casual Dining</ProductName_CasualDining>
@@ -914,6 +931,24 @@
   <ProductName_ActionFigures>Action Figures</ProductName_ActionFigures>
 
   <ProductName_VanillaReserved>Reserved Vanilla Product</ProductName_VanillaReserved>
+
+  <Specialty_Liquor>Liquor Store</Specialty_Liquor>
+  <Specialty_Meat>Butcher Shop</Specialty_Meat>
+  <Specialty_Fish>Fish Shop</Specialty_Fish>
+  <Specialty_Cosmetics>Beauty Shop</Specialty_Cosmetics>
+  <Specialty_Books>Book Store</Specialty_Books>
+  <Specialty_VideoGames>Video Games Store</Specialty_VideoGames>
+  <Specialty_Drugs>Pharmacy</Specialty_Drugs>
+  <Specialty_WomenShoes>Women Shoes Shop</Specialty_WomenShoes>
+  <Specialty_Bread>Bakery</Specialty_Bread>
+  <Specialty_Jewelry>Jewelry Store</Specialty_Jewelry>
+  <Specialty_Phones>Phone Shop</Specialty_Phones>
+  <Specialty_Cameras>Camera Store</Specialty_Cameras>
+  <Specialty_Lingerie>Lingerie Store</Specialty_Lingerie>
+  <Specialty_ComicBooks>Comic Book Store</Specialty_ComicBooks>
+  <Specialty_Tobacco>Tobacco Shop</Specialty_Tobacco>
+  <Specialty_ECigs>Vape Shop</Specialty_ECigs>
+  <Specialty_Flowers>Flower Shop</Specialty_Flowers>
   
   <Events_NoEvent>/bNo upcoming event</Events_NoEvent>
   <Events_CurrentEvent>/bCurrent event</Events_CurrentEvent>
@@ -1154,6 +1189,17 @@
 
   <Notification_UParkingComplete>/bUnderground parking construction complete &/tLeft-Click to focus &Right-Click to dismiss </Notification_UParkingComplete>
 
+  <Notification_WordOfMouth1>/bWord of mouth (Day %d) &New business(es) people want the most: </Notification_WordOfMouth1>
+  <Notification_WordOfMouth2> &Research the 'Sales monitoring' project to access a more detailed breakdown of demand </Notification_WordOfMouth2>
+  <Notification_WordOfMouth3> &Right-Click to dismiss </Notification_WordOfMouth3>
+
+  <Notification_Instructions> &Open a store with over 50%% of %s to create a %s </Notification_Instructions>
+  
+  <Notification_Category> &Category store: </Notification_Category>
+  <Notification_Specialty> &Specialty store: </Notification_Specialty>
+  <Notification_NonRetail> &Non-retail business: </Notification_NonRetail>
+  
+  
   <PromptNotif_Research>/bRESEARCH PROJECT COMPLETE</PromptNotif_Research>
   <PromptNotif_Objective>/bOBJECTIVE COMPLETE</PromptNotif_Objective>
   <PromptNotif_ObjectiveMsg>%ls &/tReward: $%S</PromptNotif_ObjectiveMsg>
@@ -1520,5 +1566,20 @@ And yet, surely, there is room for improvement...
   
   <UploadMods_UploadUpdate>UPLOAD/UPDATE MOD ON THE WORKSHOP</UploadMods_UploadUpdate>
   <UploadMods_NoMods>There are no mods to upload.</UploadMods_NoMods>
+
+  <SpecialtyTooltip_NoStore>Open a %s to satisfy tier 3 demand for this product </SpecialtyTooltip_NoStore>
+  <SpecialtyTooltip_Exists>You have a %s </SpecialtyTooltip_Exists>
+  <SpecialtyTooltip_Instructions>Open a store with over 50%% of %s to create a %s </SpecialtyTooltip_Instructions>
+
+  <ObjectTooltip_QueueObstructed>The queue area for this object is obstructed by objects or walls. Customers will not be able to access this object. </ObjectTooltip_QueueObstructed>
+
+  <ZoneTooltip_NoCapacity>This storage is too small to have any capacity. &A storage area surrounded by walls should be 3x3 at minimum. </ZoneTooltip_NoCapacity>
+
+  <Tooltip_ParkingUnderConstruction>This underground parking is under construction and will be completed in %d hours </Tooltip_ParkingUnderConstruction>
+  
+  <AchievementName_MakeASale>Thank you, come again!</AchievementName_MakeASale>
+  <AchievementDesc_MakeASale>Make your first sale</AchievementDesc_MakeASale>
+  <AchievementName_></AchievementName_>
+  <AchievementDesc_></AchievementDesc_>
 
 </LanguageData>
