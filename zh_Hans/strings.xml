@@ -505,7 +505,7 @@
   <ResearchProject_CoffeShop>咖啡厅</ResearchProject_CoffeShop>
   <ResearchProject_Logistics>物流技术</ResearchProject_Logistics>
   <ResearchProject_CleaningTech>保洁科技</ResearchProject_CleaningTech>
-  <ResearchProject_UndergroundParking>Underground parking</ResearchProject_UndergroundParking>
+  <ResearchProject_UndergroundParking>地下停车库</ResearchProject_UndergroundParking>
   <ResearchProjectDescription_Researchbasics>解锁基础研究项目</ResearchProjectDescription_Researchbasics>
   <ResearchProjectDescription_Coldchain>解锁以下产品： &新鲜水果 &新鲜蔬菜 &新鲜肉类 &新鲜鱼类 &牛奶 &乳制品</ResearchProjectDescription_Coldchain>
   <ResearchProjectDescription_Alcohollicense>解锁以下产品： &啤酒 &白酒 &红酒</ResearchProjectDescription_Alcohollicense>
@@ -545,7 +545,7 @@
   <ResearchProjectDescription_CoffeShop>解锁咖啡厅</ResearchProjectDescription_CoffeShop>
   <ResearchProjectDescription_Logistics>允许单次运输量从2提升到4</ResearchProjectDescription_Logistics>
   <ResearchProjectDescription_CleaningTech>为保洁员解锁自动拖地机</ResearchProjectDescription_CleaningTech>
-  <ResearchProjectDescription_UndergroundParking>允许建造地下停车场</ResearchProjectDescription_UndergroundParking>
+  <ResearchProjectDescription_UndergroundParking>允许建造地下停车库</ResearchProjectDescription_UndergroundParking>
   <ZoneName_Storage>仓库</ZoneName_Storage>
   <ZoneName_Store>商店</ZoneName_Store>
   <ZoneName_FastFoodRestaurant>快餐餐厅</ZoneName_FastFoodRestaurant>
