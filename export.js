@@ -8,3 +8,4 @@ Object.keys(translated).forEach(key => root.ele(key, {}, translated[key]));
 
 const xml = root.end({ pretty: true }).replace(/&#xD;/g, '').replace(/&amp;/g, '&');
 fs.writeFileSync('./zh_Hans/strings.xml', xml);
+fs.writeFileSync('./workshop/out/language/Simplified Chinese/strings.xml', xml);
